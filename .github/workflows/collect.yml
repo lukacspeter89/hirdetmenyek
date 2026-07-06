@@ -62,11 +62,4 @@ jobs:
       # A 60 napos inaktivitási szabály ellen: ha 45+ napja nem volt commit,
       # üres keepalive-commitot teszünk (külső action nélkül)
       - name: Keepalive
-        run: |
-          last=$(git log -1 --format=%ct)
-          now=$(date +%s)
-          if [ $(( (now - last) / 86400 )) -ge 45 ]; then
-            git commit --allow-empty -m "keepalive"
-            git push
-          fi
-
+    
