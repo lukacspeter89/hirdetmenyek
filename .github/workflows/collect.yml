@@ -1,0 +1,64 @@
+name: Gyűjtés (ID-bejáró)
+
+on:
+  schedule:
+    # Munkanapokon 15 percenként 6-20h (Bp. idő; a cron UTC-ben fut:
+    # 4-18 UTC lefedi a CEST 6-20h-t, télen 5-19h-t — bőven jó)
+    - cron: "*/15 4-18 * * 1-5"
+    # Egyébként (éjjel + hétvége) óránként
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+# Két ütemezés átfedésénél se fusson kettő párhuzamosan
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Gyűjtés futtatása
+        id: run
+        run: |
+          set +e
+          python scripts/collect.py
+          code=$?
+          # 2 = rate-limit miatt állt le; a részeredményt akkor is commitoljuk
+          if [ "$code" != "0" ] && [ "$code" != "2" ]; then exit "$code"; fi
+          echo "ratelimited=$([ "$code" = "2" ] && echo yes || echo no)" >> "$GITHUB_OUTPUT"
+
+      - name: Adatok commitolása
+        run: |
+          git config user.name "hirdetmeny-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nincs változás."
+          else
+            git commit -m "adat: gyűjtés $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
+            git push
+          fi
+
+      - name: Figyelmeztetés rate-limit esetén
+        if: steps.run.outputs.ratelimited == 'yes'
+        run: echo "::warning::A gov.hu 403/429-et adott — a futás korán leállt, a következő ütemezés folytatja."
+
+      # A 60 napos inaktivitási szabály ellen (a bot-commit önmagában nem
+      # feltétlenül számít aktivitásnak)
+      - uses: gautamkrishnar/keepalive-workflow@v2
