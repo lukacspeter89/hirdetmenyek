@@ -1,0 +1,92 @@
+{
+ "Balatonújlak": {
+  "jaras": null,
+  "lat": 46.67598,
+  "lon": 17.38305,
+  "megye": "Somogy vármegye"
+ },
+ "Heves": {
+  "jaras": null,
+  "lat": 47.78844,
+  "lon": 20.17144,
+  "megye": "Heves vármegye"
+ },
+ "Kaposmérő": {
+  "jaras": null,
+  "lat": 46.36126,
+  "lon": 17.70553,
+  "megye": "Somogy vármegye"
+ },
+ "Kecskéd": {
+  "jaras": null,
+  "lat": 47.52402,
+  "lon": 18.3076,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Kozárd": {
+  "jaras": null,
+  "lat": 47.91402,
+  "lon": 19.61821,
+  "megye": "Nógrád vármegye"
+ },
+ "Kéthely": {
+  "jaras": null,
+  "lat": 46.64694,
+  "lon": 17.39333,
+  "megye": "Somogy vármegye"
+ },
+ "Lepsény": {
+  "jaras": null,
+  "lat": 46.99467,
+  "lon": 18.24436,
+  "megye": "Fejér vármegye"
+ },
+ "Orosháza": {
+  "jaras": null,
+  "lat": 46.55828,
+  "lon": 20.67201,
+  "megye": "Békés vármegye"
+ },
+ "Palotás": {
+  "jaras": null,
+  "lat": 47.79542,
+  "lon": 19.59553,
+  "megye": "Nógrád vármegye"
+ },
+ "Perbál": {
+  "jaras": null,
+  "lat": 47.59125,
+  "lon": 18.7598,
+  "megye": "Pest vármegye"
+ },
+ "Szentendre": {
+  "jaras": null,
+  "lat": 47.66776,
+  "lon": 19.07605,
+  "megye": "Pest vármegye"
+ },
+ "Szápár": {
+  "jaras": null,
+  "lat": 47.31719,
+  "lon": 18.03713,
+  "megye": "Veszprém vármegye"
+ },
+ "Tarnaszentmária": {
+  "jaras": null,
+  "lat": 47.87887,
+  "lon": 20.20225,
+  "megye": "Heves vármegye"
+ },
+ "Verpelét": {
+  "jaras": null,
+  "lat": 47.84901,
+  "lon": 20.22791,
+  "megye": "Heves vármegye"
+ },
+ "Vállaj": {
+  "jaras": null,
+  "lat": 47.76416,
+  "lon": 22.38218,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ }
+}
