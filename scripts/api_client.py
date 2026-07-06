@@ -176,4 +176,4 @@ def parse_detail(ad_id: int, data: dict) -> dict:
         "link": f"https://hirdetmenyek.gov.hu/reszletezo/{ad_id}",
         "csatolmanyok": [c.get("id") for c in (data.get("csatolmanyok") or [])
                          if c.get("id") is not None],
-  
+  }

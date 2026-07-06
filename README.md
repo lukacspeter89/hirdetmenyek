@@ -1,8 +1,9 @@
-# Hirdetmény-térkép — adatgyűjtő (M0 + M1)
+# Hirdetmény-térkép (M0 + M1 + M2)
 
 Földhivatali hirdetmények (adás-vétel + haszonbérlet) automatikus gyűjtése a
-hirdetmenyek.gov.hu oldalról, GitHub Actions-szel. Ez a repo a térkép-projekt
-adat-oldala; a térkép (GitHub Pages) az M2 mérföldkőben épül rá.
+hirdetmenyek.gov.hu oldalról GitHub Actions-szel, és interaktív térkép
+(GitHub Pages): kártyás kereső, szűrők, járáson belül normalizált
+zöld→piros Ft/ha színskála.
 
 ## Hogyan működik
 
@@ -78,3 +79,25 @@ Ft/ha színskálára: `aranykorona_alapu_dij`, `termeny_alapu_dij`,
 pip install -r requirements.txt
 python -m pytest tests/ -v
 ```
+
+## Térkép (M2)
+
+A `index.html` egy önálló, egyfájlos Leaflet-térkép, amely közvetlenül a repo
+`data/` mappáját olvassa — build-lépés nincs.
+
+**Bekapcsolás:** Settings → Pages → Source: *Deploy from a branch* →
+Branch: `main`, mappa: `/ (root)` → Save. A cím:
+`https://lukacspeter89.github.io/hirdetmenyek/`
+
+Funkciók: adás-vétel / haszonbérlet váltó; vármegye-, járás-, település-szűrő
+(autocomplete); terület- és Ft/ha-tartomány; "csak élő kifüggesztés";
+rendezés; URL-ben megosztható szűrőállapot. A színskála rang-alapú: a tétel
+a saját járásán belüli helyezése szerint kap zöld→piros színt (ha a járásban
+5-nél kevesebb összehasonlítható tétel van, megyei, majd országos skálára
+esik vissza — induláskor ez a jellemző, az adatbázis hízásával egyre több
+járás kap saját skálát). A `comparable: false` tételek szürke jelölést
+kapnak, a kártyán a státusz magyarázatával.
+
+Kiegészítő adatfájlok: `data/geo/jaras_static.json` (település → vármegye/
+járás, KSH-alapú, forrás: tamas-ferenci/IrszHnk) és `data/geo/telepulesek.json`
+(koordináták, Nominatim, futás közben bővül).

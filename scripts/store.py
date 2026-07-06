@@ -85,7 +85,7 @@ class Store:
         self.seen[str(ad_id)] = reason
         self.retry.pop(str(ad_id), None)
 
-    def queue_retry(self, ad_id: int, now_iso: str, max_attempts: int = 4) -> None:
+    def queue_retry(self, ad_id: int, now_iso: str, max_attempts: int = 12) -> None:
         e = self.retry.get(str(ad_id), {"first": now_iso, "attempts": 0})
         e["attempts"] += 1
         e["last"] = now_iso
@@ -110,6 +110,11 @@ class Store:
         _write_json(self.dir / "seen.json", self.seen)
         _write_json(self.dir / "retry.json", self.retry)
         _write_json(self.dir / "state.json", self.state)
+        # partíció-index a térkép-frontendnek
+        items_dir = self.dir / "items"
+        parts = sorted(f.stem for f in items_dir.glob("*.json")) \
+            if items_dir.exists() else []
+        _write_json(self.dir / "index.json", {"partitions": parts})
 
     # ---------------- statisztika ---------------- #
     def stats(self) -> dict:

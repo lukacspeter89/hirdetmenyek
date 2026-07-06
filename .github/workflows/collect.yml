@@ -59,6 +59,7 @@ jobs:
         if: steps.run.outputs.ratelimited == 'yes'
         run: echo "::warning::A gov.hu 403/429-et adott — a futás korán leállt, a következő ütemezés folytatja."
 
-      # A 60 napos inaktivitási szabály ellen (a bot-commit önmagában nem
-      # feltétlenül számít aktivitásnak)
-      - uses: gautamkrishnar/keepalive-workflow@v2
+      # A 60 napos inaktivitási szabály ellen: ha 45+ napja nem volt commit,
+      # üres keepalive-commitot teszünk (külső action nélkül)
+      - name: Keepalive
+    

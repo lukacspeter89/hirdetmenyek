@@ -130,10 +130,13 @@ def run(max_batch: int = MAX_BATCH, dry_run: bool = False) -> int:
                         target - last, max_batch, max_batch)
         walk_range()
 
-        # retry-sor: üres ID-k újrapróbálása
+        # retry-sor: üres ID-k újrapróbálása — de az EBBEN a futásban
+        # sorba tett ID-ket nem próbáljuk azonnal újra (türelmi idő)
         cutoff = (now - timedelta(hours=RETRY_WINDOW_H)).isoformat(timespec="seconds")
         st.expire_retries(cutoff)
-        for rid in [int(k) for k in list(st.retry.keys())][:200]:
+        retry_ids = [int(k) for k, v in st.retry.items()
+                     if v.get("last") != now_iso][:200]
+        for rid in retry_ids:
             if processed >= max_batch:
                 break
             try:
