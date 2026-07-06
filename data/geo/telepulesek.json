@@ -5,6 +5,12 @@
   "lon": 17.38305,
   "megye": "Somogy vármegye"
  },
+ "Bodrogkisfalud": {
+  "jaras": null,
+  "lat": 48.17283,
+  "lon": 21.35745,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Heves": {
   "jaras": null,
   "lat": 47.78844,
@@ -83,10 +89,22 @@
   "lon": 20.22791,
   "megye": "Heves vármegye"
  },
+ "Vác": {
+  "jaras": null,
+  "lat": 47.77829,
+  "lon": 19.12783,
+  "megye": "Pest vármegye"
+ },
  "Vállaj": {
   "jaras": null,
   "lat": 47.76416,
   "lon": 22.38218,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Üröm": {
+  "jaras": null,
+  "lat": 47.5987,
+  "lon": 19.01343,
+  "megye": "Pest vármegye"
  }
 }

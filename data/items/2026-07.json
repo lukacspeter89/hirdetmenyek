@@ -624,6 +624,78 @@
   ],
   "ugyiratszam": "KOZ/286/2026."
  },
+ "2225818": {
+  "altipus": "adás-vételére",
+  "ar_ft": 15000000,
+  "ar_raw": [
+   "15.000.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055535
+  ],
+  "forras": "Váci Polgármesteri Hivatal",
+  "ft_per_ha": 109011628,
+  "hrsz": [
+   "20231/10"
+  ],
+  "id": 2225818,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-06",
+  "lejarat": "2026-08-05",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225818",
+  "muvelesi_ag": [
+   "gyümölcsös, gazdasági épület"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Vác hrsz.: 20231/10",
+  "telepules": "Vác",
+  "terulet_m2": 1376,
+  "terulet_raw": [
+   "1 376 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "12/634/2026"
+ },
+ "2225819": {
+  "altipus": "adás-vételére",
+  "ar_ft": 550000,
+  "ar_raw": [
+   "550 000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055536
+  ],
+  "forras": "Bodrogkeresztúri Közös Önkormányzati Hivatal",
+  "ft_per_ha": 3190255,
+  "hrsz": [
+   "038/18"
+  ],
+  "id": 2225819,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-06",
+  "lejarat": "2026-08-05",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225819",
+  "muvelesi_ag": [
+   "szőlő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Bodrogkisfalud hrsz.: 038/18",
+  "telepules": "Bodrogkisfalud",
+  "terulet_m2": 1724,
+  "terulet_raw": [
+   "1724 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "Bki/449-1/2026"
+ },
  "2225831": {
   "altipus": "haszonbérletére",
   "ar_ft": 20000,
