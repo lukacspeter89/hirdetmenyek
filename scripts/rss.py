@@ -30,7 +30,7 @@ def fetch_rss_ids(session: requests.Session) -> list:
         )
         resp.raise_for_status()
         root = ET.fromstring(resp.content)
-    except (requests.RequestException, ET.ParseError):
+        except Exception:
         return []
 
     ids = []
