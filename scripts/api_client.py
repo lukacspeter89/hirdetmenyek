@@ -12,35 +12,35 @@ terheléselosztó sütijét, és a böngésző kliens-tipp (sec-ch-ua) fejlécei
 küldjük. Egyetlen szál, kérésenként késleltetés + jitter, 5xx-re néhány
 újrapróbálás, 403/429-re azonnali leállás (RateLimitedError).
 """
- 
+
 from __future__ import annotations
- 
+
 import random
 import re
 import time
 from datetime import datetime, timezone
- 
+
 import requests  # csak a hívók által elkapott kivétel-típusokhoz (RequestException)
 from curl_cffi import requests as cffi
- 
+
 try:
     from zoneinfo import ZoneInfo
     BUDAPEST = ZoneInfo("Europe/Budapest")
 except Exception:  # noqa: BLE001
     BUDAPEST = None
- 
+
 API_TMPL = "https://hirdetmenyek.gov.hu/api/hirdetmenyek/reszletezo/{id}"
 BASE_URL = "https://hirdetmenyek.gov.hu"
- 
+
 # curl_cffi böngésző-profil (TLS-ujjlenyomat). Ha a szűrő később megváltozik és
 # újra 403 jönne, próbáld: "chrome", "chrome131", "safari18_0".
 IMPERSONATE = "safari18_0_ios"
- 
+
 REQUEST_DELAY = 1.0
 REQUEST_JITTER = 0.5
 REQUEST_TIMEOUT = 15
 MAX_5XX_RETRY = 3
- 
+
 # A böngésző által küldött fejlécek — a bot-védelem ezt várja (a Referert
 # kérésenként tesszük hozzá).
 HEADERS = {
@@ -58,12 +58,12 @@ HEADERS = {
     "Sec-Fetch-Mode": "cors",
     "Sec-Fetch-Site": "same-origin",
 }
- 
- 
+
+
 class RateLimitedError(Exception):
     """HTTP 403/429 — a futásnak azonnal le kell állnia."""
- 
- 
+
+
 def build_session():
     """curl_cffi munkamenet böngésző TLS-ujjlenyomattal + 'bemelegítés':
     a főoldal letöltése beállítja a BIGip terheléselosztó-sütit, ahogy a
@@ -74,12 +74,12 @@ def build_session():
     except Exception:  # noqa: BLE001 — a bemelegítés hibája nem végzetes
         pass
     return s
- 
- 
+
+
 def polite_sleep() -> None:
     time.sleep(REQUEST_DELAY + random.uniform(0, REQUEST_JITTER))
- 
- 
+
+
 def fetch_detail(session, ad_id: int):
     """Egy hirdetmény lekérése. None = nem létező ID (üres válasz / 404).
     403/429 → RateLimitedError; hálózati vagy 5xx hiba → requests.RequestException
@@ -110,8 +110,8 @@ def fetch_detail(session, ad_id: int):
         except ValueError:
             return None
     raise requests.RequestException(f"id={ad_id}: {last_err}")
- 
- 
+
+
 # --------------------------------------------------------------------------- #
 # JSON → rekord
 # --------------------------------------------------------------------------- #
