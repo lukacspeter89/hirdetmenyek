@@ -1271,5 +1271,149 @@
    "1/1"
   ],
   "ugyiratszam": "1/1494/2026"
+ },
+ "2225834": {
+  "altipus": "adás-vételére",
+  "ar_ft": null,
+  "ar_raw": [
+   "1200000.-"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1055550
+  ],
+  "forras": "Nyírlugosi Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0213/7, 0220/9"
+  ],
+  "id": 2225834,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-08-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225834",
+  "muvelesi_ag": [
+   "fásított terület, erdő"
+  ],
+  "status": "ar_nem_ertelmezheto",
+  "targy": "Adás-vétel - Nyírlugos hrsz.: 0213/7, 0220/9",
+  "telepules": "Nyírlugos",
+  "terulet_m2": 9099,
+  "terulet_raw": [
+   "9099 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "30/30"
+  ],
+  "ugyiratszam": "572627/2/2026"
+ },
+ "2225835": {
+  "altipus": "adás-vételére",
+  "ar_ft": 4745850,
+  "ar_raw": [
+   "4.745.850 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055551
+  ],
+  "forras": "Zalaszántó Község Önkormányzata",
+  "ft_per_ha": 17384066,
+  "hrsz": [
+   "0178/6"
+  ],
+  "id": 2225835,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-08-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225835",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Zalaszántó hrsz.: 0178/6",
+  "telepules": "Zalaszántó",
+  "terulet_m2": 2730,
+  "terulet_raw": [
+   "3 h 2730 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/2"
+  ],
+  "ugyiratszam": "Z/1217/2026"
+ },
+ "2225836": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 10000,
+  "ar_raw": [
+   "10000 ft/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055552
+  ],
+  "forras": "Esztergom Megyei Jogú Város Polgármesteri Hivatala",
+  "ft_per_ha": 75988,
+  "hrsz": [
+   "0504/100"
+  ],
+  "id": 2225836,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-07-22",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225836",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Esztergom hrsz.: 0504/100",
+  "telepules": "Esztergom",
+  "terulet_m2": 1316,
+  "terulet_raw": [
+   "0,1316 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "15785/2026"
+ },
+ "2225837": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 10000,
+  "ar_raw": [
+   "10000 ft/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055553
+  ],
+  "forras": "Esztergom Megyei Jogú Város Polgármesteri Hivatala",
+  "ft_per_ha": 75188,
+  "hrsz": [
+   "0504/102"
+  ],
+  "id": 2225837,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-07-22",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225837",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Esztergom hrsz.: 0504/102",
+  "telepules": "Esztergom",
+  "terulet_m2": 1330,
+  "terulet_raw": [
+   "0,1330 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "15786/2026"
  }
 }
