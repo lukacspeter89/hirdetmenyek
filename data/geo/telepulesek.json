@@ -1,15 +1,105 @@
 {
+ "Ajka": {
+  "jaras": null,
+  "lat": 47.10566,
+  "lon": 17.55873,
+  "megye": "Veszprém vármegye"
+ },
+ "Albertirsa": {
+  "jaras": null,
+  "lat": 47.24573,
+  "lon": 19.61278,
+  "megye": "Pest vármegye"
+ },
+ "Alsópáhok": {
+  "jaras": null,
+  "lat": 46.76132,
+  "lon": 17.1739,
+  "megye": "Zala vármegye"
+ },
+ "Bak": {
+  "jaras": null,
+  "lat": 46.73063,
+  "lon": 16.84558,
+  "megye": "Zala vármegye"
+ },
+ "Balatonszemes": {
+  "jaras": null,
+  "lat": 46.80604,
+  "lon": 17.77899,
+  "megye": "Somogy vármegye"
+ },
  "Balatonújlak": {
   "jaras": null,
   "lat": 46.67598,
   "lon": 17.38305,
   "megye": "Somogy vármegye"
  },
+ "Balatonőszöd": {
+  "jaras": null,
+  "lat": 46.80695,
+  "lon": 17.80022,
+  "megye": "Somogy vármegye"
+ },
+ "Becsehely": {
+  "jaras": null,
+  "lat": 46.44762,
+  "lon": 16.79165,
+  "megye": "Zala vármegye"
+ },
+ "Berzék": {
+  "jaras": null,
+  "lat": 48.02448,
+  "lon": 20.95731,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Besenyszög": {
+  "jaras": null,
+  "lat": 47.296,
+  "lon": 20.25715,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
  "Bodrogkisfalud": {
   "jaras": null,
   "lat": 48.17283,
   "lon": 21.35745,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bácsalmás": {
+  "jaras": null,
+  "lat": 46.12741,
+  "lon": 19.33191,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bátmonostor": {
+  "jaras": null,
+  "lat": 46.10479,
+  "lon": 18.92792,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bénye": {
+  "jaras": null,
+  "lat": 47.35534,
+  "lon": 19.53989,
+  "megye": "Pest vármegye"
+ },
+ "Bóly": {
+  "jaras": null,
+  "lat": 45.96928,
+  "lon": 18.51615,
+  "megye": "Baranya vármegye"
+ },
+ "Böhönye": {
+  "jaras": null,
+  "lat": 46.40778,
+  "lon": 17.39072,
+  "megye": "Somogy vármegye"
+ },
+ "Csenger": {
+  "jaras": null,
+  "lat": 47.83637,
+  "lon": 22.67947,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Heves": {
   "jaras": null,
