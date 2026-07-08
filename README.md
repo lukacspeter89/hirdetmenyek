@@ -1,51 +1,88 @@
-# Hirdetmény-térkép (M0 + M1 + M2)
+# Hirdetmény-térkép
 
 Földhivatali hirdetmények (adás-vétel + haszonbérlet) automatikus gyűjtése a
-hirdetmenyek.gov.hu oldalról GitHub Actions-szel, és interaktív térkép
-(GitHub Pages): kártyás kereső, szűrők, járáson belül normalizált
-zöld→piros Ft/ha színskála.
+`hirdetmenyek.gov.hu` oldalról, és interaktív térkép (GitHub Pages): kártyás
+kereső, szűrők, járáson belül normalizált zöld→piros Ft/ha színskála.
 
-## Hogyan működik
+## Architektúra
 
-- **ID-bejárás, nem RSS-ablak.** Az RSS csak "jelzőcsengő": a legfrissebb
-  hirdetmény-ID-t adja. A gyűjtő a legutóbb feldolgozott ID-tól odáig MINDEN
-  ID-t lekér a nyilvános JSON API-ról
-  (`/api/hirdetmenyek/reszletezo/{id}`), így akkor sincs adatvesztés, ha két
-  futás között több száz hirdetmény érkezik.
-- **Az adattár maga a cache.** Minden valaha lekért ID nyomot hagy (adat,
-  "üres" vagy "nem Föld" jelölés) — ugyanaz az ID soha nem kérdeződik le
-  kétszer, se az élő gyűjtőben, se a backfillben.
-- **Szerverkímélet.** Egyetlen szál, 1-1,5 mp + jitter kérésenként,
-  403/429-re azonnali leállás (nem lassítva próbálkozik tovább), backfill
-  csak éjszaka.
+A gov.hu-t **lakossági IP-ről** kell lekérni, ezért a gyűjtés a NAS-on fut, a
+feldolgozás és a térkép pedig a GitHub-on:
 
-## Beüzemelés
+```
+  NAS (Synology, lakossági IP)                  GitHub
+  ────────────────────────────                  ──────────────────────────
+  nas/hirdetmeny.sh  (bash + curl)              .github/workflows/process.yml
+        │  ID-bejárás a JSON API-n                     │  push: raw/** trigger
+        │  Föld-tétel → raw/items/<id>.json            ▼
+        ▼                                        scripts/process.py
+  git commit + push  ───────────────────►        (normalizál + geokódol)
+        raw/state, raw/items/                            │
+                                                         ▼
+                                                   data/  (térkép-adat)
+                                                         │
+                                                         ▼
+                                                   index.html  (Leaflet, Pages)
+```
 
-1. Hozz létre egy **publikus** GitHub repót (publikusnál az Actions ingyen,
-   perckorlát nélkül fut), és pushold fel ezt a könyvtárat.
-2. A repo *Settings → Actions → General → Workflow permissions* alatt add meg
-   a **Read and write permissions**-t.
-3. Indítsd el kézzel egyszer a **Gyűjtés** workflow-t (*Actions →
-   Gyűjtés (ID-bejáró) → Run workflow*). Az első futás leteszi a horgonyt
-   (`last_processed_id`, `backfill_floor_id`).
-4. A **Backfill** ezután éjszakánként magától fut, és ~6-8 éjszaka alatt
-   visszatölti az elmúlt 60 napot, majd kikapcsolja magát
-   (`backfill_done: true`).
+- **ID-bejárás, nem RSS-ablak.** A gyűjtő a legutóbb feldolgozott ID-tól
+  fölfelé MINDEN ID-t lekér a nyilvános JSON API-ról
+  (`/api/hirdetmenyek/reszletezo/{id}`), így két futás között sincs
+  adatvesztés.
+- **Az adattár maga a cache.** A NAS a `raw/items/`-ben tárolja a Föld-tételek
+  nyers JSON-ját; a `raw/state` a kurzort (`LAST_PROCESSED`,
+  `BACKFILL_FLOOR`, `BACKFILL_DONE`). Ugyanaz az ID nem kérdeződik le kétszer.
+- **Szerverkímélet.** Egyetlen szál, 1,5–3 mp/kérés, 403/429-re azonnali
+  leállás; a backfill csak éjszaka fut.
+- **A felhő-IP nem hívja a gov.hu-t.** Az Actions csak a `raw/`-ból épít
+  `data/`-t és Nominatimról (OSM) geokódol — a gov.hu bot-védelme itt nem gond.
 
 ## Fájlok
 
 | Útvonal | Mi ez |
 |---|---|
-| `scripts/collect.py` | napi gyűjtő (ID-bejáró, retry-sor, geokódolás) |
-| `scripts/backfill.py` | egyszeri 60 napos visszatöltés, éjszakai darabokban |
-| `scripts/api_client.py` | gov.hu JSON API kliens + rekord-parser |
-| `scripts/normalize.py` | M0: ár/terület egység-felismerő normalizálás |
-| `scripts/rss.py` | RSS "jelzőcsengő" (csak ID-k) |
-| `scripts/store.py` | particionált JSON-tár, állapot, dedup |
+| `nas/hirdetmeny.sh` | NAS-oldali gyűjtő (curl): `collect` és `backfill` mód |
+| `.github/workflows/process.yml` | `raw/**` push → `data/` építése |
+| `scripts/process.py` | a nyers JSON-ból térkép-adatot épít (normalizál + geokódol) |
+| `scripts/api_client.py` | a részletező JSON → egységes rekord (`parse_detail`) |
+| `scripts/normalize.py` | ár/terület egység-felismerő normalizálás |
 | `scripts/geo.py` | település → koordináta/megye/járás (Nominatim, cache-elt) |
-| `data/items/YYYY-MM.json` | hirdetmények, kifüggesztés hónapja szerint |
-| `data/state.json` | horgony-ID-k, backfill-állapot |
-| `tests/` | egységtesztek (36 db) a valós 2026-07-01-i mintán |
+| `scripts/store.py` | particionált JSON-tár és index a térképnek |
+| `raw/items/<id>.json` | a NAS által letöltött nyers Föld-hirdetmények |
+| `raw/state` | NAS gyűjtő-kurzor (ID-horgony, backfill-állapot) |
+| `data/items/YYYY-MM.json` | feldolgozott hirdetmények, kifüggesztés hónapja szerint |
+| `data/geo/` | `jaras_static.json` (település→járás, KSH) + `telepulesek.json` (koordináta-cache) |
+| `index.html` | önálló, egyfájlos Leaflet-térkép; közvetlenül a `data/`-t olvassa |
+| `tests/` | egységtesztek a normalizálóhoz |
+
+## Beüzemelés
+
+### 1. NAS (gyűjtés)
+
+A repo klónja a NAS-on, majd a DSM Feladatütemezőben `lukacspeter`
+felhasználóként (hogy a `~/.ssh` deploy key-t és a `~/.gitconfig`-ot használja):
+
+```bash
+# napi gyűjtés — 12 óránként (pl. 06:00 és 18:00)
+DELAY=2.5 REPO_DIR=/volume1/homes/lukacspeter/hirdetmenyek \
+  /volume1/homes/lukacspeter/hirdetmenyek/nas/hirdetmeny.sh collect
+
+# 60 napos visszatöltés — éjszaka (pl. 02:00), amíg magától be nem fejezi
+DELAY=3 REPO_DIR=/volume1/homes/lukacspeter/hirdetmenyek \
+  /volume1/homes/lukacspeter/hirdetmenyek/nas/hirdetmeny.sh backfill
+```
+
+A `collect` és a `backfill` ne fusson egyszerre (mindkettő ugyanabba a repóba
+pushol). A GitHub-hitelesítés SSH deploy key-jel megy (Settings → Deploy keys,
+**Allow write access**).
+
+### 2. GitHub (feldolgozás + térkép)
+
+- *Settings → Actions → General → Workflow permissions*: **Read and write**.
+- A `process.yml` magától fut minden `raw/**` push után; kézzel is indítható
+  (*Actions → Feldolgozás → Run workflow*).
+- *Settings → Pages → Source: Deploy from a branch → `main` / `(root)`*.
+  Cím: `https://lukacspeter89.github.io/hirdetmenyek/`
 
 ## Rekord-formátum (kivonat)
 
@@ -69,35 +106,13 @@ zöld→piros Ft/ha színskála.
 }
 ```
 
-`comparable: false` esetén a `status` mondja meg, miért nem mehet a tétel a
+`comparable: false` esetén a `status` mondja meg, miért nem kerül a tétel a
 Ft/ha színskálára: `aranykorona_alapu_dij`, `termeny_alapu_dij`,
 `vegyes_egysegek`, `terulet_hianyos`, `ar_nem_ertelmezheto`, `nincs_ar`.
 
-## Tesztek futtatása
+## Tesztek
 
 ```bash
 pip install -r requirements.txt
 python -m pytest tests/ -v
 ```
-
-## Térkép (M2)
-
-A `index.html` egy önálló, egyfájlos Leaflet-térkép, amely közvetlenül a repo
-`data/` mappáját olvassa — build-lépés nincs.
-
-**Bekapcsolás:** Settings → Pages → Source: *Deploy from a branch* →
-Branch: `main`, mappa: `/ (root)` → Save. A cím:
-`https://lukacspeter89.github.io/hirdetmenyek/`
-
-Funkciók: adás-vétel / haszonbérlet váltó; vármegye-, járás-, település-szűrő
-(autocomplete); terület- és Ft/ha-tartomány; "csak élő kifüggesztés";
-rendezés; URL-ben megosztható szűrőállapot. A színskála rang-alapú: a tétel
-a saját járásán belüli helyezése szerint kap zöld→piros színt (ha a járásban
-5-nél kevesebb összehasonlítható tétel van, megyei, majd országos skálára
-esik vissza — induláskor ez a jellemző, az adatbázis hízásával egyre több
-járás kap saját skálát). A `comparable: false` tételek szürke jelölést
-kapnak, a kártyán a státusz magyarázatával.
-
-Kiegészítő adatfájlok: `data/geo/jaras_static.json` (település → vármegye/
-járás, KSH-alapú, forrás: tamas-ferenci/IrszHnk) és `data/geo/telepulesek.json`
-(koordináták, Nominatim, futás közben bővül).
