@@ -1,0 +1,43 @@
+name: Feldolgozás (raw → térkép-adat)
+
+# A NAS feltölti a nyers JSON-t a raw/ könyvtárba; ez a workflow abból
+# építi a data/ térkép-adatot (normalizálás + geokódolás). Nem hívja a
+# gov.hu-t, ezért a GitHub felhő-IP itt nem probléma.
+on:
+  push:
+    branches: [main]
+    paths: ["raw/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: process
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Feldolgozás
+        run: python scripts/process.py
+      - name: Adatok commitolása
+        run: |
+          git config user.name "hirdetmeny-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nincs változás."
+          else
+            git commit -m "adat: feldolgozás $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase origin main || true
+            git push
+          fi
