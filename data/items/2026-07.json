@@ -1416,6 +1416,199 @@
   ],
   "ugyiratszam": "15786/2026"
  },
+ "2225955": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 21254400000,
+  "ar_raw": [
+   "90.000,- Ft/év/ha"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055650
+  ],
+  "forras": "Mindszenti Polgármesteri Hivatal",
+  "ft_per_ha": 90000,
+  "hrsz": [
+   "0232/5, 0232/6, 0234/1, 0234/2"
+  ],
+  "id": 2225955,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-07-22",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225955",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Mindszent hrsz.: 0232/5, 0232/6, 0234/1, 0234/2",
+  "telepules": "Mindszent",
+  "terulet_m2": 2361600000,
+  "terulet_raw": [
+   "7712 m2, 3,6160 ha, 7,0468 ha, 4342 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "575021-2/2026."
+ },
+ "2225956": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 60000,
+  "ar_raw": [
+   "60 000 Ft/év"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1055651
+  ],
+  "forras": "Szatymazi Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0131/15"
+  ],
+  "id": 2225956,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-07-22",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225956",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "terulet_hianyos",
+  "targy": "Haszonbérlet - Szatymaz hrsz.: 0131/15",
+  "telepules": "Szatymaz",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "3739 nm"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "U1/733/2026"
+ },
+ "2225957": {
+  "altipus": "adás-vételére",
+  "ar_ft": 60000,
+  "ar_raw": [
+   "60.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055652
+  ],
+  "forras": "Vasvári Polgármesteri Hivatal",
+  "ft_per_ha": 4597,
+  "hrsz": [
+   "0422/19"
+  ],
+  "id": 2225957,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-08-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225957",
+  "muvelesi_ag": [
+   "erdő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Vasvár hrsz.: 0422/19",
+  "telepules": "Vasvár",
+  "terulet_m2": 130526,
+  "terulet_raw": [
+   "13 ha 526 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "42/9920"
+  ],
+  "ugyiratszam": "VALT/551/2026"
+ },
+ "2225958": {
+  "altipus": "adás-vételére",
+  "ar_ft": 900000,
+  "ar_raw": [
+   "900.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1055653
+  ],
+  "forras": "Baja Megyei Jogú Város Polgármesteri Hivatal",
+  "ft_per_ha": 10044643,
+  "hrsz": [
+   "Baja zártkert 11718"
+  ],
+  "id": 2225958,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-08-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225958",
+  "muvelesi_ag": [
+   "kert"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Baja hrsz.: Baja zártkert 11718",
+  "telepules": "Baja",
+  "terulet_m2": 896,
+  "terulet_raw": [
+   "896 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "05/1809/2026"
+ },
+ "2225959": {
+  "altipus": "adás-vételére",
+  "ar_ft": null,
+  "ar_raw": [
+   "33.903.900.-Ft",
+   "17.180.020.-Ft",
+   "21.976.080",
+   "19.963.200.-Ft"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1055654
+  ],
+  "forras": "Tiszafüredi Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0389/6",
+   "0397/1",
+   "0397/2",
+   "0397/3"
+  ],
+  "id": 2225959,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-07",
+  "lejarat": "2026-08-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2225959",
+  "muvelesi_ag": [
+   "legelő, szántó",
+   "szántó"
+  ],
+  "status": "ar_nem_ertelmezheto",
+  "targy": "Adás-vétel - Tiszafüred hrsz.: 0389/6|Adás-vétel - Tiszafüred hrsz.: 0397/1|Adás-vétel - Tiszafüred hrsz.: 0397/2|Adás-vétel - Tiszafüred hrsz.: 0397/3",
+  "telepules": "Tiszafüred",
+  "terulet_m2": 632305,
+  "terulet_raw": [
+   "255063 m2",
+   "114004 m2",
+   "138468 m2",
+   "124770 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "TIS/8563/2026"
+ },
  "2225960": {
   "altipus": "adás-vételére",
   "ar_ft": null,

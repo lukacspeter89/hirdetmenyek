@@ -17,6 +17,12 @@
   "lon": 17.1739,
   "megye": "Zala vármegye"
  },
+ "Baja": {
+  "jaras": null,
+  "lat": 46.17855,
+  "lon": 18.95173,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Bak": {
   "jaras": null,
   "lat": 46.73063,
@@ -100,6 +106,90 @@
   "lat": 47.83637,
   "lon": 22.67947,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Csengerújfalu": {
+  "jaras": null,
+  "lat": 47.80508,
+  "lon": 22.62164,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Demjén": {
+  "jaras": null,
+  "lat": 47.82946,
+  "lon": 20.33359,
+  "megye": "Heves vármegye"
+ },
+ "Doba": {
+  "jaras": null,
+  "lat": 47.16597,
+  "lon": 17.37985,
+  "megye": "Veszprém vármegye"
+ },
+ "Dédestapolcsány": {
+  "jaras": null,
+  "lat": 48.18079,
+  "lon": 20.48423,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Egeraracsa": {
+  "jaras": null,
+  "lat": 46.67326,
+  "lon": 17.07726,
+  "megye": "Zala vármegye"
+ },
+ "Esztergom": {
+  "jaras": null,
+  "lat": 47.78569,
+  "lon": 18.74034,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Fancsal": {
+  "jaras": null,
+  "lat": 48.3556,
+  "lon": 21.06403,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Foktő": {
+  "jaras": null,
+  "lat": 46.52901,
+  "lon": 18.91929,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Földes": {
+  "jaras": null,
+  "lat": 47.28816,
+  "lon": 21.36421,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Gacsály": {
+  "jaras": null,
+  "lat": 47.93089,
+  "lon": 22.75679,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Gyömrő": {
+  "jaras": null,
+  "lat": 47.42234,
+  "lon": 19.3945,
+  "megye": "Pest vármegye"
+ },
+ "Gyúró": {
+  "jaras": null,
+  "lat": 47.37085,
+  "lon": 18.73956,
+  "megye": "Fejér vármegye"
+ },
+ "Gölle": {
+  "jaras": null,
+  "lat": 46.43881,
+  "lon": 18.01221,
+  "megye": "Somogy vármegye"
+ },
+ "Hajdúhadház": {
+  "jaras": null,
+  "lat": 47.6822,
+  "lon": 21.66922,
+  "megye": "Hajdú-Bihar vármegye"
  },
  "Heves": {
   "jaras": null,
