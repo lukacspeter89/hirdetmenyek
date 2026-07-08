@@ -1,6 +1,7 @@
 #!/bin/bash
 # hirdetmeny.sh — NAS-oldali gyűjtő "agy" (Synology DS214play, lakossági IP).
-# A böngésző-TLS letöltést a Go `fetcher` bináris végzi; ez a szkript dönti el,
+# A letöltést sima `curl` végzi (az API böngésző-TLS nélkül is tiszta JSON-t ad),
+# így nincs szükség architektúra-specifikus Go binárisra. Ez a szkript dönti el,
 # mely ID-ket kérje le, és a nyers JSON-t a repo raw/ könyvtárába menti.
 # A normalizálást/geokódolást/térképépítést a GitHub Actions végzi a raw/-ból.
 #
@@ -8,30 +9,25 @@
 #   hirdetmeny.sh collect     # előre-szondázás (napi gyűjtés)
 #   hirdetmeny.sh backfill    # visszamenőleges töltés (éjszaka)
 #
-# Beállítás: állítsd a REPO_DIR és FETCHER útvonalakat a NAS-odon.
+# Beállítás: állítsd a REPO_DIR útvonalat a NAS-odon.
 set -euo pipefail
-
-# A DSM Feladatütemező minimális PATH-tal indít — a git megtalálásához bővítjük.
+# A DSM Feladatütemező minimális PATH-tal indít — a git/curl megtalálásához bővítjük.
 export PATH="$PATH:/usr/bin:/bin:/usr/local/bin:/opt/bin:/usr/syno/bin"
-
 # ------------------------- BEÁLLÍTÁSOK ------------------------- #
 REPO_DIR="${REPO_DIR:-/volume1/hirdetmenyek}"       # a klónozott repo a NAS-on
-FETCHER="${FETCHER:-$REPO_DIR/bin/fetcher}"          # a Go bináris (linux/386)
 BASE="https://hirdetmenyek.gov.hu"
 API="$BASE/api/hirdetmenyek/reszletezo"
-
 DELAY="${DELAY:-1.3}"          # másodperc két kérés között (szerverkímélet)
 MAX_BATCH="${MAX_BATCH:-1500}" # max kérés futásonként
 PROBE_STOP="${PROBE_STOP:-30}" # ennyi egymást követő "üres" ID után állunk (előre)
 RECHECK="${RECHECK:-40}"       # ennyi korábbi ID-t újra megnézünk (késői publikálás)
 BACKFILL_CHUNK="${BACKFILL_CHUNK:-1500}"   # backfill: ennyi ID/futás lefelé
 BACKFILL_SPAN="${BACKFILL_SPAN:-9000}"     # kb. 60 nap ID-ben; eddig megyünk vissza
-
+CURL_TIMEOUT="${CURL_TIMEOUT:-30}"         # egy kérés max ideje (mp)
 RAW="$REPO_DIR/raw"
 ITEMS="$RAW/items"
 STATE="$RAW/state"
 LOG() { echo "$(date -u +%H:%M:%S) [$1] ${2:-}"; }
-
 # ------------------------- ÁLLAPOT ------------------------- #
 LAST_PROCESSED=0; BACKFILL_FLOOR=0; BACKFILL_DONE=0
 load_state() {
@@ -45,17 +41,19 @@ save_state() {
     echo "BACKFILL_DONE=$BACKFILL_DONE"
   } > "$STATE"
 }
-
 # ------------------------- LETÖLTÉS ------------------------- #
-# fetch_one <id>  → beállítja: F_STATUS, F_KIND ("fold"|"other"|"empty")
+# fetch_one <id>  → beállítja: F_STATUS, F_KIND ("fold"|"other"|"empty"|"ratelimit")
 # és Föld esetén elmenti a nyers JSON-t raw/items/<id>.json-ba.
 fetch_one() {
-  local id="$1" out status body
-  out="$("$FETCHER" "$API/$id" 2>/dev/null || true)"
-  status="$(printf '%s\n' "$out" | head -n1 | awk '{print $2}')"
-  body="$(printf '%s\n' "$out" | tail -n +2)"
+  local id="$1" status body tmp
+  tmp="$(mktemp)"
+  # -o: törzs fájlba (bájthű), -w: HTTP státusz a stdoutra; hálózati hiba → "000".
+  status="$(curl -sS --connect-timeout 10 --max-time "$CURL_TIMEOUT" \
+      -H "Accept: application/json" \
+      -o "$tmp" -w '%{http_code}' "$API/$id" 2>/dev/null || echo "000")"
+  body="$(cat "$tmp")"
+  rm -f "$tmp"
   F_STATUS="$status"
-
   if [ "$status" = "403" ] || [ "$status" = "429" ]; then
     F_KIND="ratelimit"; return 0
   fi
@@ -70,9 +68,7 @@ fetch_one() {
     F_KIND="other"
   fi
 }
-
 known() { [ -f "$ITEMS/$1.json" ]; }
-
 # ------------------------- MÓDOK ------------------------- #
 run_collect() {
   local start id processed=0 empties=0 highest="$LAST_PROCESSED"
@@ -102,7 +98,6 @@ run_collect() {
   [ "$BACKFILL_FLOOR" -eq 0 ] && BACKFILL_FLOOR="$LAST_PROCESSED"
   LOG INFO "collect kész. feldolgozott=$processed, last_processed=$LAST_PROCESSED"
 }
-
 run_backfill() {
   local id processed=0 floor_min
   if [ "$BACKFILL_DONE" = "1" ] || [ "$BACKFILL_FLOOR" -le 1 ]; then
@@ -126,7 +121,6 @@ run_backfill() {
   [ "$BACKFILL_FLOOR" -le "$floor_min" ] && { BACKFILL_DONE=1; LOG INFO "backfill elérte a 60 napos határt — KÉSZ."; }
   LOG INFO "backfill kész. feldolgozott=$processed, floor=$BACKFILL_FLOOR"
 }
-
 # ------------------------- FŐ ------------------------- #
 main() {
   local mode="${1:-collect}"
