@@ -21,7 +21,10 @@ import time
 from datetime import datetime, timezone
 
 import requests  # csak a hívók által elkapott kivétel-típusokhoz (RequestException)
-from curl_cffi import requests as cffi
+try:
+    from curl_cffi import requests as cffi
+except Exception:  # a feldolgozó (process.py) csak a parse_detail-t hasznalja
+    cffi = None
 
 try:
     from zoneinfo import ZoneInfo
