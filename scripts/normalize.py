@@ -39,19 +39,43 @@ def _fold(s: str) -> str:
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 
-def _hu_number(raw: str):
-    """Magyar számformátum → float. Pont/szóköz ezreselválasztó, vessző tizedes.
+def _hu_number(raw: str, dot_is_decimal: bool = False):
+    """Magyar számformátum → float.
+
+    Vessző MINDIG tizedesjel (magyar konvenció: "1,0825").
+    A pont alapból ezreselválasztó ("140.000 Ft"), DE a forrás néhol
+    tizedespontot használ ("11.0483 ha", "273.45 Ak"). Ezért:
+      - ha vessző ÉS pont is van, az utolsó elválasztó a tizedes;
+      - dot_is_decimal=True esetén (hektár-kontextus) a pont tizedesjel;
+      - egyébként a pont ezreselválasztó, KIVÉVE ha nem pontosan
+        3 számjegy követi (pl. "11.0483" → tizedes).
     A ',-' / '.-' ártipográfiai farok nem tizedes."""
     txt = raw.strip().rstrip("-").rstrip(".,").strip()
-    txt = txt.replace(" ", "")
-    if not txt:
+    txt = txt.replace("\xa0", "").replace(" ", "")
+    if not txt or not re.fullmatch(r"[\d.,]+", txt):
         return None
-    # tizedesvessző: ',' után 1-4 számjegy a végén (pl. 1,0825)
-    m = re.fullmatch(r"([\d.]+),(\d{1,4})", txt)
-    if m:
-        return float(m.group(1).replace(".", "") + "." + m.group(2))
-    txt = txt.replace(",", "").replace(".", "")
-    return float(txt) if txt.isdigit() else None
+
+    has_c, has_d = "," in txt, "." in txt
+
+    if has_c and has_d:
+        # vegyes: az utolsóként előforduló elválasztó a tizedes
+        if txt.rfind(",") > txt.rfind("."):
+            txt = txt.replace(".", "").replace(",", ".")
+        else:
+            txt = txt.replace(",", "")
+    elif has_c:
+        # magyarban a vessző tizedes; több vessző → ezres tagolás
+        txt = txt.replace(",", ".") if txt.count(",") == 1 else txt.replace(",", "")
+    elif has_d:
+        frac = txt.rsplit(".", 1)[1]
+        thousands = txt.count(".") > 1 or (len(frac) == 3 and not dot_is_decimal)
+        if thousands:
+            txt = txt.replace(".", "")
+
+    try:
+        return float(txt)
+    except ValueError:
+        return None
 
 
 # --------------------------------------------------------------------------- #
@@ -125,14 +149,14 @@ def parse_area_m2(raw: str):
 
     m = _COMBI_RE.search(txt)
     if m:
-        ha = _hu_number(m.group(1))
+        ha = _hu_number(m.group(1), dot_is_decimal=True)
         m2 = _hu_number(m.group(2))
         if ha is not None and m2 is not None:
             return round(ha * 10000 + m2)
 
     m = _HA_RE.search(txt)
     if m:
-        ha = _hu_number(m.group(1))
+        ha = _hu_number(m.group(1), dot_is_decimal=True)
         if ha is not None:
             return round(ha * 10000)
 
