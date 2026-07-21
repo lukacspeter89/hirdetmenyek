@@ -86852,6 +86852,73 @@
   ],
   "ugyiratszam": "PH/2037/2026"
  },
+ "2228319": {
+  "altipus": "adatrendezes21",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1058045
+  ],
+  "forras": "BKVMKH Földhivatali Főosztály",
+  "ft_per_ha": null,
+  "hrsz": [],
+  "id": 2228319,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-21",
+  "lejarat": "2026-10-19",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228319",
+  "muvelesi_ag": [],
+  "status": "nincs_ar",
+  "targy": "Föld adatrendezés - beazonosítatlan személy - Balotaszállás hrsz: 0130/64, 0130/58, 0130/63",
+  "telepules": "beazonosítatlan személy - Balotaszállás",
+  "terulet_m2": null,
+  "terulet_raw": [],
+  "tipus": "egyeb",
+  "tulajdoni_hanyad": [],
+  "ugyiratszam": "BK/FO-7/534-2/2026"
+ },
+ "2228320": {
+  "altipus": "adás-vételére",
+  "ar_ft": 800000,
+  "ar_raw": [
+   "500.000,- Ft",
+   "300.000,- Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1058046
+  ],
+  "forras": "Somogyjádi Közös Önkormányzati Hivatal",
+  "ft_per_ha": 1745581,
+  "hrsz": [
+   "512/2 hrsz",
+   "513 hrsz"
+  ],
+  "id": 2228320,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-21",
+  "lejarat": "2026-08-24",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228320",
+  "muvelesi_ag": [
+   "szántó és gazdasági épület, szőlő",
+   "szőlő és gazdasági épület, kert"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Edde hrsz.: 512/2 hrsz|Adás-vétel - Edde hrsz.: 513 hrsz",
+  "telepules": "Edde",
+  "terulet_m2": 4583,
+  "terulet_raw": [
+   "2827 m2",
+   "1756 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "SKÖH/259/2026"
+ },
  "2228331": {
   "altipus": "adás-vételére",
   "ar_ft": null,
@@ -86887,6 +86954,42 @@
    "62400/86520"
   ],
   "ugyiratszam": "590694/2026"
+ },
+ "2228332": {
+  "altipus": "adás-vételére",
+  "ar_ft": 450000,
+  "ar_raw": [
+   "450 000 Ft"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1058063
+  ],
+  "forras": "Kerepesi Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "6270, 6271"
+  ],
+  "id": 2228332,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-22",
+  "lejarat": "2026-08-24",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228332",
+  "muvelesi_ag": [
+   "szőlő és egyéb építmény"
+  ],
+  "status": "terulet_hianyos",
+  "targy": "Adás-vétel - Kerepes hrsz.: 6270, 6271",
+  "telepules": "Kerepes",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "1086, 1038"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "96/6720"
+  ],
+  "ugyiratszam": "KPH/16325/2026"
  },
  "2228333": {
   "altipus": "haszonbérletére",
@@ -87072,5 +87175,101 @@
    "1/1"
   ],
   "ugyiratszam": "ERP/1086/2026"
+ },
+ "2228338": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "40 kg /aranykorona étkezési búza"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1058069
+  ],
+  "forras": "Derekegyházi Közös Önkormányzati Hivatal Nagytőkei Kirendeltsége",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0164/27"
+  ],
+  "id": 2228338,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-21",
+  "lejarat": "2026-08-05",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228338",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "termeny_alapu_dij",
+  "targy": "Haszonbérlet - Nagytőke hrsz.: 0164/27",
+  "telepules": "Nagytőke",
+  "terulet_m2": 22964,
+  "terulet_raw": [
+   "2 ha 2964 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "N/434-1/2026."
+ },
+ "2228339": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1000000,
+  "ar_raw": [
+   "1.000.000.- Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1058070
+  ],
+  "forras": "Pécs MJV Polgármesteri Hivatala",
+  "ft_per_ha": 7496252,
+  "hrsz": [
+   "01557/3"
+  ],
+  "id": 2228339,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-21",
+  "lejarat": "2026-08-24",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228339",
+  "muvelesi_ag": [
+   "szántó és gazdasági épület (csak a szántó rész)"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Pécs hrsz.: 01557/3",
+  "telepules": "Pécs",
+  "terulet_m2": 1334,
+  "terulet_raw": [
+   "1334 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "10/12"
+  ],
+  "ugyiratszam": "14/9677/2026"
+ },
+ "2228340": {
+  "altipus": "megosztas",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [],
+  "forras": "Jász-Nagykun-Szolnok Vármegyei Kormányhivatal Földhivatali Főosztály",
+  "ft_per_ha": null,
+  "hrsz": [],
+  "id": 2228340,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-21",
+  "lejarat": "2026-11-18",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228340",
+  "muvelesi_ag": [],
+  "status": "nincs_ar",
+  "targy": "Föld megosztási eljárás - Jászladány hrsz: 0256/6",
+  "telepules": "Jászladány",
+  "terulet_m2": null,
+  "terulet_raw": [],
+  "tipus": "egyeb",
+  "tulajdoni_hanyad": [],
+  "ugyiratszam": "1150009/2026"
  }
 }

@@ -591,17 +591,102 @@
   "lon": 19.14577,
   "megye": null
  },
+ "Budapest XI": null,
+ "Budapest XVI. Kerület": {
+  "jaras": null,
+  "lat": 47.51831,
+  "lon": 19.20437,
+  "megye": null
+ },
+ "Budapest XVII.": {
+  "jaras": null,
+  "lat": 47.47583,
+  "lon": 19.26941,
+  "megye": null
+ },
+ "Budapest XXIII. kerület": {
+  "jaras": null,
+  "lat": 47.3894,
+  "lon": 19.14416,
+  "megye": null
+ },
+ "Bugac": {
+  "jaras": null,
+  "lat": 46.6889,
+  "lon": 19.68214,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bugyi": {
+  "jaras": null,
+  "lat": 47.22275,
+  "lon": 19.15093,
+  "megye": "Pest vármegye"
+ },
  "Bácsalmás": {
   "jaras": null,
   "lat": 46.12741,
   "lon": 19.33191,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Bácsbokod": {
+  "jaras": null,
+  "lat": 46.12402,
+  "lon": 19.15582,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bácsszőlős": {
+  "jaras": null,
+  "lat": 46.13523,
+  "lon": 19.42125,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bálványos": {
+  "jaras": null,
+  "lat": 46.78166,
+  "lon": 17.95207,
+  "megye": "Somogy vármegye"
+ },
+ "Bánokszentgyörgy": {
+  "jaras": null,
+  "lat": 46.54581,
+  "lon": 16.78342,
+  "megye": "Zala vármegye"
+ },
+ "Bárdudvarnok": {
+  "jaras": null,
+  "lat": 46.3268,
+  "lon": 17.68509,
+  "megye": "Somogy vármegye"
+ },
  "Bátmonostor": {
   "jaras": null,
   "lat": 46.10479,
   "lon": 18.92792,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Bátorliget": {
+  "jaras": null,
+  "lat": 47.75718,
+  "lon": 22.27118,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Bátya": {
+  "jaras": null,
+  "lat": 46.48742,
+  "lon": 18.95452,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Békés": {
+  "jaras": null,
+  "lat": 46.7863,
+  "lon": 20.98207,
+  "megye": "Békés vármegye"
+ },
+ "Békéscsaba": {
+  "jaras": null,
+  "lat": 46.6798,
+  "lon": 21.09854,
+  "megye": "Békés vármegye"
  },
  "Bénye": {
   "jaras": null,
