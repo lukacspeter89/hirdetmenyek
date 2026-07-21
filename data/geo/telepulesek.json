@@ -191,11 +191,35 @@
   "lon": 21.66922,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Hatvan": {
+  "jaras": null,
+  "lat": 47.6684,
+  "lon": 19.67439,
+  "megye": "Heves vármegye"
+ },
+ "Hegyesd": {
+  "jaras": null,
+  "lat": 46.91608,
+  "lon": 17.52111,
+  "megye": "Veszprém vármegye"
+ },
  "Heves": {
   "jaras": null,
   "lat": 47.78844,
   "lon": 20.17144,
   "megye": "Heves vármegye"
+ },
+ "Jánossomorja": {
+  "jaras": null,
+  "lat": 47.78592,
+  "lon": 17.13642,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Kapolcs": {
+  "jaras": null,
+  "lat": 46.9559,
+  "lon": 17.60893,
+  "megye": "Veszprém vármegye"
  },
  "Kaposmérő": {
   "jaras": null,
@@ -203,11 +227,29 @@
   "lon": 17.70553,
   "megye": "Somogy vármegye"
  },
+ "Kartal": {
+  "jaras": null,
+  "lat": 47.66792,
+  "lon": 19.5311,
+  "megye": "Pest vármegye"
+ },
+ "Kecskemét": {
+  "jaras": null,
+  "lat": 46.90748,
+  "lon": 19.69209,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Kecskéd": {
   "jaras": null,
   "lat": 47.52402,
   "lon": 18.3076,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Kisvárda": {
+  "jaras": null,
+  "lat": 48.22576,
+  "lon": 22.07842,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Kozárd": {
   "jaras": null,
@@ -215,17 +257,65 @@
   "lon": 19.61821,
   "megye": "Nógrád vármegye"
  },
+ "Kunszentmárton": {
+  "jaras": null,
+  "lat": 46.83991,
+  "lon": 20.29088,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
  "Kéthely": {
   "jaras": null,
   "lat": 46.64694,
   "lon": 17.39333,
   "megye": "Somogy vármegye"
  },
+ "Köröm": {
+  "jaras": null,
+  "lat": 47.98293,
+  "lon": 20.95307,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kőtelek": {
+  "jaras": null,
+  "lat": 47.33208,
+  "lon": 20.44299,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
  "Lepsény": {
   "jaras": null,
   "lat": 46.99467,
   "lon": 18.24436,
   "megye": "Fejér vármegye"
+ },
+ "Litér": {
+  "jaras": null,
+  "lat": 47.09992,
+  "lon": 18.0076,
+  "megye": "Veszprém vármegye"
+ },
+ "Lánycsók": {
+  "jaras": null,
+  "lat": 46.00482,
+  "lon": 18.62361,
+  "megye": "Baranya vármegye"
+ },
+ "Magyarcsanád": {
+  "jaras": null,
+  "lat": 46.16967,
+  "lon": 20.60993,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Maroslele": {
+  "jaras": null,
+  "lat": 46.27067,
+  "lon": 20.34186,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Mecseknádasd": {
+  "jaras": null,
+  "lat": 46.22441,
+  "lon": 18.46452,
+  "megye": "Baranya vármegye"
  },
  "Orosháza": {
   "jaras": null,
