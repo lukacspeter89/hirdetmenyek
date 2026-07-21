@@ -177,17 +177,107 @@
   "lon": 17.34626,
   "megye": "Somogy vármegye"
  },
+ "Babót": {
+  "jaras": null,
+  "lat": 47.57599,
+  "lon": 17.07563,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Bag": {
+  "jaras": null,
+  "lat": 47.63373,
+  "lon": 19.47921,
+  "megye": "Pest vármegye"
+ },
+ "Bagod": {
+  "jaras": null,
+  "lat": 46.87686,
+  "lon": 16.74376,
+  "megye": "Zala vármegye"
+ },
  "Baja": {
   "jaras": null,
   "lat": 46.17855,
   "lon": 18.95173,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Bajánsenye": {
+  "jaras": null,
+  "lat": 46.80161,
+  "lon": 16.38408,
+  "megye": "Vas vármegye"
+ },
+ "Bajót": {
+  "jaras": null,
+  "lat": 47.72585,
+  "lon": 18.55795,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Bak": {
   "jaras": null,
   "lat": 46.73063,
   "lon": 16.84558,
   "megye": "Zala vármegye"
+ },
+ "Bakonyszentkirály": {
+  "jaras": null,
+  "lat": 47.36393,
+  "lon": 17.8826,
+  "megye": "Veszprém vármegye"
+ },
+ "Baktalórántháza": {
+  "jaras": null,
+  "lat": 47.9988,
+  "lon": 22.07664,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Balatonalmádi": {
+  "jaras": null,
+  "lat": 47.03028,
+  "lon": 18.01558,
+  "megye": "Veszprém vármegye"
+ },
+ "Balatonberény": {
+  "jaras": null,
+  "lat": 46.71084,
+  "lon": 17.31932,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonederics": {
+  "jaras": null,
+  "lat": 46.80914,
+  "lon": 17.38131,
+  "megye": "Veszprém vármegye"
+ },
+ "Balatonendréd": {
+  "jaras": null,
+  "lat": 46.83624,
+  "lon": 17.97659,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonfűzfő": {
+  "jaras": null,
+  "lat": 47.062,
+  "lon": 18.04097,
+  "megye": "Veszprém vármegye"
+ },
+ "Balatonkenese": {
+  "jaras": null,
+  "lat": 47.03551,
+  "lon": 18.10874,
+  "megye": "Veszprém vármegye"
+ },
+ "Balatonkeresztúr": {
+  "jaras": null,
+  "lat": 46.69766,
+  "lon": 17.37039,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonszabadi": {
+  "jaras": null,
+  "lat": 46.89133,
+  "lon": 18.13357,
+  "megye": "Somogy vármegye"
  },
  "Balatonszemes": {
   "jaras": null,
