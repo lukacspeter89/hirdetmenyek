@@ -10366,7 +10366,7 @@
  },
  "2226197": {
   "altipus": "haszonbérletére",
-  "ar_ft": 10,
+  "ar_ft": 1050,
   "ar_raw": [
    "10.50 Ft/m2/év"
   ],
@@ -10375,7 +10375,7 @@
    1055929
   ],
   "forras": "Enyingi Polgármesteri Hivatal",
-  "ft_per_ha": 80,
+  "ft_per_ha": 8400,
   "hrsz": [
    "1040/4"
   ],
@@ -15648,7 +15648,7 @@
  },
  "2226341": {
   "altipus": "adás-vételére",
-  "ar_ft": 314,
+  "ar_ft": 31400,
   "ar_raw": [
    "314.00 Ft"
   ],
@@ -15657,7 +15657,7 @@
    1056055
   ],
   "forras": "Egyházasgerge Község Önkormányzata",
-  "ft_per_ha": 11,
+  "ft_per_ha": 1059,
   "hrsz": [
    "055/5"
   ],
@@ -19439,7 +19439,7 @@
    1056156
   ],
   "forras": "Üllési Polgármesteri Hivatal",
-  "ft_per_ha": 60000000000,
+  "ft_per_ha": 4353189,
   "hrsz": [
    "075/155; 075/185 és 075/190"
   ],
@@ -19454,7 +19454,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Üllés hrsz.: 075/155; 075/185 és 075/190",
   "telepules": "Üllés",
-  "terulet_m2": 1,
+  "terulet_m2": 13783,
   "terulet_raw": [
    "1.3783 m2; 2386 m2 és 1.3355 m2"
   ],
@@ -20894,7 +20894,7 @@
    1056197
   ],
   "forras": "Csemő Község Polgármesteri Hivatala",
-  "ft_per_ha": 45000000000,
+  "ft_per_ha": 4090909,
   "hrsz": [
    "0372/16 ;                                    0372/17"
   ],
@@ -20909,7 +20909,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Csemő hrsz.: 0372/16 ;                                    0372/17",
   "telepules": "Csemő",
-  "terulet_m2": 1,
+  "terulet_m2": 11000,
   "terulet_raw": [
    "1.1000 m2                             2.9610 m2"
   ],
@@ -38839,7 +38839,7 @@
  },
  "2226967": {
   "altipus": "adás-vételére",
-  "ar_ft": 3,
+  "ar_ft": 3000000,
   "ar_raw": [
    "3.000 000.-Ft"
   ],
@@ -38848,7 +38848,7 @@
    1056705
   ],
   "forras": "Zalalövői Közös Önkormányzati Hivatal",
-  "ft_per_ha": 32,
+  "ft_per_ha": 32085561,
   "hrsz": [
    "Zártkert 3286 hrsz."
   ],
@@ -45705,7 +45705,7 @@
  },
  "2227158": {
   "altipus": "haszonbérletére",
-  "ar_ft": 137950,
+  "ar_ft": 196423,
   "ar_raw": [
    "80.000 Ft/ha/év",
    "80.0000Ft/év/ha"
@@ -45715,7 +45715,7 @@
    1056873
   ],
   "forras": "Gyöngyöspatai Polgármesteri Hivatal",
-  "ft_per_ha": 76750,
+  "ft_per_ha": 109282,
   "hrsz": [
    "0184_18hrsz",
    "0184_18hrsz"
@@ -48972,7 +48972,7 @@
  },
  "2227254": {
   "altipus": "adás-vételére",
-  "ar_ft": 1,
+  "ar_ft": 1200000,
   "ar_raw": [
    "1.200 000.-Ft"
   ],
@@ -48981,7 +48981,7 @@
    1056968
   ],
   "forras": "Zalalövői Közös Önkormányzati Hivatal",
-  "ft_per_ha": 5,
+  "ft_per_ha": 5958292,
   "hrsz": [
    "Zárkert 3207 hrsz"
   ],
@@ -56012,7 +56012,7 @@
  },
  "2227451": {
   "altipus": "adás-vételére",
-  "ar_ft": 300150,
+  "ar_ft": 315000,
   "ar_raw": [
    "150.00 Ft",
    "300.000 Ft"
@@ -56022,7 +56022,7 @@
    1057164
   ],
   "forras": "Mezőkovácsházi Polgármesteri Hivatal ",
-  "ft_per_ha": 1921575,
+  "ft_per_ha": 2016645,
   "hrsz": [
    "2969 hrsz.",
    "2970 hrsz."
@@ -61822,7 +61822,7 @@
   "status": "ar_nem_ertelmezheto",
   "targy": "Adás-vétel - Ömböly hrsz.: 0151/2",
   "telepules": "Ömböly",
-  "terulet_m2": 4,
+  "terulet_m2": 40058,
   "terulet_raw": [
    "4.0058 m2"
   ],
@@ -75674,7 +75674,7 @@
    1057778
   ],
   "forras": "SZEDERKÉNY KÖZSÉG ÖNKORMÁNYZATA",
-  "ft_per_ha": 143363,
+  "ft_per_ha": 88212,
   "hrsz": [
    "0131/5",
    "1014/1",
@@ -75705,7 +75705,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Szederkény hrsz.: 0131/5|Adás-vétel - Szederkény hrsz.: 1014/1|Adás-vétel - Szederkény hrsz.: 1014/2|Adás-vétel - Olasz hrsz.: 062/2|Adás-vétel - Máriakéménd hrsz.: 0137/4|Adás-vétel - Máriakéménd hrsz.: 0141/15|Adás-vétel - Máriakéménd hrsz.: 0141/17|Adás-vétel - Máriakéménd hrsz.: 0173/7|Adás-vétel - Máriakéménd hrsz.: 1129|Adás-vétel - Máriakéménd hrsz.: 0159/4|Adás-vétel - Máriakéménd hrsz.: 0165/1|Adás-vétel - Máriakéménd hrsz.: 0159/6",
   "telepules": "Szederkény",
-  "terulet_m2": 86075,
+  "terulet_m2": 139890,
   "terulet_raw": [
    "1733 m2",
    "429 m2",
@@ -77178,7 +77178,7 @@
  },
  "2228045": {
   "altipus": "adás-vételére",
-  "ar_ft": 2,
+  "ar_ft": 1500000,
   "ar_raw": [
    "1.500 000.-Ft egybefoglalt vételár"
   ],
@@ -77187,7 +77187,7 @@
    1057773
   ],
   "forras": "Szakmári Közös Önkormányzati Hivatal Homokmégyi Kirendeltsége",
-  "ft_per_ha": 6,
+  "ft_per_ha": 4366812,
   "hrsz": [
    "0581/17 hrsz                       0581/18 hrsz"
   ],

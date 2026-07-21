@@ -495,11 +495,101 @@
   "lon": 18.1186,
   "megye": "Baranya vármegye"
  },
+ "Bodrogkeresztúr": {
+  "jaras": null,
+  "lat": 48.15876,
+  "lon": 21.36066,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Bodrogkisfalud": {
   "jaras": null,
   "lat": 48.17283,
   "lon": 21.35745,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bodrogolaszi": {
+  "jaras": null,
+  "lat": 48.28765,
+  "lon": 21.51763,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bogyiszló": {
+  "jaras": null,
+  "lat": 46.38324,
+  "lon": 18.8167,
+  "megye": "Tolna vármegye"
+ },
+ "Bogács": {
+  "jaras": null,
+  "lat": 47.90412,
+  "lon": 20.53145,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bojt": {
+  "jaras": null,
+  "lat": 47.19361,
+  "lon": 21.73473,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Boldogkőváralja": {
+  "jaras": null,
+  "lat": 48.33821,
+  "lon": 21.23781,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Boldva": {
+  "jaras": null,
+  "lat": 48.21718,
+  "lon": 20.78842,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bolhás": {
+  "jaras": null,
+  "lat": 46.26333,
+  "lon": 17.27188,
+  "megye": "Somogy vármegye"
+ },
+ "Bolhó": {
+  "jaras": null,
+  "lat": 46.03842,
+  "lon": 17.29785,
+  "megye": "Somogy vármegye"
+ },
+ "Bonyhád": {
+  "jaras": null,
+  "lat": 46.29842,
+  "lon": 18.53219,
+  "megye": "Tolna vármegye"
+ },
+ "Bordány": {
+  "jaras": null,
+  "lat": 46.32163,
+  "lon": 19.92178,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Borota": {
+  "jaras": null,
+  "lat": 46.26568,
+  "lon": 19.22317,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Borszörcsök": {
+  "jaras": null,
+  "lat": 47.13427,
+  "lon": 17.40377,
+  "megye": "Veszprém vármegye"
+ },
+ "Budakeszi": {
+  "jaras": null,
+  "lat": 47.50994,
+  "lon": 18.92938,
+  "megye": "Pest vármegye"
+ },
+ "Budapest": {
+  "jaras": null,
+  "lat": 47.48139,
+  "lon": 19.14577,
+  "megye": null
  },
  "Bácsalmás": {
   "jaras": null,
