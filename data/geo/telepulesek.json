@@ -285,6 +285,24 @@
   "lon": 17.77899,
   "megye": "Somogy vármegye"
  },
+ "Balatonszepezd": {
+  "jaras": null,
+  "lat": 46.85183,
+  "lon": 17.66376,
+  "megye": "Veszprém vármegye"
+ },
+ "Balatonszárszó": {
+  "jaras": null,
+  "lat": 46.82629,
+  "lon": 17.83419,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonvilágos": {
+  "jaras": null,
+  "lat": 46.96417,
+  "lon": 18.15931,
+  "megye": "Somogy vármegye"
+ },
  "Balatonújlak": {
   "jaras": null,
   "lat": 46.67598,
@@ -297,10 +315,82 @@
   "lon": 17.80022,
   "megye": "Somogy vármegye"
  },
+ "Balkány": {
+  "jaras": null,
+  "lat": 47.77009,
+  "lon": 21.86013,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Balmazújváros": {
+  "jaras": null,
+  "lat": 47.61163,
+  "lon": 21.34374,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Balotaszállás": {
+  "jaras": null,
+  "lat": 46.35101,
+  "lon": 19.53618,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Balástya": {
+  "jaras": null,
+  "lat": 46.42333,
+  "lon": 20.00922,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Baracs": {
+  "jaras": null,
+  "lat": 46.9133,
+  "lon": 18.86578,
+  "megye": "Fejér vármegye"
+ },
+ "Barcs": {
+  "jaras": null,
+  "lat": 45.96051,
+  "lon": 17.46341,
+  "megye": "Somogy vármegye"
+ },
+ "Battonya": {
+  "jaras": null,
+  "lat": 46.28587,
+  "lon": 21.02189,
+  "megye": "Békés vármegye"
+ },
  "Becsehely": {
   "jaras": null,
   "lat": 46.44762,
   "lon": 16.79165,
+  "megye": "Zala vármegye"
+ },
+ "Becsvölgye": {
+  "jaras": null,
+  "lat": 46.75928,
+  "lon": 16.68129,
+  "megye": "Zala vármegye"
+ },
+ "Bedő": {
+  "jaras": null,
+  "lat": 47.16395,
+  "lon": 21.75031,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Bekecs": {
+  "jaras": null,
+  "lat": 48.15159,
+  "lon": 21.17114,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Belezna": {
+  "jaras": null,
+  "lat": 46.32846,
+  "lon": 16.94113,
+  "megye": "Zala vármegye"
+ },
+ "Belsősárd": {
+  "jaras": null,
+  "lat": 46.64261,
+  "lon": 16.4716,
   "megye": "Zala vármegye"
  },
  "Berzék": {
