@@ -46,9 +46,9 @@ def _hu_number(raw: str, dot_is_decimal: bool = False):
     A pont alapból ezreselválasztó ("140.000 Ft"), DE a forrás néhol
     tizedespontot használ ("11.0483 ha", "273.45 Ak"). Ezért:
       - ha vessző ÉS pont is van, az utolsó elválasztó a tizedes;
-      - dot_is_decimal=True esetén (hektár-kontextus) a pont tizedesjel;
-      - egyébként a pont ezreselválasztó, KIVÉVE ha nem pontosan
-        3 számjegy követi (pl. "11.0483" → tizedes).
+      - dot_is_decimal=True esetén (hektár-kontextus, egyetlen pont) a
+        pont tizedesjel: "11.0483 ha";
+      - minden más esetben a pont ezreselválasztó.
     A ',-' / '.-' ártipográfiai farok nem tizedes."""
     txt = raw.strip().rstrip("-").rstrip(".,").strip()
     txt = txt.replace("\xa0", "").replace(" ", "")
@@ -67,9 +67,10 @@ def _hu_number(raw: str, dot_is_decimal: bool = False):
         # magyarban a vessző tizedes; több vessző → ezres tagolás
         txt = txt.replace(",", ".") if txt.count(",") == 1 else txt.replace(",", "")
     elif has_d:
-        frac = txt.rsplit(".", 1)[1]
-        thousands = txt.count(".") > 1 or (len(frac) == 3 and not dot_is_decimal)
-        if thousands:
+        # Alapból a pont ezreselválasztó (magyar konvenció: "1.200 000.-Ft").
+        # Csak hektár-kontextusban, EGYETLEN pont esetén tekintjük tizedesnek
+        # ("11.0483 ha"), mert ott ezres tagolásra nincs reális igény.
+        if not (dot_is_decimal and txt.count(".") == 1):
             txt = txt.replace(".", "")
 
     try:
