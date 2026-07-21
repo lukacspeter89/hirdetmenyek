@@ -1,4 +1,5 @@
 {
+ "120 évnél régebben születettek - Bogdása": null,
  "120 évnél régebben születettek - Gecse": null,
  "120 évnél régebben születettek - Vanyola": null,
  "120 évnél régebben születettek - Újpetre": null,
@@ -20,6 +21,12 @@
   "lon": 17.03468,
   "megye": "Somogy vármegye"
  },
+ "Abasár": {
+  "jaras": null,
+  "lat": 47.79487,
+  "lon": 20.00049,
+  "megye": "Heves vármegye"
+ },
  "Abod": {
   "jaras": null,
   "lat": 48.39265,
@@ -37,6 +44,18 @@
   "lat": 47.47601,
   "lon": 20.59977,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Acsa": {
+  "jaras": null,
+  "lat": 47.79253,
+  "lon": 19.3863,
+  "megye": "Pest vármegye"
+ },
+ "Adony": {
+  "jaras": null,
+  "lat": 47.1209,
+  "lon": 18.86311,
+  "megye": "Fejér vármegye"
  },
  "Adorjánháza": {
   "jaras": null,
@@ -56,11 +75,23 @@
   "lon": 17.55873,
   "megye": "Veszprém vármegye"
  },
+ "Alattyán": {
+  "jaras": null,
+  "lat": 47.42568,
+  "lon": 20.04759,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
  "Albertirsa": {
   "jaras": null,
   "lat": 47.24573,
   "lon": 19.61278,
   "megye": "Pest vármegye"
+ },
+ "Almamellék": {
+  "jaras": null,
+  "lat": 46.15754,
+  "lon": 17.87414,
+  "megye": "Baranya vármegye"
  },
  "Alsónemesapáti": {
   "jaras": null,
@@ -91,6 +122,60 @@
   "lat": 48.0703,
   "lon": 20.882,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Alsóörs": {
+  "jaras": null,
+  "lat": 46.98827,
+  "lon": 17.97707,
+  "megye": "Veszprém vármegye"
+ },
+ "Ambrózfalva": {
+  "jaras": null,
+  "lat": 46.34954,
+  "lon": 20.73009,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Andornaktálya": {
+  "jaras": null,
+  "lat": 47.84364,
+  "lon": 20.4126,
+  "megye": "Heves vármegye"
+ },
+ "Annavölgy": {
+  "jaras": null,
+  "lat": 47.69605,
+  "lon": 18.66588,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Apátfalva": {
+  "jaras": null,
+  "lat": 46.17684,
+  "lon": 20.57465,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Aszófő": {
+  "jaras": null,
+  "lat": 46.92889,
+  "lon": 17.83339,
+  "megye": "Veszprém vármegye"
+ },
+ "Atkár": {
+  "jaras": null,
+  "lat": 47.71962,
+  "lon": 19.89016,
+  "megye": "Heves vármegye"
+ },
+ "Babarc": {
+  "jaras": null,
+  "lat": 46.00381,
+  "lon": 18.55472,
+  "megye": "Baranya vármegye"
+ },
+ "Babócsa": {
+  "jaras": null,
+  "lat": 46.03711,
+  "lon": 17.34626,
+  "megye": "Somogy vármegye"
  },
  "Baja": {
   "jaras": null,
