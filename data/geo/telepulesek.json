@@ -1,4 +1,55 @@
 {
+ "120 évnél régebben születettek - Gecse": null,
+ "120 évnél régebben születettek - Vanyola": null,
+ "120 évnél régebben születettek - Újpetre": null,
+ "4066 Tiszacsege": {
+  "jaras": null,
+  "lat": 47.69755,
+  "lon": 20.9936,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "6043 Kunbaracs": {
+  "jaras": null,
+  "lat": 46.98932,
+  "lon": 19.40052,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "8858 Porrog": {
+  "jaras": null,
+  "lat": 46.28676,
+  "lon": 17.03468,
+  "megye": "Somogy vármegye"
+ },
+ "Abod": {
+  "jaras": null,
+  "lat": 48.39265,
+  "lon": 20.79104,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Abony": {
+  "jaras": null,
+  "lat": 47.18874,
+  "lon": 20.00478,
+  "megye": "Pest vármegye"
+ },
+ "Abádszalók": {
+  "jaras": null,
+  "lat": 47.47601,
+  "lon": 20.59977,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Adorjánháza": {
+  "jaras": null,
+  "lat": 47.2431,
+  "lon": 17.23954,
+  "megye": "Veszprém vármegye"
+ },
+ "Aggtelek": {
+  "jaras": null,
+  "lat": 48.46751,
+  "lon": 20.50543,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Ajka": {
   "jaras": null,
   "lat": 47.10566,
@@ -11,11 +62,35 @@
   "lon": 19.61278,
   "megye": "Pest vármegye"
  },
+ "Alsónemesapáti": {
+  "jaras": null,
+  "lat": 46.85339,
+  "lon": 16.93049,
+  "megye": "Zala vármegye"
+ },
+ "Alsónémedi": {
+  "jaras": null,
+  "lat": 47.31467,
+  "lon": 19.1657,
+  "megye": "Pest vármegye"
+ },
  "Alsópáhok": {
   "jaras": null,
   "lat": 46.76132,
   "lon": 17.1739,
   "megye": "Zala vármegye"
+ },
+ "Alsószentiván": {
+  "jaras": null,
+  "lat": 46.79578,
+  "lon": 18.73215,
+  "megye": "Fejér vármegye"
+ },
+ "Alsózsolca": {
+  "jaras": null,
+  "lat": 48.0703,
+  "lon": 20.882,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Baja": {
   "jaras": null,
