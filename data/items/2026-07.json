@@ -10366,7 +10366,7 @@
  },
  "2226197": {
   "altipus": "haszonbérletére",
-  "ar_ft": 1050,
+  "ar_ft": 10,
   "ar_raw": [
    "10.50 Ft/m2/év"
   ],
@@ -10375,7 +10375,7 @@
    1055929
   ],
   "forras": "Enyingi Polgármesteri Hivatal",
-  "ft_per_ha": 8400,
+  "ft_per_ha": 80,
   "hrsz": [
    "1040/4"
   ],
@@ -15648,7 +15648,7 @@
  },
  "2226341": {
   "altipus": "adás-vételére",
-  "ar_ft": 31400,
+  "ar_ft": 314,
   "ar_raw": [
    "314.00 Ft"
   ],
@@ -15657,7 +15657,7 @@
    1056055
   ],
   "forras": "Egyházasgerge Község Önkormányzata",
-  "ft_per_ha": 1059,
+  "ft_per_ha": 11,
   "hrsz": [
    "055/5"
   ],
@@ -19358,7 +19358,7 @@
  },
  "2226440": {
   "altipus": "haszonbérletére",
-  "ar_ft": 21258160000,
+  "ar_ft": 2125816,
   "ar_raw": [
    "70000Ft/ha/év"
   ],
@@ -19382,7 +19382,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Erdőkürt hrsz.: 054/3",
   "telepules": "Erdőkürt",
-  "terulet_m2": 3036880000,
+  "terulet_m2": 303688,
   "terulet_raw": [
    "30.3688ha"
   ],
@@ -19439,7 +19439,7 @@
    1056156
   ],
   "forras": "Üllési Polgármesteri Hivatal",
-  "ft_per_ha": 4353189,
+  "ft_per_ha": 60000000000,
   "hrsz": [
    "075/155; 075/185 és 075/190"
   ],
@@ -19454,7 +19454,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Üllés hrsz.: 075/155; 075/185 és 075/190",
   "telepules": "Üllés",
-  "terulet_m2": 13783,
+  "terulet_m2": 1,
   "terulet_raw": [
    "1.3783 m2; 2386 m2 és 1.3355 m2"
   ],
@@ -20894,7 +20894,7 @@
    1056197
   ],
   "forras": "Csemő Község Polgármesteri Hivatala",
-  "ft_per_ha": 4090909,
+  "ft_per_ha": 45000000000,
   "hrsz": [
    "0372/16 ;                                    0372/17"
   ],
@@ -20909,7 +20909,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Csemő hrsz.: 0372/16 ;                                    0372/17",
   "telepules": "Csemő",
-  "terulet_m2": 11000,
+  "terulet_m2": 1,
   "terulet_raw": [
    "1.1000 m2                             2.9610 m2"
   ],
@@ -20930,7 +20930,7 @@
    1056218
   ],
   "forras": "Gyöngyöstarjáni Közös Önkormányzati Hivatal",
-  "ft_per_ha": 181,
+  "ft_per_ha": 1812579,
   "hrsz": [
    "0262/7"
   ],
@@ -20945,7 +20945,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Gyöngyöstarján hrsz.: 0262/7",
   "telepules": "Gyöngyöstarján",
-  "terulet_m2": 55170000,
+  "terulet_m2": 5517,
   "terulet_raw": [
    "0.5517 ha"
   ],
@@ -21006,7 +21006,7 @@
    1056220
   ],
   "forras": "Hernádkaki Közös Önkormányzati Hivatal",
-  "ft_per_ha": 6,
+  "ft_per_ha": 64828,
   "hrsz": [
    "07/6.hrsz."
   ],
@@ -21021,7 +21021,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Sóstófalva hrsz.: 07/6.hrsz.",
   "telepules": "Sóstófalva",
-  "terulet_m2": 462760000,
+  "terulet_m2": 46276,
   "terulet_raw": [
    "4.6276 ha"
   ],
@@ -21295,7 +21295,7 @@
    1056207
   ],
   "forras": "Hernádkaki Közös Önkormányzati Hivatal",
-  "ft_per_ha": 11,
+  "ft_per_ha": 105539,
   "hrsz": [
    "03/4.hrsz."
   ],
@@ -21310,7 +21310,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Sóstófalva hrsz.: 03/4.hrsz.",
   "telepules": "Sóstófalva",
-  "terulet_m2": 663260000,
+  "terulet_m2": 66326,
   "terulet_raw": [
    "6.6326 ha"
   ],
@@ -22140,7 +22140,7 @@
    1056252
   ],
   "forras": "Boconádi Közös Önkormányzati Hivatal Zaránki Kirendeltsége",
-  "ft_per_ha": 202,
+  "ft_per_ha": 2017975,
   "hrsz": [
    "8/21"
   ],
@@ -22155,7 +22155,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Zaránk hrsz.: 8/21",
   "telepules": "Zaránk",
-  "terulet_m2": 235880000,
+  "terulet_m2": 23588,
   "terulet_raw": [
    "2.3588 ha"
   ],
@@ -23690,7 +23690,7 @@
    1056294
   ],
   "forras": "Kázsmárki Közös Önkormányzati Hivatal",
-  "ft_per_ha": 250,
+  "ft_per_ha": 2500050,
   "hrsz": [
    "048/6"
   ],
@@ -23705,7 +23705,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Rásonysápberencs hrsz.: 048/6",
   "telepules": "Rásonysápberencs",
-  "terulet_m2": 496630000,
+  "terulet_m2": 49663,
   "terulet_raw": [
    "4. 9663  ha,m2"
   ],
@@ -24086,7 +24086,7 @@
   "status": "aranykorona_alapu_dij",
   "targy": "Haszonbérlet - Gyöngyöstarján hrsz.: 092/31, 092/32",
   "telepules": "Gyöngyöstarján",
-  "terulet_m2": 54380000,
+  "terulet_m2": 5438,
   "terulet_raw": [
    "0.5438 ha, 1.0995 ha"
   ],
@@ -26243,7 +26243,7 @@
  },
  "2226623": {
   "altipus": "haszonbérletére",
-  "ar_ft": 266160000,
+  "ar_ft": 26616,
   "ar_raw": [
    "80.000 Ft/ha/év"
   ],
@@ -26267,7 +26267,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Gyöngyöspata hrsz.: 01114_54",
   "telepules": "Gyöngyöspata",
-  "terulet_m2": 33270000,
+  "terulet_m2": 3327,
   "terulet_raw": [
    "0.3327ha"
   ],
@@ -26807,7 +26807,7 @@
  },
  "2226638": {
   "altipus": "haszonbérletére",
-  "ar_ft": 2218560000,
+  "ar_ft": 221856,
   "ar_raw": [
    "80.000 Ft/ha/év"
   ],
@@ -26831,7 +26831,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Gyöngyöspata hrsz.: 0234/96 hrsz",
   "telepules": "Gyöngyöspata",
-  "terulet_m2": 277320000,
+  "terulet_m2": 27732,
   "terulet_raw": [
    "2.7732 ha"
   ],
@@ -30734,7 +30734,7 @@
   "status": "aranykorona_alapu_dij",
   "targy": "Haszonbérlet - Gyékényes hrsz.: 081/2",
   "telepules": "Gyékényes",
-  "terulet_m2": 1584210000,
+  "terulet_m2": 158421,
   "terulet_raw": [
    "15.8421 Ha"
   ],
@@ -33120,7 +33120,7 @@
  },
  "2226807": {
   "altipus": "haszonbérletére",
-  "ar_ft": 911360000,
+  "ar_ft": 91136,
   "ar_raw": [
    "80.000,-Ft/év/ha"
   ],
@@ -33145,7 +33145,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Gyöngyöstarján hrsz.: 0125/5, 0125/86",
   "telepules": "Gyöngyöstarján",
-  "terulet_m2": 113920000,
+  "terulet_m2": 11392,
   "terulet_raw": [
    "1.1392 ha, 0.3886 ha"
   ],
@@ -33846,7 +33846,7 @@
  },
  "2226827": {
   "altipus": "haszonbérletére",
-  "ar_ft": 367840000,
+  "ar_ft": 36784,
   "ar_raw": [
    "80.000,-Ft/év/ha"
   ],
@@ -33871,7 +33871,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Gyöngyöstarján hrsz.: 0120/23, 0120/24",
   "telepules": "Gyöngyöstarján",
-  "terulet_m2": 45980000,
+  "terulet_m2": 4598,
   "terulet_raw": [
    "0.4598 ha, 1.5899 ha"
   ],
@@ -38839,7 +38839,7 @@
  },
  "2226967": {
   "altipus": "adás-vételére",
-  "ar_ft": 3000000,
+  "ar_ft": 3,
   "ar_raw": [
    "3.000 000.-Ft"
   ],
@@ -38848,7 +38848,7 @@
    1056705
   ],
   "forras": "Zalalövői Közös Önkormányzati Hivatal",
-  "ft_per_ha": 32085561,
+  "ft_per_ha": 32,
   "hrsz": [
    "Zártkert 3286 hrsz."
   ],
@@ -39339,7 +39339,7 @@
  },
  "2226982": {
   "altipus": "haszonbérletére",
-  "ar_ft": 751700000,
+  "ar_ft": 75170,
   "ar_raw": [
    "100.000 Ft/ha/év"
   ],
@@ -39363,7 +39363,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Feketeerdő hrsz.: 038/9",
   "telepules": "Feketeerdő",
-  "terulet_m2": 75170000,
+  "terulet_m2": 7517,
   "terulet_raw": [
    "0.7517 ha"
   ],
@@ -39560,7 +39560,7 @@
  },
  "2226988": {
   "altipus": "haszonbérletére",
-  "ar_ft": 602810000,
+  "ar_ft": 60281,
   "ar_raw": [
    "130000Ft/ha/év"
   ],
@@ -39584,7 +39584,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Kisdombegyház hrsz.: 017/15",
   "telepules": "Kisdombegyház",
-  "terulet_m2": 46370000,
+  "terulet_m2": 4637,
   "terulet_raw": [
    "0.4637 ha"
   ],
@@ -39953,7 +39953,7 @@
  },
  "2227000": {
   "altipus": "haszonbérletére",
-  "ar_ft": 3093360000,
+  "ar_ft": 309336,
   "ar_raw": [
    "80.000 Ft-/ha",
    "80.000 Ft/ha"
@@ -39979,7 +39979,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Ercsi hrsz.: 0191/9|Haszonbérlet - Ercsi hrsz.: 0191/10",
   "telepules": "Ercsi",
-  "terulet_m2": 386670000,
+  "terulet_m2": 38667,
   "terulet_raw": [
    "3.1951 ha",
    "0.6716 ha"
@@ -40490,7 +40490,7 @@
    1056730
   ],
   "forras": "Kurdi Közös Önkormányzati Hivatal",
-  "ft_per_ha": 122,
+  "ft_per_ha": 1217383,
   "hrsz": [
    "0122/5hrsz."
   ],
@@ -40505,7 +40505,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Csibrák hrsz.: 0122/5hrsz.",
   "telepules": "Csibrák",
-  "terulet_m2": 4044490000,
+  "terulet_m2": 404449,
   "terulet_raw": [
    "40.4449 ha"
   ],
@@ -41238,7 +41238,7 @@
  },
  "2227035": {
   "altipus": "haszonbérletére",
-  "ar_ft": 1337730000,
+  "ar_ft": 133773,
   "ar_raw": [
    "85 000 Ft/HA/ év"
   ],
@@ -41262,7 +41262,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Kékesd hrsz.: 064/8 hrsz",
   "telepules": "Kékesd",
-  "terulet_m2": 157380000,
+  "terulet_m2": 15738,
   "terulet_raw": [
    "1.5738 ha"
   ],
@@ -41645,7 +41645,7 @@
    1056783
   ],
   "forras": "Tatabánya Megyei Jogú Város Polgármesteri Hivatala",
-  "ft_per_ha": 2,
+  "ft_per_ha": 18071,
   "hrsz": [
    "0919/6"
   ],
@@ -41660,7 +41660,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Tatabánya hrsz.: 0919/6",
   "telepules": "Tatabánya",
-  "terulet_m2": 320950000,
+  "terulet_m2": 32095,
   "terulet_raw": [
    "3.2095 ha"
   ],
@@ -45705,7 +45705,7 @@
  },
  "2227158": {
   "altipus": "haszonbérletére",
-  "ar_ft": 1964234668,
+  "ar_ft": 137950,
   "ar_raw": [
    "80.000 Ft/ha/év",
    "80.0000Ft/év/ha"
@@ -45715,7 +45715,7 @@
    1056873
   ],
   "forras": "Gyöngyöspatai Polgármesteri Hivatal",
-  "ft_per_ha": 109282,
+  "ft_per_ha": 76750,
   "hrsz": [
    "0184_18hrsz",
    "0184_18hrsz"
@@ -45732,7 +45732,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Gyöngyöspata hrsz.: 0184_18hrsz|Haszonbérlet - Gyöngyöspata hrsz.: 0184_18hrsz",
   "telepules": "Gyöngyöspata",
-  "terulet_m2": 179740000,
+  "terulet_m2": 17974,
   "terulet_raw": [
    "1.7243ha",
    "0.0731ha"
@@ -46164,7 +46164,7 @@
    1056888
   ],
   "forras": "Tatabánya Megyei Jogú Város Polgármesteri Hivatala",
-  "ft_per_ha": 3,
+  "ft_per_ha": 27107,
   "hrsz": [
    "0919/6"
   ],
@@ -46179,7 +46179,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Tatabánya hrsz.: 0919/6",
   "telepules": "Tatabánya",
-  "terulet_m2": 320950000,
+  "terulet_m2": 32095,
   "terulet_raw": [
    "3.2095 ha"
   ],
@@ -47215,7 +47215,7 @@
   "status": "termeny_alapu_dij",
   "targy": "Haszonbérlet - Göncruszka hrsz.: 029/2",
   "telepules": "Göncruszka",
-  "terulet_m2": 174090000,
+  "terulet_m2": 17409,
   "terulet_raw": [
    "1.7409 ha"
   ],
@@ -48972,7 +48972,7 @@
  },
  "2227254": {
   "altipus": "adás-vételére",
-  "ar_ft": 1200000,
+  "ar_ft": 1,
   "ar_raw": [
    "1.200 000.-Ft"
   ],
@@ -48981,7 +48981,7 @@
    1056968
   ],
   "forras": "Zalalövői Közös Önkormányzati Hivatal",
-  "ft_per_ha": 5958292,
+  "ft_per_ha": 5,
   "hrsz": [
    "Zárkert 3207 hrsz"
   ],
@@ -50898,7 +50898,7 @@
  },
  "2227311": {
   "altipus": "haszonbérletére",
-  "ar_ft": 192480000,
+  "ar_ft": 19248,
   "ar_raw": [
    "80.000,-Ft/év/ha"
   ],
@@ -50922,7 +50922,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Gyöngyöstarján hrsz.: 092/77",
   "telepules": "Gyöngyöstarján",
-  "terulet_m2": 24060000,
+  "terulet_m2": 2406,
   "terulet_raw": [
    "0.2406 ha"
   ],
@@ -53374,7 +53374,7 @@
    1057095
   ],
   "forras": "Tatabánya Megyei Jogú Város Polgármesteri Hivatala",
-  "ft_per_ha": 3,
+  "ft_per_ha": 27107,
   "hrsz": [
    "0919/6"
   ],
@@ -53389,7 +53389,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Tatabánya hrsz.: 0919/6",
   "telepules": "Tatabánya",
-  "terulet_m2": 320950000,
+  "terulet_m2": 32095,
   "terulet_raw": [
    "3.2095 ha"
   ],
@@ -54347,7 +54347,7 @@
    1057138
   ],
   "forras": "Iharosberényi Közös Önkormányzati Hivatal",
-  "ft_per_ha": 18,
+  "ft_per_ha": 183948,
   "hrsz": [
    "04 hrsz;"
   ],
@@ -54362,7 +54362,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Inke hrsz.: 04 hrsz;",
   "telepules": "Inke",
-  "terulet_m2": 1267370000,
+  "terulet_m2": 126737,
   "terulet_raw": [
    "12.6737 Ha; 26.61 AK;"
   ],
@@ -54459,7 +54459,7 @@
    1057142
   ],
   "forras": "Iharosberényi Közös Önkormányzati Hivatal",
-  "ft_per_ha": 6,
+  "ft_per_ha": 59266,
   "hrsz": [
    "0145 hrsz;"
   ],
@@ -54474,7 +54474,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Inke hrsz.: 0145 hrsz;",
   "telepules": "Inke",
-  "terulet_m2": 168730000,
+  "terulet_m2": 16873,
   "terulet_raw": [
    "1.6873 Ha; 2.87 AK;"
   ],
@@ -54640,7 +54640,7 @@
    1057110
   ],
   "forras": "Iharosberényi Közös Önkormányzati Hivatal",
-  "ft_per_ha": 6,
+  "ft_per_ha": 56257,
   "hrsz": [
    "04 hrsz;",
    "05 hrsz;"
@@ -54657,7 +54657,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Inke hrsz.: 04 hrsz;|Adás-vétel - Inke hrsz.: 05 hrsz;",
   "telepules": "Inke",
-  "terulet_m2": 2481490000,
+  "terulet_m2": 248149,
   "terulet_raw": [
    "12.6737 Ha; 26.61 AK;",
    "12.1412 Ha; 25.49 AK;"
@@ -56012,7 +56012,7 @@
  },
  "2227451": {
   "altipus": "adás-vételére",
-  "ar_ft": 315000,
+  "ar_ft": 300150,
   "ar_raw": [
    "150.00 Ft",
    "300.000 Ft"
@@ -56022,7 +56022,7 @@
    1057164
   ],
   "forras": "Mezőkovácsházi Polgármesteri Hivatal ",
-  "ft_per_ha": 2016645,
+  "ft_per_ha": 1921575,
   "hrsz": [
    "2969 hrsz.",
    "2970 hrsz."
@@ -58025,7 +58025,7 @@
   "status": "aranykorona_alapu_dij",
   "targy": "Haszonbérlet - Kisszékely hrsz.: 027/33 hrsz",
   "telepules": "Kisszékely",
-  "terulet_m2": 316580000,
+  "terulet_m2": 31658,
   "terulet_raw": [
    "3.1658 ha, 84.77 AK"
   ],
@@ -61116,7 +61116,7 @@
    1057337
   ],
   "forras": "Mérai Közös Önkormányzati Hivatal",
-  "ft_per_ha": 0,
+  "ft_per_ha": 1465,
   "hrsz": [
    "076"
   ],
@@ -61131,7 +61131,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Fulókércs hrsz.: 076",
   "telepules": "Fulókércs",
-  "terulet_m2": 4401820000,
+  "terulet_m2": 440182,
   "terulet_raw": [
    "44.0182 ha"
   ],
@@ -61822,7 +61822,7 @@
   "status": "ar_nem_ertelmezheto",
   "targy": "Adás-vétel - Ömböly hrsz.: 0151/2",
   "telepules": "Ömböly",
-  "terulet_m2": 40058,
+  "terulet_m2": 4,
   "terulet_raw": [
    "4.0058 m2"
   ],
@@ -66450,7 +66450,7 @@
    1057483
   ],
   "forras": "Kónyi Közös Önkormányzati Hivatal Markotabödögei Kirendeltsége",
-  "ft_per_ha": 1,
+  "ft_per_ha": 12672,
   "hrsz": [
    "066/1."
   ],
@@ -66465,7 +66465,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Markotabödöge hrsz.: 066/1.",
   "telepules": "Markotabödöge",
-  "terulet_m2": 1104830000,
+  "terulet_m2": 110483,
   "terulet_raw": [
    "11.0483 ha"
   ],
@@ -66486,7 +66486,7 @@
    1057484
   ],
   "forras": "Kónyi Közös Önkormányzati Hivatal Markotabödögei Kirendeltsége",
-  "ft_per_ha": 1,
+  "ft_per_ha": 13124,
   "hrsz": [
    "066/1."
   ],
@@ -66501,7 +66501,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Markotabödöge hrsz.: 066/1.",
   "telepules": "Markotabödöge",
-  "terulet_m2": 1104830000,
+  "terulet_m2": 110483,
   "terulet_raw": [
    "11.0483 ha"
   ],
@@ -67490,7 +67490,7 @@
    1057503
   ],
   "forras": "Kónyi Közös Önkormányzati Hivatal Markotabödögei Kirendeltsége",
-  "ft_per_ha": 0,
+  "ft_per_ha": 4345,
   "hrsz": [
    "066/1."
   ],
@@ -67505,7 +67505,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Markotabödöge hrsz.: 066/1.",
   "telepules": "Markotabödöge",
-  "terulet_m2": 1104830000,
+  "terulet_m2": 110483,
   "terulet_raw": [
    "11.0483 ha"
   ],
@@ -67899,7 +67899,7 @@
    1057514
   ],
   "forras": "Nagyrédei Polgármesteri Hivatal",
-  "ft_per_ha": 5,
+  "ft_per_ha": 52268,
   "hrsz": [
    "0219/1 hrsz"
   ],
@@ -67914,7 +67914,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Nagyréde hrsz.: 0219/1 hrsz",
   "telepules": "Nagyréde",
-  "terulet_m2": 191320000,
+  "terulet_m2": 19132,
   "terulet_raw": [
    "1.9132 ha"
   ],
@@ -73218,7 +73218,7 @@
    1057670
   ],
   "forras": "Balmazújvárosi Közös Önkormányzati Hivatal Hortobágyi Kirendeltsége",
-  "ft_per_ha": 200,
+  "ft_per_ha": 2000000,
   "hrsz": [
    "02230/4",
    "02230/6"
@@ -73234,7 +73234,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Hortobágy hrsz.: 02230/4|Adás-vétel - Hortobágy hrsz.: 02230/6",
   "telepules": "Hortobágy",
-  "terulet_m2": 1165540000,
+  "terulet_m2": 116554,
   "terulet_raw": [
    "7.8735 Ha",
    "3.7819 Ha"
@@ -74815,7 +74815,7 @@
   "status": "aranykorona_alapu_dij",
   "targy": "Haszonbérlet - Gyékényes hrsz.: 0230/4",
   "telepules": "Gyékényes",
-  "terulet_m2": 1795230000,
+  "terulet_m2": 179523,
   "terulet_raw": [
    "17.9523 Ha"
   ],
@@ -75674,7 +75674,7 @@
    1057778
   ],
   "forras": "SZEDERKÉNY KÖZSÉG ÖNKORMÁNYZATA",
-  "ft_per_ha": 21,
+  "ft_per_ha": 143363,
   "hrsz": [
    "0131/5",
    "1014/1",
@@ -75705,7 +75705,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Szederkény hrsz.: 0131/5|Adás-vétel - Szederkény hrsz.: 1014/1|Adás-vétel - Szederkény hrsz.: 1014/2|Adás-vétel - Olasz hrsz.: 062/2|Adás-vétel - Máriakéménd hrsz.: 0137/4|Adás-vétel - Máriakéménd hrsz.: 0141/15|Adás-vétel - Máriakéménd hrsz.: 0141/17|Adás-vétel - Máriakéménd hrsz.: 0173/7|Adás-vétel - Máriakéménd hrsz.: 1129|Adás-vétel - Máriakéménd hrsz.: 0159/4|Adás-vétel - Máriakéménd hrsz.: 0165/1|Adás-vétel - Máriakéménd hrsz.: 0159/6",
   "telepules": "Szederkény",
-  "terulet_m2": 578192079,
+  "terulet_m2": 86075,
   "terulet_raw": [
    "1733 m2",
    "429 m2",
@@ -76235,7 +76235,7 @@
   "status": "aranykorona_alapu_dij",
   "targy": "Haszonbérlet - Gyékényes hrsz.: 040",
   "telepules": "Gyékényes",
-  "terulet_m2": 12479950000,
+  "terulet_m2": 1247995,
   "terulet_raw": [
    "124.7995 Ha"
   ],
@@ -77178,7 +77178,7 @@
  },
  "2228045": {
   "altipus": "adás-vételére",
-  "ar_ft": 1500000,
+  "ar_ft": 2,
   "ar_raw": [
    "1.500 000.-Ft egybefoglalt vételár"
   ],
@@ -77187,7 +77187,7 @@
    1057773
   ],
   "forras": "Szakmári Közös Önkormányzati Hivatal Homokmégyi Kirendeltsége",
-  "ft_per_ha": 4366812,
+  "ft_per_ha": 6,
   "hrsz": [
    "0581/17 hrsz                       0581/18 hrsz"
   ],
@@ -80036,7 +80036,7 @@
    1057849
   ],
   "forras": "Vecsési Polgármesteri Hivatal",
-  "ft_per_ha": 835,
+  "ft_per_ha": 8346688,
   "hrsz": [
    "0215/128."
   ],
@@ -80051,7 +80051,7 @@
   "status": "ok",
   "targy": "Adás-vétel - Vecsés hrsz.: 0215/128.",
   "telepules": "Vecsés",
-  "terulet_m2": 149760000,
+  "terulet_m2": 14976,
   "terulet_raw": [
    "1.4976 ha"
   ],
@@ -80261,7 +80261,7 @@
    1057855
   ],
   "forras": "Hernádkaki Közös Önkormányzati Hivatal",
-  "ft_per_ha": 11,
+  "ft_per_ha": 111638,
   "hrsz": [
    "09.hrsz."
   ],
@@ -80276,7 +80276,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Sóstófalva hrsz.: 09.hrsz.",
   "telepules": "Sóstófalva",
-  "terulet_m2": 2687250000,
+  "terulet_m2": 268725,
   "terulet_raw": [
    "26.8725ha"
   ],
@@ -80441,7 +80441,7 @@
    1057866
   ],
   "forras": "Zsombói Polgármesteri Hivatal",
-  "ft_per_ha": 25,
+  "ft_per_ha": 245167,
   "hrsz": [
    "055/13; 055/16"
   ],
@@ -80456,7 +80456,7 @@
   "status": "ok",
   "targy": "Haszonbérlet - Zsombó hrsz.: 055/13; 055/16",
   "telepules": "Zsombó",
-  "terulet_m2": 106050000,
+  "terulet_m2": 10605,
   "terulet_raw": [
    "1.0605 ha; 1.0534 ha"
   ],

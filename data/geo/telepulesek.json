@@ -393,6 +393,48 @@
   "lon": 16.4716,
   "megye": "Zala vármegye"
  },
+ "Belvárdgyula": {
+  "jaras": null,
+  "lat": 45.97295,
+  "lon": 18.43274,
+  "megye": "Baranya vármegye"
+ },
+ "Beregsurány": {
+  "jaras": null,
+  "lat": 48.16156,
+  "lon": 22.5481,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Berekböszörmény": {
+  "jaras": null,
+  "lat": 47.06501,
+  "lon": 21.68359,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Beremend": {
+  "jaras": null,
+  "lat": 45.78471,
+  "lon": 18.43456,
+  "megye": "Baranya vármegye"
+ },
+ "Berettyóújfalu": {
+  "jaras": null,
+  "lat": 47.22473,
+  "lon": 21.53552,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Berhida": {
+  "jaras": null,
+  "lat": 47.11099,
+  "lon": 18.13394,
+  "megye": "Veszprém vármegye"
+ },
+ "Berkesd": {
+  "jaras": null,
+  "lat": 46.07616,
+  "lon": 18.40853,
+  "megye": "Baranya vármegye"
+ },
  "Berzék": {
   "jaras": null,
   "lat": 48.02448,
@@ -404,6 +446,54 @@
   "lat": 47.296,
   "lon": 20.25715,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Bezenye": {
+  "jaras": null,
+  "lat": 47.96212,
+  "lon": 17.21621,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Bicske": {
+  "jaras": null,
+  "lat": 47.49071,
+  "lon": 18.6358,
+  "megye": "Fejér vármegye"
+ },
+ "Bihardancsháza": {
+  "jaras": null,
+  "lat": 47.22887,
+  "lon": 21.31611,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Biharnagybajom": {
+  "jaras": null,
+  "lat": 47.2124,
+  "lon": 21.22852,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Biharugra": {
+  "jaras": null,
+  "lat": 46.96891,
+  "lon": 21.59509,
+  "megye": "Békés vármegye"
+ },
+ "Bocfölde": {
+  "jaras": null,
+  "lat": 46.7789,
+  "lon": 16.84403,
+  "megye": "Zala vármegye"
+ },
+ "Bocskaikert": {
+  "jaras": null,
+  "lat": 47.64552,
+  "lon": 21.66095,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Bodolyabér": {
+  "jaras": null,
+  "lat": 46.19788,
+  "lon": 18.1186,
+  "megye": "Baranya vármegye"
  },
  "Bodrogkisfalud": {
   "jaras": null,
