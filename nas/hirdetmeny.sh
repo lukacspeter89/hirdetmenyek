@@ -42,7 +42,7 @@ save_state() {
   } > "$STATE"
 }
 # ------------------------- LETÖLTÉS ------------------------- #
-# fetch_one <id>  → beállítja: F_STATUS, F_KIND ("fold"|"other"|"empty"|"ratelimit")
+# fetch_one <id>  → beállítja: F_STATUS, F_KIND ("fold"|"other"|"empty"|"forbidden"|"ratelimit")
 # és Föld esetén elmenti a nyers JSON-t raw/items/<id>.json-ba.
 fetch_one() {
   local id="$1" status body tmp
@@ -54,8 +54,11 @@ fetch_one() {
   body="$(cat "$tmp")"
   rm -f "$tmp"
   F_STATUS="$status"
-  if [ "$status" = "403" ] || [ "$status" = "429" ]; then
+  if [ "$status" = "429" ] || [ "$status" = "000" ]; then
     F_KIND="ratelimit"; return 0
+  fi
+  if [ "$status" = "403" ]; then
+    F_KIND="forbidden"; return 0
   fi
   if [ "$status" != "200" ] || [ -z "${body//[$'\t\r\n ']/}" ]; then
     F_KIND="empty"; return 0
@@ -71,7 +74,7 @@ fetch_one() {
 known() { [ -f "$ITEMS/$1.json" ]; }
 # ------------------------- MÓDOK ------------------------- #
 run_collect() {
-  local start id processed=0 empties=0 highest="$LAST_PROCESSED"
+  local start id processed=0 empties=0 forb=0 highest="$LAST_PROCESSED"
   start=$(( LAST_PROCESSED - RECHECK )); [ "$start" -lt 1 ] && start=1
   id="$start"
   LOG INFO "collect indul: $start-től, utolsó feldolgozott=$LAST_PROCESSED"
@@ -79,9 +82,22 @@ run_collect() {
     if known "$id"; then id=$(( id + 1 )); continue; fi
     fetch_one "$id"
     if [ "$F_KIND" = "ratelimit" ]; then
-      LOG WARN "403/429 az id=$id-nél — leállás, mentés."; break
+      LOG WARN "429/hálózati hiba az id=$id-nél — leállás, mentés."; break
     fi
     processed=$(( processed + 1 ))
+    if [ "$F_KIND" = "forbidden" ]; then
+      forb=$(( forb + 1 ))
+      if [ "$forb" -ge 15 ]; then
+        LOG WARN "15 egymást követő 403 — valószínű blokk, leállás."; break
+      fi
+      LOG INFO "403 az id=$id-nél — átugorva."
+      empties=$(( empties + 1 ))
+      if [ "$id" -gt "$LAST_PROCESSED" ] && [ "$empties" -ge "$PROBE_STOP" ]; then
+        LOG INFO "$PROBE_STOP egymást követő üres — elértük a legfrissebbet."; break
+      fi
+      id=$(( id + 1 )); sleep "$DELAY"; continue
+    fi
+    forb=0
     if [ "$F_KIND" = "empty" ]; then
       empties=$(( empties + 1 ))
       if [ "$id" -gt "$LAST_PROCESSED" ] && [ "$empties" -ge "$PROBE_STOP" ]; then
@@ -99,7 +115,7 @@ run_collect() {
   LOG INFO "collect kész. feldolgozott=$processed, last_processed=$LAST_PROCESSED"
 }
 run_backfill() {
-  local id processed=0 floor_min
+  local id processed=0 forb=0 floor_min
   if [ "$BACKFILL_DONE" = "1" ] || [ "$BACKFILL_FLOOR" -le 1 ]; then
     LOG INFO "backfill kész/nincs teendő."; return 0
   fi
@@ -110,9 +126,18 @@ run_backfill() {
     if known "$id"; then BACKFILL_FLOOR="$id"; id=$(( id - 1 )); continue; fi
     fetch_one "$id"
     if [ "$F_KIND" = "ratelimit" ]; then
-      LOG WARN "403/429 az id=$id-nél — leállás, mentés."; break
+      LOG WARN "429/hálózati hiba az id=$id-nél — leállás, mentés."; break
     fi
     processed=$(( processed + 1 ))
+    if [ "$F_KIND" = "forbidden" ]; then
+      forb=$(( forb + 1 ))
+      if [ "$forb" -ge 15 ]; then
+        LOG WARN "15 egymást követő 403 — valószínű blokk, leállás."; break
+      fi
+      LOG INFO "403 az id=$id-nél — átugorva."
+    else
+      forb=0
+    fi
     [ "$F_KIND" = "fold" ] && LOG INFO "Föld mentve (backfill): id=$id"
     BACKFILL_FLOOR="$id"
     id=$(( id - 1 ))
