@@ -153,6 +153,12 @@
   "lon": 20.57465,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Apátvarasd": {
+  "jaras": null,
+  "lat": 46.18632,
+  "lon": 18.48021,
+  "megye": "Baranya vármegye"
+ },
  "Aszófő": {
   "jaras": null,
   "lat": 46.92889,
@@ -573,11 +579,23 @@
   "lon": 19.22317,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Borsodgeszt": {
+  "jaras": null,
+  "lat": 47.95764,
+  "lon": 20.69323,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Borszörcsök": {
   "jaras": null,
   "lat": 47.13427,
   "lon": 17.40377,
   "megye": "Veszprém vármegye"
+ },
+ "Budajenő": {
+  "jaras": null,
+  "lat": 47.55547,
+  "lon": 18.80388,
+  "megye": "Pest vármegye"
  },
  "Budakeszi": {
   "jaras": null,
@@ -688,11 +706,59 @@
   "lon": 21.09854,
   "megye": "Békés vármegye"
  },
+ "Békésszentandrás": {
+  "jaras": null,
+  "lat": 46.87171,
+  "lon": 20.48513,
+  "megye": "Békés vármegye"
+ },
+ "Békéssámson": {
+  "jaras": null,
+  "lat": 46.41596,
+  "lon": 20.62201,
+  "megye": "Békés vármegye"
+ },
+ "Bélavár": {
+  "jaras": null,
+  "lat": 46.12169,
+  "lon": 17.21493,
+  "megye": "Somogy vármegye"
+ },
+ "Bélmegyer": {
+  "jaras": null,
+  "lat": 46.87201,
+  "lon": 21.17895,
+  "megye": "Békés vármegye"
+ },
  "Bénye": {
   "jaras": null,
   "lat": 47.35534,
   "lon": 19.53989,
   "megye": "Pest vármegye"
+ },
+ "Bérbaltavár": {
+  "jaras": null,
+  "lat": 47.00811,
+  "lon": 16.9665,
+  "megye": "Vas vármegye"
+ },
+ "Bócsa": {
+  "jaras": null,
+  "lat": 46.61387,
+  "lon": 19.48198,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bódvaszilas": {
+  "jaras": null,
+  "lat": 48.53685,
+  "lon": 20.73157,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bókaháza": {
+  "jaras": null,
+  "lat": 46.77359,
+  "lon": 17.10603,
+  "megye": "Zala vármegye"
  },
  "Bóly": {
   "jaras": null,
@@ -700,11 +766,35 @@
   "lon": 18.51615,
   "megye": "Baranya vármegye"
  },
+ "Bózsva": {
+  "jaras": null,
+  "lat": 48.47464,
+  "lon": 21.46772,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Böhönye": {
   "jaras": null,
   "lat": 46.40778,
   "lon": 17.39072,
   "megye": "Somogy vármegye"
+ },
+ "Bürüs": {
+  "jaras": null,
+  "lat": 45.9643,
+  "lon": 17.7595,
+  "megye": "Baranya vármegye"
+ },
+ "Büssü": {
+  "jaras": null,
+  "lat": 46.4553,
+  "lon": 17.96133,
+  "megye": "Somogy vármegye"
+ },
+ "Büttös": {
+  "jaras": null,
+  "lat": 48.47751,
+  "lon": 21.00535,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Csenger": {
   "jaras": null,
