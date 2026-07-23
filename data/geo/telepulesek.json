@@ -87,6 +87,12 @@
   "lon": 19.61278,
   "megye": "Pest vármegye"
  },
+ "Alcsútdoboz": {
+  "jaras": null,
+  "lat": 47.42544,
+  "lon": 18.60322,
+  "megye": "Fejér vármegye"
+ },
  "Almamellék": {
   "jaras": null,
   "lat": 46.15754,
@@ -453,6 +459,12 @@
   "lon": 20.25715,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "Besnyő": {
+  "jaras": null,
+  "lat": 47.19146,
+  "lon": 18.79365,
+  "megye": "Fejér vármegye"
+ },
  "Bezenye": {
   "jaras": null,
   "lat": 47.96212,
@@ -482,6 +494,12 @@
   "lat": 46.96891,
   "lon": 21.59509,
   "megye": "Békés vármegye"
+ },
+ "Biri": {
+  "jaras": null,
+  "lat": 47.8123,
+  "lon": 21.85095,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Bocfölde": {
   "jaras": null,
@@ -796,6 +814,66 @@
   "lon": 21.00535,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Bőcs": {
+  "jaras": null,
+  "lat": 48.03855,
+  "lon": 20.97164,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "CSÓT": {
+  "jaras": null,
+  "lat": 47.36061,
+  "lon": 17.6034,
+  "megye": "Veszprém vármegye"
+ },
+ "Cegléd": {
+  "jaras": null,
+  "lat": 47.17164,
+  "lon": 19.79775,
+  "megye": "Pest vármegye"
+ },
+ "Cibakháza": {
+  "jaras": null,
+  "lat": 46.95902,
+  "lon": 20.20624,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Cigánd": {
+  "jaras": null,
+  "lat": 48.25723,
+  "lon": 21.89049,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Csabacsűd": {
+  "jaras": null,
+  "lat": 46.82498,
+  "lon": 20.65043,
+  "megye": "Békés vármegye"
+ },
+ "Csanytelek": {
+  "jaras": null,
+  "lat": 46.60112,
+  "lon": 20.11354,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csanádpalota": {
+  "jaras": null,
+  "lat": 46.24405,
+  "lon": 20.7234,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csemő": {
+  "jaras": null,
+  "lat": 47.11838,
+  "lon": 19.69767,
+  "megye": "Pest vármegye"
+ },
+ "Csengele": {
+  "jaras": null,
+  "lat": 46.53958,
+  "lon": 19.86713,
+  "megye": "Csongrád-Csanád vármegye"
+ },
  "Csenger": {
   "jaras": null,
   "lat": 47.83637,
@@ -807,6 +885,18 @@
   "lat": 47.80508,
   "lon": 22.62164,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Csengőd": {
+  "jaras": null,
+  "lat": 46.71609,
+  "lon": 19.26757,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Cserhátsurány": {
+  "jaras": null,
+  "lat": 47.9775,
+  "lon": 19.42644,
+  "megye": "Nógrád vármegye"
  },
  "Demjén": {
   "jaras": null,
