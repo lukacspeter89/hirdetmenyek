@@ -93,6 +93,12 @@
   "lon": 18.60322,
   "megye": "Fejér vármegye"
  },
+ "Algyő": {
+  "jaras": null,
+  "lat": 46.33538,
+  "lon": 20.20836,
+  "megye": "Csongrád-Csanád vármegye"
+ },
  "Almamellék": {
   "jaras": null,
   "lat": 46.15754,
@@ -555,6 +561,12 @@
   "lon": 21.73473,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Bokod": {
+  "jaras": null,
+  "lat": 47.49341,
+  "lon": 18.24208,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Boldogkőváralja": {
   "jaras": null,
   "lat": 48.33821,
@@ -638,6 +650,12 @@
   "jaras": null,
   "lat": 47.47583,
   "lon": 19.26941,
+  "megye": null
+ },
+ "Budapest XXII. Kerület": {
+  "jaras": null,
+  "lat": 47.41179,
+  "lon": 19.01083,
   "megye": null
  },
  "Budapest XXIII. kerület": {
@@ -897,6 +915,78 @@
   "lat": 47.9775,
   "lon": 19.42644,
   "megye": "Nógrád vármegye"
+ },
+ "Cserhátszentiván": {
+  "jaras": null,
+  "lat": 47.93987,
+  "lon": 19.58027,
+  "megye": "Nógrád vármegye"
+ },
+ "Cserkeszőlő": {
+  "jaras": null,
+  "lat": 46.8675,
+  "lon": 20.1951,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Csernely": {
+  "jaras": null,
+  "lat": 48.1443,
+  "lon": 20.34209,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Cserépfalu": {
+  "jaras": null,
+  "lat": 47.94298,
+  "lon": 20.53602,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Csesztreg": {
+  "jaras": null,
+  "lat": 46.7184,
+  "lon": 16.51647,
+  "megye": "Zala vármegye"
+ },
+ "Csesztve": {
+  "jaras": null,
+  "lat": 48.01437,
+  "lon": 19.27758,
+  "megye": "Nógrád vármegye"
+ },
+ "Csibrák": {
+  "jaras": null,
+  "lat": 46.46587,
+  "lon": 18.3427,
+  "megye": "Tolna vármegye"
+ },
+ "Csikéria": {
+  "jaras": null,
+  "lat": 46.1262,
+  "lon": 19.47156,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Csobaj": {
+  "jaras": null,
+  "lat": 48.04814,
+  "lon": 21.34016,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Csongrád": {
+  "jaras": null,
+  "lat": 46.70976,
+  "lon": 20.15373,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csopak": {
+  "jaras": null,
+  "lat": 46.97969,
+  "lon": 17.92314,
+  "megye": "Veszprém vármegye"
+ },
+ "Csorvás": {
+  "jaras": null,
+  "lat": 46.63041,
+  "lon": 20.83362,
+  "megye": "Békés vármegye"
  },
  "Demjén": {
   "jaras": null,
