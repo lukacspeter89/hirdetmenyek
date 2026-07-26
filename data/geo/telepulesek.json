@@ -988,6 +988,91 @@
   "lon": 20.83362,
   "megye": "Békés vármegye"
  },
+ "Csurgó": {
+  "jaras": null,
+  "lat": 46.26425,
+  "lon": 17.09509,
+  "megye": "Somogy vármegye"
+ },
+ "Csákvár": {
+  "jaras": null,
+  "lat": 47.3918,
+  "lon": 18.46406,
+  "megye": "Fejér vármegye"
+ },
+ "Csákány": {
+  "jaras": null,
+  "lat": 46.54064,
+  "lon": 17.27149,
+  "megye": "Somogy vármegye"
+ },
+ "Csányoszró": {
+  "jaras": null,
+  "lat": 45.88122,
+  "lon": 17.90745,
+  "megye": "Baranya vármegye"
+ },
+ "Csárdaszállás": {
+  "jaras": null,
+  "lat": 46.86548,
+  "lon": 20.93904,
+  "megye": "Békés vármegye"
+ },
+ "Császló": {
+  "jaras": null,
+  "lat": 47.91424,
+  "lon": 22.7225,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Császártöltés": {
+  "jaras": null,
+  "lat": 46.42298,
+  "lon": 19.17849,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Csávoly": {
+  "jaras": null,
+  "lat": 46.19438,
+  "lon": 19.1441,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Csépa": {
+  "jaras": null,
+  "lat": 46.80625,
+  "lon": 20.13047,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Csókakő zártkert": null,
+ "Csólyospálos": {
+  "jaras": null,
+  "lat": 46.41861,
+  "lon": 19.83876,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Csörnyeföld": {
+  "jaras": null,
+  "lat": 46.49884,
+  "lon": 16.63336,
+  "megye": "Zala vármegye"
+ },
+ "Csősz": {
+  "jaras": null,
+  "lat": 47.03615,
+  "lon": 18.4179,
+  "megye": "Fejér vármegye"
+ },
+ "Dabas": {
+  "jaras": null,
+  "lat": 47.18861,
+  "lon": 19.32031,
+  "megye": "Pest vármegye"
+ },
+ "Darnózseli": {
+  "jaras": null,
+  "lat": 47.85049,
+  "lon": 17.4269,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Demjén": {
   "jaras": null,
   "lat": 47.82946,

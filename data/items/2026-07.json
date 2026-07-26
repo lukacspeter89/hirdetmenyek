@@ -105929,6 +105929,42 @@
   ],
   "ugyiratszam": "NK/14008/2026"
  },
+ "2228865": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 772578,
+  "ar_raw": [
+   "180.000,- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1058588
+  ],
+  "forras": "Hajdúdorogi Polgármesteri Hivatal",
+  "ft_per_ha": 180000,
+  "hrsz": [
+   "0168/37"
+  ],
+  "id": 2228865,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-27",
+  "lejarat": "2026-08-11",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228865",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Hajdúdorog hrsz.: 0168/37",
+  "telepules": "Hajdúdorog",
+  "terulet_m2": 42921,
+  "terulet_raw": [
+   "összesen 4,2921 ha területű és 57.16 Ak értékű földrészlet 1/2 tulajdoni hányada"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/2"
+  ],
+  "ugyiratszam": "HD/10406/2026."
+ },
  "2228866": {
   "altipus": "adás-vételére",
   "ar_ft": 150000,
@@ -106153,6 +106189,42 @@
    "1/1"
   ],
   "ugyiratszam": "ZK/7383-1/2026"
+ },
+ "2228872": {
+  "altipus": "adás-vételére",
+  "ar_ft": 500000,
+  "ar_raw": [
+   "500.000.-Ft"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1058598
+  ],
+  "forras": "Nyíregyháza MJV Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "01382/6"
+  ],
+  "id": 2228872,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-07-27",
+  "lejarat": "2026-08-26",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2228872",
+  "muvelesi_ag": [
+   "kivett tanya szántó"
+  ],
+  "status": "terulet_hianyos",
+  "targy": "Adás-vétel - Nyíregyháza hrsz.: 01382/6",
+  "telepules": "Nyíregyháza",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "5075m2 4.40AK"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "2/24"
+  ],
+  "ugyiratszam": "200/2026"
  },
  "2228873": {
   "altipus": "haszonbérletére",
