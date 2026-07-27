@@ -75,6 +75,12 @@
   "lon": 17.55873,
   "megye": "Veszprém vármegye"
  },
+ "Alap": {
+  "jaras": null,
+  "lat": 46.80448,
+  "lon": 18.68543,
+  "megye": "Fejér vármegye"
+ },
  "Alattyán": {
   "jaras": null,
   "lat": 47.42568,
@@ -201,6 +207,18 @@
   "lon": 17.07563,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Badacsonytomaj": {
+  "jaras": null,
+  "lat": 46.8058,
+  "lon": 17.51469,
+  "megye": "Veszprém vármegye"
+ },
+ "Badacsonytördemic": {
+  "jaras": null,
+  "lat": 46.81203,
+  "lon": 17.47369,
+  "megye": "Veszprém vármegye"
+ },
  "Bag": {
   "jaras": null,
   "lat": 47.63373,
@@ -236,6 +254,12 @@
   "lat": 46.73063,
   "lon": 16.84558,
   "megye": "Zala vármegye"
+ },
+ "Bakonycsernye": {
+  "jaras": null,
+  "lat": 47.31948,
+  "lon": 18.085,
+  "megye": "Fejér vármegye"
  },
  "Bakonyszentkirály": {
   "jaras": null,
@@ -314,6 +338,12 @@
   "lat": 46.82629,
   "lon": 17.83419,
   "megye": "Somogy vármegye"
+ },
+ "Balatonszőlős": {
+  "jaras": null,
+  "lat": 46.96737,
+  "lon": 17.82921,
+  "megye": "Veszprém vármegye"
  },
  "Balatonvilágos": {
   "jaras": null,
@@ -487,6 +517,12 @@
   "jaras": null,
   "lat": 47.22887,
   "lon": 21.31611,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Biharkeresztes": {
+  "jaras": null,
+  "lat": 47.12494,
+  "lon": 21.71794,
   "megye": "Hajdú-Bihar vármegye"
  },
  "Biharnagybajom": {
@@ -712,6 +748,12 @@
   "lon": 17.68509,
   "megye": "Somogy vármegye"
  },
+ "Bársonyos": {
+  "jaras": null,
+  "lat": 47.50899,
+  "lon": 17.92148,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Bátmonostor": {
   "jaras": null,
   "lat": 46.10479,
@@ -814,6 +856,12 @@
   "lon": 17.39072,
   "megye": "Somogy vármegye"
  },
+ "Bölcske": {
+  "jaras": null,
+  "lat": 46.74026,
+  "lon": 18.96952,
+  "megye": "Tolna vármegye"
+ },
  "Bürüs": {
   "jaras": null,
   "lat": 45.9643,
@@ -849,6 +897,12 @@
   "lat": 47.17164,
   "lon": 19.79775,
   "megye": "Pest vármegye"
+ },
+ "Celldömölk": {
+  "jaras": null,
+  "lat": 47.25796,
+  "lon": 17.15219,
+  "megye": "Vas vármegye"
  },
  "Cibakháza": {
   "jaras": null,
@@ -910,6 +964,12 @@
   "lon": 19.26757,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Cserdi": {
+  "jaras": null,
+  "lat": 46.08122,
+  "lon": 17.99068,
+  "megye": "Baranya vármegye"
+ },
  "Cserhátsurány": {
   "jaras": null,
   "lat": 47.9775,
@@ -969,6 +1029,12 @@
   "lat": 48.04814,
   "lon": 21.34016,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Csolnok": {
+  "jaras": null,
+  "lat": 47.69463,
+  "lon": 18.71759,
+  "megye": "Komárom-Esztergom vármegye"
  },
  "Csongrád": {
   "jaras": null,
@@ -1049,6 +1115,12 @@
   "lon": 19.83876,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Csögle": {
+  "jaras": null,
+  "lat": 47.21909,
+  "lon": 17.25477,
+  "megye": "Veszprém vármegye"
+ },
  "Csörnyeföld": {
   "jaras": null,
   "lat": 46.49884,
@@ -1067,11 +1139,29 @@
   "lon": 19.32031,
   "megye": "Pest vármegye"
  },
+ "Dad": {
+  "jaras": null,
+  "lat": 47.51823,
+  "lon": 18.22543,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Darnózseli": {
   "jaras": null,
   "lat": 47.85049,
   "lon": 17.4269,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Daruszentmiklós": {
+  "jaras": null,
+  "lat": 46.85843,
+  "lon": 18.84625,
+  "megye": "Fejér vármegye"
+ },
+ "Debrecen": {
+  "jaras": null,
+  "lat": 47.5314,
+  "lon": 21.62598,
+  "megye": "Hajdú-Bihar vármegye"
  },
  "Demjén": {
   "jaras": null,
