@@ -63,6 +63,12 @@
   "lon": 17.23954,
   "megye": "Veszprém vármegye"
  },
+ "Adács": {
+  "jaras": null,
+  "lat": 47.69155,
+  "lon": 19.9752,
+  "megye": "Heves vármegye"
+ },
  "Aggtelek": {
   "jaras": null,
   "lat": 48.46751,
@@ -273,6 +279,12 @@
   "lon": 22.07664,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Balajt": {
+  "jaras": null,
+  "lat": 48.32173,
+  "lon": 20.78821,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Balatonalmádi": {
   "jaras": null,
   "lat": 47.03028,
@@ -362,6 +374,12 @@
   "lat": 46.80695,
   "lon": 17.80022,
   "megye": "Somogy vármegye"
+ },
+ "Balinka": {
+  "jaras": null,
+  "lat": 47.3127,
+  "lon": 18.18894,
+  "megye": "Fejér vármegye"
  },
  "Balkány": {
   "jaras": null,
@@ -651,11 +669,23 @@
   "lon": 20.69323,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Borsodszirák": {
+  "jaras": null,
+  "lat": 48.26105,
+  "lon": 20.76695,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Borszörcsök": {
   "jaras": null,
   "lat": 47.13427,
   "lon": 17.40377,
   "megye": "Veszprém vármegye"
+ },
+ "Bucsa": {
+  "jaras": null,
+  "lat": 47.20425,
+  "lon": 20.99673,
+  "megye": "Békés vármegye"
  },
  "Budajenő": {
   "jaras": null,
@@ -928,6 +958,12 @@
   "lon": 20.11354,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Csanádalberti": {
+  "jaras": null,
+  "lat": 46.32592,
+  "lon": 20.70834,
+  "megye": "Csongrád-Csanád vármegye"
+ },
  "Csanádpalota": {
   "jaras": null,
   "lat": 46.24405,
@@ -1163,17 +1199,71 @@
   "lon": 21.62598,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Decs": {
+  "jaras": null,
+  "lat": 46.28433,
+  "lon": 18.76007,
+  "megye": "Tolna vármegye"
+ },
  "Demjén": {
   "jaras": null,
   "lat": 47.82946,
   "lon": 20.33359,
   "megye": "Heves vármegye"
  },
+ "Derecske": {
+  "jaras": null,
+  "lat": 47.35395,
+  "lon": 21.57092,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Devecser": {
+  "jaras": null,
+  "lat": 47.10405,
+  "lon": 17.43642,
+  "megye": "Veszprém vármegye"
+ },
+ "Diósjenő": {
+  "jaras": null,
+  "lat": 47.93952,
+  "lon": 19.0437,
+  "megye": "Nógrád vármegye"
+ },
+ "Diósviszló": {
+  "jaras": null,
+  "lat": 45.87638,
+  "lon": 18.16413,
+  "megye": "Baranya vármegye"
+ },
  "Doba": {
   "jaras": null,
   "lat": 47.16597,
   "lon": 17.37985,
   "megye": "Veszprém vármegye"
+ },
+ "Doboz": {
+  "jaras": null,
+  "lat": 46.7344,
+  "lon": 21.24137,
+  "megye": "Békés vármegye"
+ },
+ "Domaszék": {
+  "jaras": null,
+  "lat": 46.24514,
+  "lon": 20.00345,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Dombrád": {
+  "jaras": null,
+  "lat": 48.22569,
+  "lon": 21.92445,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Dombóvár": {
+  "jaras": null,
+  "lat": 46.3779,
+  "lon": 18.13329,
+  "megye": "Tolna vármegye"
  },
  "Dédestapolcsány": {
   "jaras": null,
