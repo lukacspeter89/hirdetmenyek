@@ -81,6 +81,12 @@
   "lon": 17.55873,
   "megye": "Veszprém vármegye"
  },
+ "Akasztó": {
+  "jaras": null,
+  "lat": 46.69098,
+  "lon": 19.20635,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Alap": {
   "jaras": null,
   "lat": 46.80448,
@@ -140,6 +146,12 @@
   "lat": 46.79578,
   "lon": 18.73215,
   "megye": "Fejér vármegye"
+ },
+ "Alsószölnök": {
+  "jaras": null,
+  "lat": 46.92797,
+  "lon": 16.20371,
+  "megye": "Vas vármegye"
  },
  "Alsózsolca": {
   "jaras": null,
@@ -339,6 +351,12 @@
   "lon": 17.77899,
   "megye": "Somogy vármegye"
  },
+ "Balatonszentgyörgy": {
+  "jaras": null,
+  "lat": 46.6922,
+  "lon": 17.29999,
+  "megye": "Somogy vármegye"
+ },
  "Balatonszepezd": {
   "jaras": null,
   "lat": 46.85183,
@@ -446,6 +464,12 @@
   "lat": 48.15159,
   "lon": 21.17114,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Beled": {
+  "jaras": null,
+  "lat": 47.46611,
+  "lon": 17.08988,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Belezna": {
   "jaras": null,
@@ -555,6 +579,12 @@
   "lon": 21.59509,
   "megye": "Békés vármegye"
  },
+ "Bikács": {
+  "jaras": null,
+  "lat": 46.67599,
+  "lon": 18.66369,
+  "megye": "Tolna vármegye"
+ },
  "Biri": {
   "jaras": null,
   "lat": 47.8123,
@@ -602,6 +632,12 @@
   "lat": 46.38324,
   "lon": 18.8167,
   "megye": "Tolna vármegye"
+ },
+ "Bogyoszló": {
+  "jaras": null,
+  "lat": 47.55918,
+  "lon": 17.1863,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Bogács": {
   "jaras": null,
@@ -754,6 +790,18 @@
   "lon": 19.15582,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Bácsborsód": {
+  "jaras": null,
+  "lat": 46.0974,
+  "lon": 19.1584,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Bácsszentgyörgy": {
+  "jaras": null,
+  "lat": 45.97475,
+  "lon": 19.03976,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Bácsszőlős": {
   "jaras": null,
   "lat": 46.13523,
@@ -891,6 +939,12 @@
   "lat": 46.74026,
   "lon": 18.96952,
   "megye": "Tolna vármegye"
+ },
+ "Bükkaranyos": {
+  "jaras": null,
+  "lat": 47.98532,
+  "lon": 20.78042,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Bürüs": {
   "jaras": null,
@@ -1217,6 +1271,12 @@
   "lon": 21.57092,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Deszk": {
+  "jaras": null,
+  "lat": 46.21793,
+  "lon": 20.23889,
+  "megye": "Csongrád-Csanád vármegye"
+ },
  "Devecser": {
   "jaras": null,
   "lat": 47.10405,
@@ -1264,6 +1324,36 @@
   "lat": 46.3779,
   "lon": 18.13329,
   "megye": "Tolna vármegye"
+ },
+ "Domony": {
+  "jaras": null,
+  "lat": 47.65351,
+  "lon": 19.43844,
+  "megye": "Pest vármegye"
+ },
+ "Dormánd": {
+  "jaras": null,
+  "lat": 47.72153,
+  "lon": 20.41839,
+  "megye": "Heves vármegye"
+ },
+ "Dorogháza": {
+  "jaras": null,
+  "lat": 47.98714,
+  "lon": 19.90035,
+  "megye": "Nógrád vármegye"
+ },
+ "Drávacsehi": {
+  "jaras": null,
+  "lat": 45.81104,
+  "lon": 18.16655,
+  "megye": "Baranya vármegye"
+ },
+ "Drávacsepely": {
+  "jaras": null,
+  "lat": 45.82846,
+  "lon": 18.13662,
+  "megye": "Baranya vármegye"
  },
  "Dédestapolcsány": {
   "jaras": null,
