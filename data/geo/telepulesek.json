@@ -183,6 +183,12 @@
   "lon": 18.66588,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Apc": {
+  "jaras": null,
+  "lat": 47.79635,
+  "lon": 19.69163,
+  "megye": "Heves vármegye"
+ },
  "Apátfalva": {
   "jaras": null,
   "lat": 46.17684,
@@ -320,6 +326,12 @@
   "lat": 46.83624,
   "lon": 17.97659,
   "megye": "Somogy vármegye"
+ },
+ "Balatonfüred": {
+  "jaras": null,
+  "lat": 46.95673,
+  "lon": 17.88889,
+  "megye": "Veszprém vármegye"
  },
  "Balatonfűzfő": {
   "jaras": null,
@@ -507,6 +519,12 @@
   "lon": 18.43456,
   "megye": "Baranya vármegye"
  },
+ "Berente": {
+  "jaras": null,
+  "lat": 48.23186,
+  "lon": 20.66454,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Berettyóújfalu": {
   "jaras": null,
   "lat": 47.22473,
@@ -524,6 +542,12 @@
   "lat": 46.07616,
   "lon": 18.40853,
   "megye": "Baranya vármegye"
+ },
+ "Berzence": {
+  "jaras": null,
+  "lat": 46.20598,
+  "lon": 17.14848,
+  "megye": "Somogy vármegye"
  },
  "Berzék": {
   "jaras": null,
@@ -645,6 +669,12 @@
   "lon": 20.53145,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Bogád": {
+  "jaras": null,
+  "lat": 46.08393,
+  "lon": 18.32219,
+  "megye": "Baranya vármegye"
+ },
  "Bojt": {
   "jaras": null,
   "lat": 47.19361,
@@ -680,6 +710,12 @@
   "lat": 46.03842,
   "lon": 17.29785,
   "megye": "Somogy vármegye"
+ },
+ "Boncodfölde": {
+  "jaras": null,
+  "lat": 46.86865,
+  "lon": 16.73844,
+  "megye": "Zala vármegye"
  },
  "Bonyhád": {
   "jaras": null,
@@ -1042,6 +1078,12 @@
   "lon": 22.67947,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Csengersima": {
+  "jaras": null,
+  "lat": 47.86608,
+  "lon": 22.73031,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Csengerújfalu": {
   "jaras": null,
   "lat": 47.80508,
@@ -1053,6 +1095,12 @@
   "lat": 46.71609,
   "lon": 19.26757,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Csepreg": {
+  "jaras": null,
+  "lat": 47.40159,
+  "lon": 16.70784,
+  "megye": "Vas vármegye"
  },
  "Cserdi": {
   "jaras": null,
@@ -1161,6 +1209,12 @@
   "lat": 46.54064,
   "lon": 17.27149,
   "megye": "Somogy vármegye"
+ },
+ "Csány": {
+  "jaras": null,
+  "lat": 47.64736,
+  "lon": 19.83015,
+  "megye": "Heves vármegye"
  },
  "Csányoszró": {
   "jaras": null,
@@ -1354,6 +1408,42 @@
   "lat": 45.82846,
   "lon": 18.13662,
   "megye": "Baranya vármegye"
+ },
+ "Drávaszabolcs": {
+  "jaras": null,
+  "lat": 45.80459,
+  "lon": 18.21289,
+  "megye": "Baranya vármegye"
+ },
+ "Drégelypalánk": {
+  "jaras": null,
+  "lat": 48.0521,
+  "lon": 19.0441,
+  "megye": "Nógrád vármegye"
+ },
+ "Dunabogdány": {
+  "jaras": null,
+  "lat": 47.79379,
+  "lon": 19.0352,
+  "megye": "Pest vármegye"
+ },
+ "Dunafalva": {
+  "jaras": null,
+  "lat": 46.08385,
+  "lon": 18.77255,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunaföldvár": {
+  "jaras": null,
+  "lat": 46.81043,
+  "lon": 18.92229,
+  "megye": "Tolna vármegye"
+ },
+ "Dunakeszi": {
+  "jaras": null,
+  "lat": 47.63167,
+  "lon": 19.12941,
+  "megye": "Pest vármegye"
  },
  "Dédestapolcsány": {
   "jaras": null,
