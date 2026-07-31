@@ -1,0 +1,155 @@
+{
+ "2229848": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 24924,
+  "ar_raw": [
+   "40.000 Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1059570
+  ],
+  "forras": "Diósjenő Község Önkormányzata",
+  "ft_per_ha": 40000,
+  "hrsz": [
+   "039/15"
+  ],
+  "id": 2229848,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-01",
+  "lejarat": "2026-08-17",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2229848",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Diósjenő hrsz.: 039/15",
+  "telepules": "Diósjenő",
+  "terulet_m2": 6231,
+  "terulet_raw": [
+   "6231 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "580116/2/2026"
+ },
+ "2229850": {
+  "altipus": "adás-vételére",
+  "ar_ft": null,
+  "ar_raw": [
+   "582000"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1059572
+  ],
+  "forras": "Vilmányi Közös Önkormányzai Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "011/19"
+  ],
+  "id": 2229850,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-01",
+  "lejarat": "2026-09-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2229850",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ar_nem_ertelmezheto",
+  "targy": "Adás-vétel - Göncruszka hrsz.: 011/19",
+  "telepules": "Göncruszka",
+  "terulet_m2": 154821,
+  "terulet_raw": [
+   "15ha4821m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1604/72210"
+  ],
+  "ugyiratszam": "RUS/235/2026."
+ },
+ "2229914": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1200000,
+  "ar_raw": [
+   "1.199.000 Ft",
+   "1.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1059643
+  ],
+  "forras": "Boldogkőváralja Községi Önkormányzat ",
+  "ft_per_ha": 795071,
+  "hrsz": [
+   "0266",
+   "0199"
+  ],
+  "id": 2229914,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-01",
+  "lejarat": "2026-08-31",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2229914",
+  "muvelesi_ag": [
+   "Saját használatú út",
+   "gyümölcsös"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Boldogkőváralja hrsz.: 0266|Adás-vétel - Boldogkőváralja hrsz.: 0199",
+  "telepules": "Boldogkőváralja",
+  "terulet_m2": 15093,
+  "terulet_raw": [
+   "2847m2",
+   "1 ha 2246 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1000/97968"
+  ],
+  "ugyiratszam": "B/973/2026"
+ },
+ "2229931": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "44 kg/AK búza/év",
+   "44kg/Ak búza/év"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1059633
+  ],
+  "forras": "Bőnyi Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "026/12",
+   "026/12"
+  ],
+  "id": 2229931,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-01",
+  "lejarat": "2026-08-17",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2229931",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "termeny_alapu_dij",
+  "targy": "Haszonbérlet - Bőny hrsz.: 026/12|Haszonbérlet - Bőny hrsz.: 026/12",
+  "telepules": "Bőny",
+  "terulet_m2": 25076,
+  "terulet_raw": [
+   "1ha 2538m2",
+   "1 ha 2538 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "244/5568",
+   "122/5668"
+  ],
+  "ugyiratszam": "B./1170/2026"
+ }
+}

@@ -249,6 +249,12 @@
   "lon": 19.47921,
   "megye": "Pest vármegye"
  },
+ "Bagamér": {
+  "jaras": null,
+  "lat": 47.44549,
+  "lon": 21.99191,
+  "megye": "Hajdú-Bihar vármegye"
+ },
  "Bagod": {
   "jaras": null,
   "lat": 46.87686,
@@ -349,6 +355,12 @@
   "jaras": null,
   "lat": 46.69766,
   "lon": 17.37039,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonlelle": {
+  "jaras": null,
+  "lat": 46.78676,
+  "lon": 17.69652,
   "megye": "Somogy vármegye"
  },
  "Balatonszabadi": {
@@ -567,11 +579,23 @@
   "lon": 18.79365,
   "megye": "Fejér vármegye"
  },
+ "Bezedek": {
+  "jaras": null,
+  "lat": 45.86688,
+  "lon": 18.58716,
+  "megye": "Baranya vármegye"
+ },
  "Bezenye": {
   "jaras": null,
   "lat": 47.96212,
   "lon": 17.21621,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Biatorbágy": {
+  "jaras": null,
+  "lat": 47.47394,
+  "lon": 18.82329,
+  "megye": "Pest vármegye"
  },
  "Bicske": {
   "jaras": null,
@@ -976,6 +1000,12 @@
   "lon": 18.96952,
   "megye": "Tolna vármegye"
  },
+ "Börcs": {
+  "jaras": null,
+  "lat": 47.68504,
+  "lon": 17.50072,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Bükkaranyos": {
   "jaras": null,
   "lat": 47.98532,
@@ -1005,6 +1035,12 @@
   "lat": 48.03855,
   "lon": 20.97164,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bőny": {
+  "jaras": null,
+  "lat": 47.65068,
+  "lon": 17.86745,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "CSÓT": {
   "jaras": null,
@@ -1167,6 +1203,12 @@
   "lat": 48.04814,
   "lon": 21.34016,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Csokonyavisonta": {
+  "jaras": null,
+  "lat": 46.08174,
+  "lon": 17.44448,
+  "megye": "Somogy vármegye"
  },
  "Csolnok": {
   "jaras": null,
@@ -1444,6 +1486,54 @@
   "lat": 47.63167,
   "lon": 19.12941,
   "megye": "Pest vármegye"
+ },
+ "Dunapataj": {
+  "jaras": null,
+  "lat": 46.64428,
+  "lon": 18.99901,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunaszeg": {
+  "jaras": null,
+  "lat": 47.76965,
+  "lon": 17.54007,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Dunaszentbenedek": {
+  "jaras": null,
+  "lat": 46.59387,
+  "lon": 18.8944,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunaszentmiklós": {
+  "jaras": null,
+  "lat": 47.70439,
+  "lon": 18.38129,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Dunasziget": {
+  "jaras": null,
+  "lat": 47.94163,
+  "lon": 17.35544,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Dunatetétlen": {
+  "jaras": null,
+  "lat": 46.75672,
+  "lon": 19.09417,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunavecse": {
+  "jaras": null,
+  "lat": 46.91637,
+  "lon": 18.97165,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunaújváros": {
+  "jaras": null,
+  "lat": 46.9649,
+  "lon": 18.9405,
+  "megye": "Fejér vármegye"
  },
  "Dédestapolcsány": {
   "jaras": null,
