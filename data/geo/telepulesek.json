@@ -2,6 +2,7 @@
  "120 évnél régebben születettek - Bogdása": null,
  "120 évnél régebben születettek - Gecse": null,
  "120 évnél régebben születettek - Vanyola": null,
+ "120 évnél régebben születettek - Vokány": null,
  "120 évnél régebben születettek - Újpetre": null,
  "4066 Tiszacsege": {
   "jaras": null,
@@ -26,6 +27,12 @@
   "lat": 47.79487,
   "lon": 20.00049,
   "megye": "Heves vármegye"
+ },
+ "Abda": {
+  "jaras": null,
+  "lat": 47.69768,
+  "lon": 17.54098,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Abod": {
   "jaras": null,
@@ -111,6 +118,12 @@
   "lon": 18.60322,
   "megye": "Fejér vármegye"
  },
+ "Aldebrő": {
+  "jaras": null,
+  "lat": 47.78916,
+  "lon": 20.22837,
+  "megye": "Heves vármegye"
+ },
  "Algyő": {
   "jaras": null,
   "lat": 46.33538,
@@ -123,11 +136,23 @@
   "lon": 17.87414,
   "megye": "Baranya vármegye"
  },
+ "Alsódobsza": {
+  "jaras": null,
+  "lat": 48.18048,
+  "lon": 21.0003,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Alsónemesapáti": {
   "jaras": null,
   "lat": 46.85339,
   "lon": 16.93049,
   "megye": "Zala vármegye"
+ },
+ "Alsónána": {
+  "jaras": null,
+  "lat": 46.25101,
+  "lon": 18.66241,
+  "megye": "Tolna vármegye"
  },
  "Alsónémedi": {
   "jaras": null,
@@ -171,6 +196,12 @@
   "lon": 20.73009,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Andocs": {
+  "jaras": null,
+  "lat": 46.64883,
+  "lon": 17.92434,
+  "megye": "Somogy vármegye"
+ },
  "Andornaktálya": {
   "jaras": null,
   "lat": 47.84364,
@@ -200,6 +231,12 @@
   "lat": 46.18632,
   "lon": 18.48021,
   "megye": "Baranya vármegye"
+ },
+ "Aszaló": {
+  "jaras": null,
+  "lat": 48.22562,
+  "lon": 20.95477,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Aszófő": {
   "jaras": null,
@@ -309,6 +346,12 @@
   "lon": 20.78821,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Balatonakarattya": {
+  "jaras": null,
+  "lat": 47.02397,
+  "lon": 18.14394,
+  "megye": "Veszprém vármegye"
+ },
  "Balatonalmádi": {
   "jaras": null,
   "lat": 47.03028,
@@ -319,6 +362,12 @@
   "jaras": null,
   "lat": 46.71084,
   "lon": 17.31932,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonboglár": {
+  "jaras": null,
+  "lat": 46.77854,
+  "lon": 17.65533,
   "megye": "Somogy vármegye"
  },
  "Balatonederics": {
@@ -429,11 +478,23 @@
   "lon": 21.86013,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Ballószög": {
+  "jaras": null,
+  "lat": 46.86055,
+  "lon": 19.56958,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Balmazújváros": {
   "jaras": null,
   "lat": 47.61163,
   "lon": 21.34374,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Balogunyom": {
+  "jaras": null,
+  "lat": 47.15573,
+  "lon": 16.65187,
+  "megye": "Vas vármegye"
  },
  "Balotaszállás": {
   "jaras": null,
@@ -838,6 +899,12 @@
   "lon": 19.15093,
   "megye": "Pest vármegye"
  },
+ "Bábonymegyer": {
+  "jaras": null,
+  "lat": 46.75167,
+  "lon": 18.11956,
+  "megye": "Somogy vármegye"
+ },
  "Bácsalmás": {
   "jaras": null,
   "lat": 46.12741,
@@ -1006,10 +1073,22 @@
   "lon": 17.50072,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Bük": {
+  "jaras": null,
+  "lat": 47.3834,
+  "lon": 16.75331,
+  "megye": "Vas vármegye"
+ },
  "Bükkaranyos": {
   "jaras": null,
   "lat": 47.98532,
   "lon": 20.78042,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Bükkzsérc": {
+  "jaras": null,
+  "lat": 47.95492,
+  "lon": 20.5064,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Bürüs": {
@@ -1047,6 +1126,12 @@
   "lat": 47.36061,
   "lon": 17.6034,
   "megye": "Veszprém vármegye"
+ },
+ "Cakóháza": {
+  "jaras": null,
+  "lat": 47.69621,
+  "lon": 17.2862,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Cegléd": {
   "jaras": null,
