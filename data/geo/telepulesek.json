@@ -166,6 +166,12 @@
   "lon": 17.1739,
   "megye": "Zala vármegye"
  },
+ "Alsórajk": {
+  "jaras": null,
+  "lat": 46.65371,
+  "lon": 16.99684,
+  "megye": "Zala vármegye"
+ },
  "Alsószentiván": {
   "jaras": null,
   "lat": 46.79578,
@@ -838,6 +844,12 @@
   "lon": 17.40377,
   "megye": "Veszprém vármegye"
  },
+ "Bozsok": {
+  "jaras": null,
+  "lat": 47.32506,
+  "lon": 16.49105,
+  "megye": "Vas vármegye"
+ },
  "Bucsa": {
   "jaras": null,
   "lat": 47.20425,
@@ -1145,6 +1157,12 @@
   "lon": 17.15219,
   "megye": "Vas vármegye"
  },
+ "Cered": {
+  "jaras": null,
+  "lat": 48.14453,
+  "lon": 19.96707,
+  "megye": "Nógrád vármegye"
+ },
  "Cibakháza": {
   "jaras": null,
   "lat": 46.95902,
@@ -1253,6 +1271,12 @@
   "lon": 20.34209,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Csertő": {
+  "jaras": null,
+  "lat": 46.09034,
+  "lon": 17.80278,
+  "megye": "Baranya vármegye"
+ },
  "Cserépfalu": {
   "jaras": null,
   "lat": 47.94298,
@@ -1287,6 +1311,12 @@
   "jaras": null,
   "lat": 48.04814,
   "lon": 21.34016,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Csobád": {
+  "jaras": null,
+  "lat": 48.28193,
+  "lon": 21.02774,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Csokonyavisonta": {
@@ -1392,11 +1422,23 @@
   "lon": 17.25477,
   "megye": "Veszprém vármegye"
  },
+ "Csömör": {
+  "jaras": null,
+  "lat": 47.54892,
+  "lon": 19.22421,
+  "megye": "Pest vármegye"
+ },
  "Csörnyeföld": {
   "jaras": null,
   "lat": 46.49884,
   "lon": 16.63336,
   "megye": "Zala vármegye"
+ },
+ "Csörög": {
+  "jaras": null,
+  "lat": 47.73441,
+  "lon": 19.1904,
+  "megye": "Pest vármegye"
  },
  "Csősz": {
   "jaras": null,
@@ -1409,6 +1451,12 @@
   "lat": 47.18861,
   "lon": 19.32031,
   "megye": "Pest vármegye"
+ },
+ "Dabrony": {
+  "jaras": null,
+  "lat": 47.2423,
+  "lon": 17.32804,
+  "megye": "Veszprém vármegye"
  },
  "Dad": {
   "jaras": null,
@@ -1488,6 +1536,12 @@
   "lon": 21.24137,
   "megye": "Békés vármegye"
  },
+ "Domaháza": {
+  "jaras": null,
+  "lat": 48.18232,
+  "lon": 20.10343,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Domaszék": {
   "jaras": null,
   "lat": 46.24514,
@@ -1524,6 +1578,12 @@
   "lon": 19.90035,
   "megye": "Nógrád vármegye"
  },
+ "Drágszél": {
+  "jaras": null,
+  "lat": 46.46716,
+  "lon": 19.03868,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Drávacsehi": {
   "jaras": null,
   "lat": 45.81104,
@@ -1534,6 +1594,12 @@
   "jaras": null,
   "lat": 45.82846,
   "lon": 18.13662,
+  "megye": "Baranya vármegye"
+ },
+ "Drávakeresztúr": {
+  "jaras": null,
+  "lat": 45.83941,
+  "lon": 17.75876,
   "megye": "Baranya vármegye"
  },
  "Drávaszabolcs": {
@@ -1620,11 +1686,35 @@
   "lon": 18.9405,
   "megye": "Fejér vármegye"
  },
+ "Dusnok": {
+  "jaras": null,
+  "lat": 46.39002,
+  "lon": 18.95896,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Dány": {
+  "jaras": null,
+  "lat": 47.52221,
+  "lon": 19.55083,
+  "megye": "Pest vármegye"
+ },
+ "Dávod": {
+  "jaras": null,
+  "lat": 45.99713,
+  "lon": 18.92052,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Dédestapolcsány": {
   "jaras": null,
   "lat": 48.18079,
   "lon": 20.48423,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Délegyháza": {
+  "jaras": null,
+  "lat": 47.24782,
+  "lon": 19.06691,
+  "megye": "Pest vármegye"
  },
  "Egeraracsa": {
   "jaras": null,
