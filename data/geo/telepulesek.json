@@ -1193,6 +1193,12 @@
   "lon": 20.70834,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Csanádapáca": {
+  "jaras": null,
+  "lat": 46.5402,
+  "lon": 20.88461,
+  "megye": "Békés vármegye"
+ },
  "Csanádpalota": {
   "jaras": null,
   "lat": 46.24405,
@@ -1716,11 +1722,95 @@
   "lon": 19.06691,
   "megye": "Pest vármegye"
  },
+ "Dévaványa": {
+  "jaras": null,
+  "lat": 47.03135,
+  "lon": 20.9621,
+  "megye": "Békés vármegye"
+ },
+ "Dóc": {
+  "jaras": null,
+  "lat": 46.43795,
+  "lon": 20.13694,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Döbörhegy": {
+  "jaras": null,
+  "lat": 46.99122,
+  "lon": 16.70234,
+  "megye": "Vas vármegye"
+ },
+ "Dömsöd": {
+  "jaras": null,
+  "lat": 47.09477,
+  "lon": 19.00705,
+  "megye": "Pest vármegye"
+ },
+ "Dömös": {
+  "jaras": null,
+  "lat": 47.76362,
+  "lon": 18.91109,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Dörgicse": {
+  "jaras": null,
+  "lat": 46.91566,
+  "lon": 17.72365,
+  "megye": "Veszprém vármegye"
+ },
+ "ERZSÉBET": {
+  "jaras": null,
+  "lat": 46.10066,
+  "lon": 18.45863,
+  "megye": "Baranya vármegye"
+ },
+ "Ebes": {
+  "jaras": null,
+  "lat": 47.47124,
+  "lon": 21.49147,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Ecsegfalva": {
+  "jaras": null,
+  "lat": 47.14934,
+  "lon": 20.92283,
+  "megye": "Békés vármegye"
+ },
+ "Ecseny": {
+  "jaras": null,
+  "lat": 46.55109,
+  "lon": 17.85236,
+  "megye": "Somogy vármegye"
+ },
+ "Edde": {
+  "jaras": null,
+  "lat": 46.52489,
+  "lon": 17.71601,
+  "megye": "Somogy vármegye"
+ },
+ "Edelény": {
+  "jaras": null,
+  "lat": 48.29366,
+  "lon": 20.73344,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Eger": {
+  "jaras": null,
+  "lat": 47.89899,
+  "lon": 20.37437,
+  "megye": "Heves vármegye"
+ },
  "Egeraracsa": {
   "jaras": null,
   "lat": 46.67326,
   "lon": 17.07726,
   "megye": "Zala vármegye"
+ },
+ "Egerbakta": {
+  "jaras": null,
+  "lat": 47.93553,
+  "lon": 20.29052,
+  "megye": "Heves vármegye"
  },
  "Esztergom": {
   "jaras": null,
