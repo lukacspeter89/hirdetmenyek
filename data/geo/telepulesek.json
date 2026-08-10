@@ -244,6 +244,12 @@
   "lon": 20.95477,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Aszód": {
+  "jaras": null,
+  "lat": 47.65327,
+  "lon": 19.47474,
+  "megye": "Pest vármegye"
+ },
  "Aszófő": {
   "jaras": null,
   "lat": 46.92889,
@@ -351,6 +357,12 @@
   "lat": 48.32173,
   "lon": 20.78821,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Balassagyarmat": {
+  "jaras": null,
+  "lat": 48.07688,
+  "lon": 19.2926,
+  "megye": "Nógrád vármegye"
  },
  "Balatonakarattya": {
   "jaras": null,
@@ -850,16 +862,30 @@
   "lon": 16.49105,
   "megye": "Vas vármegye"
  },
+ "Bp. XXI. Kerület Csepel": null,
+ "Bp. XXI. kerület Csepel": null,
  "Bucsa": {
   "jaras": null,
   "lat": 47.20425,
   "lon": 20.99673,
   "megye": "Békés vármegye"
  },
+ "Bucsu": {
+  "jaras": null,
+  "lat": 47.26397,
+  "lon": 16.49382,
+  "megye": "Vas vármegye"
+ },
  "Budajenő": {
   "jaras": null,
   "lat": 47.55547,
   "lon": 18.80388,
+  "megye": "Pest vármegye"
+ },
+ "Budakalász": {
+  "jaras": null,
+  "lat": 47.61928,
+  "lon": 19.04686,
   "megye": "Pest vármegye"
  },
  "Budakeszi": {
@@ -1458,6 +1484,12 @@
   "lon": 19.32031,
   "megye": "Pest vármegye"
  },
+ "Dabronc": {
+  "jaras": null,
+  "lat": 47.03193,
+  "lon": 17.1678,
+  "megye": "Veszprém vármegye"
+ },
  "Dabrony": {
   "jaras": null,
   "lat": 47.2423,
@@ -1811,6 +1843,54 @@
   "lat": 47.93553,
   "lon": 20.29052,
   "megye": "Heves vármegye"
+ },
+ "Egerfarmos": {
+  "jaras": null,
+  "lat": 47.71828,
+  "lon": 20.53636,
+  "megye": "Heves vármegye"
+ },
+ "Egerszólát": {
+  "jaras": null,
+  "lat": 47.89039,
+  "lon": 20.26783,
+  "megye": "Heves vármegye"
+ },
+ "Egyed": {
+  "jaras": null,
+  "lat": 47.52172,
+  "lon": 17.33789,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Egyek": {
+  "jaras": null,
+  "lat": 47.63146,
+  "lon": 20.88815,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Egyházasgerge": {
+  "jaras": null,
+  "lat": 48.17884,
+  "lon": 19.64692,
+  "megye": "Nógrád vármegye"
+ },
+ "Egyházasharaszti": {
+  "jaras": null,
+  "lat": 45.8093,
+  "lon": 18.33432,
+  "megye": "Baranya vármegye"
+ },
+ "Egyházaskozár": {
+  "jaras": null,
+  "lat": 46.32984,
+  "lon": 18.32078,
+  "megye": "Baranya vármegye"
+ },
+ "Egyházasrádóc": {
+  "jaras": null,
+  "lat": 47.08673,
+  "lon": 16.6129,
+  "megye": "Vas vármegye"
  },
  "Esztergom": {
   "jaras": null,
