@@ -22,6 +22,12 @@
   "lon": 17.03468,
   "megye": "Somogy vármegye"
  },
+ "Abaliget": {
+  "jaras": null,
+  "lat": 46.14098,
+  "lon": 18.11674,
+  "megye": "Baranya vármegye"
+ },
  "Abasár": {
   "jaras": null,
   "lat": 47.79487,
@@ -160,6 +166,12 @@
   "lon": 19.1657,
   "megye": "Pest vármegye"
  },
+ "Alsópetény": {
+  "jaras": null,
+  "lat": 47.87476,
+  "lon": 19.24489,
+  "megye": "Nógrád vármegye"
+ },
  "Alsópáhok": {
   "jaras": null,
   "lat": 46.76132,
@@ -177,6 +189,12 @@
   "lat": 46.79578,
   "lon": 18.73215,
   "megye": "Fejér vármegye"
+ },
+ "Alsószentmárton": {
+  "jaras": null,
+  "lat": 45.79091,
+  "lon": 18.30479,
+  "megye": "Baranya vármegye"
  },
  "Alsószölnök": {
   "jaras": null,
@@ -364,6 +382,12 @@
   "lon": 19.2926,
   "megye": "Nógrád vármegye"
  },
+ "Balatonakali": {
+  "jaras": null,
+  "lat": 46.88366,
+  "lon": 17.75268,
+  "megye": "Veszprém vármegye"
+ },
  "Balatonakarattya": {
   "jaras": null,
   "lat": 47.02397,
@@ -537,6 +561,12 @@
   "lat": 45.96051,
   "lon": 17.46341,
   "megye": "Somogy vármegye"
+ },
+ "Basal": {
+  "jaras": null,
+  "lat": 46.07421,
+  "lon": 17.78234,
+  "megye": "Baranya vármegye"
  },
  "Battonya": {
   "jaras": null,
@@ -850,6 +880,12 @@
   "lon": 20.76695,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Borsosberény": {
+  "jaras": null,
+  "lat": 47.97636,
+  "lon": 19.11749,
+  "megye": "Nógrád vármegye"
+ },
  "Borszörcsök": {
   "jaras": null,
   "lat": 47.13427,
@@ -1002,6 +1038,12 @@
   "lat": 46.10479,
   "lon": 18.92792,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Bátor": {
+  "jaras": null,
+  "lat": 47.99177,
+  "lon": 20.26566,
+  "megye": "Heves vármegye"
  },
  "Bátorliget": {
   "jaras": null,
@@ -1640,6 +1682,12 @@
   "lon": 17.75876,
   "megye": "Baranya vármegye"
  },
+ "Drávapalkonya": {
+  "jaras": null,
+  "lat": 45.80347,
+  "lon": 18.17972,
+  "megye": "Baranya vármegye"
+ },
  "Drávaszabolcs": {
   "jaras": null,
   "lat": 45.80459,
@@ -1856,6 +1904,12 @@
   "lon": 20.26783,
   "megye": "Heves vármegye"
  },
+ "Egervár": {
+  "jaras": null,
+  "lat": 46.9336,
+  "lon": 16.85218,
+  "megye": "Zala vármegye"
+ },
  "Egyed": {
   "jaras": null,
   "lat": 47.52172,
@@ -1891,6 +1945,42 @@
   "lat": 47.08673,
   "lon": 16.6129,
   "megye": "Vas vármegye"
+ },
+ "Elek": {
+  "jaras": null,
+  "lat": 46.52943,
+  "lon": 21.25261,
+  "megye": "Békés vármegye"
+ },
+ "Ellend": {
+  "jaras": null,
+  "lat": 46.05911,
+  "lon": 18.37582,
+  "megye": "Baranya vármegye"
+ },
+ "Előszállás": {
+  "jaras": null,
+  "lat": 46.83161,
+  "lon": 18.82193,
+  "megye": "Fejér vármegye"
+ },
+ "Emőd": {
+  "jaras": null,
+  "lat": 47.93395,
+  "lon": 20.81655,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Encsencs": {
+  "jaras": null,
+  "lat": 47.74445,
+  "lon": 22.11207,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Enese": {
+  "jaras": null,
+  "lat": 47.6439,
+  "lon": 17.42189,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Esztergom": {
   "jaras": null,
