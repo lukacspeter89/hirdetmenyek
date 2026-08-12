@@ -256,6 +256,12 @@
   "lon": 18.48021,
   "megye": "Baranya vármegye"
  },
+ "Arnót": {
+  "jaras": null,
+  "lat": 48.13081,
+  "lon": 20.86109,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Aszaló": {
   "jaras": null,
   "lat": 48.22562,
@@ -1219,6 +1225,12 @@
   "lon": 19.79775,
   "megye": "Pest vármegye"
  },
+ "Ceglédbercel": {
+  "jaras": null,
+  "lat": 47.21503,
+  "lon": 19.67857,
+  "megye": "Pest vármegye"
+ },
  "Celldömölk": {
   "jaras": null,
   "lat": 47.25796,
@@ -1429,6 +1441,12 @@
   "lon": 17.09509,
   "megye": "Somogy vármegye"
  },
+ "Csákberény": {
+  "jaras": null,
+  "lat": 47.34886,
+  "lon": 18.3286,
+  "megye": "Fejér vármegye"
+ },
  "Csákvár": {
   "jaras": null,
   "lat": 47.3918,
@@ -1519,6 +1537,12 @@
   "lat": 47.03615,
   "lon": 18.4179,
   "megye": "Fejér vármegye"
+ },
+ "Cégénydányád": {
+  "jaras": null,
+  "lat": 47.93644,
+  "lon": 22.53867,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Dabas": {
   "jaras": null,
@@ -1982,11 +2006,77 @@
   "lon": 17.42189,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Enying": {
+  "jaras": null,
+  "lat": 46.92693,
+  "lon": 18.24497,
+  "megye": "Fejér vármegye"
+ },
+ "Eperjes": {
+  "jaras": null,
+  "lat": 46.71008,
+  "lon": 20.5609,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Eperjeske": {
+  "jaras": null,
+  "lat": 48.34522,
+  "lon": 22.21201,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Ercsi": {
+  "jaras": null,
+  "lat": 47.25197,
+  "lon": 18.89838,
+  "megye": "Fejér vármegye"
+ },
+ "Erdőbénye": {
+  "jaras": null,
+  "lat": 48.26626,
+  "lon": 21.35601,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Erdőhorváti": {
+  "jaras": null,
+  "lat": 48.31479,
+  "lon": 21.42754,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Erdőkertes": {
+  "jaras": null,
+  "lat": 47.67024,
+  "lon": 19.30836,
+  "megye": "Pest vármegye"
+ },
+ "Erdőkürt": {
+  "jaras": null,
+  "lat": 47.77338,
+  "lon": 19.45854,
+  "megye": "Nógrád vármegye"
+ },
+ "Erdősmárok": {
+  "jaras": null,
+  "lat": 46.05607,
+  "lon": 18.54603,
+  "megye": "Baranya vármegye"
+ },
+ "Eszteregnye": {
+  "jaras": null,
+  "lat": 46.47018,
+  "lon": 16.88425,
+  "megye": "Zala vármegye"
+ },
  "Esztergom": {
   "jaras": null,
   "lat": 47.78569,
   "lon": 18.74034,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Esztergályhorváti": {
+  "jaras": null,
+  "lat": 46.70058,
+  "lon": 17.1084,
+  "megye": "Zala vármegye"
  },
  "Fancsal": {
   "jaras": null,
