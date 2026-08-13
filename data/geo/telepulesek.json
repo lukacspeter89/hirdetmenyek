@@ -88,6 +88,12 @@
   "lon": 20.50543,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Agyagosszergény": {
+  "jaras": null,
+  "lat": 47.60924,
+  "lon": 16.94093,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Ajka": {
   "jaras": null,
   "lat": 47.10566,
@@ -562,6 +568,12 @@
   "lon": 18.86578,
   "megye": "Fejér vármegye"
  },
+ "Baracska": {
+  "jaras": null,
+  "lat": 47.28579,
+  "lon": 18.75758,
+  "megye": "Fejér vármegye"
+ },
  "Barcs": {
   "jaras": null,
   "lat": 45.96051,
@@ -1026,6 +1038,12 @@
   "lat": 46.54581,
   "lon": 16.78342,
   "megye": "Zala vármegye"
+ },
+ "Bár": {
+  "jaras": null,
+  "lat": 46.05181,
+  "lon": 18.71725,
+  "megye": "Baranya vármegye"
  },
  "Bárdudvarnok": {
   "jaras": null,
@@ -2078,11 +2096,83 @@
   "lon": 17.1084,
   "megye": "Zala vármegye"
  },
+ "Ete": {
+  "jaras": null,
+  "lat": 47.53223,
+  "lon": 18.07248,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Etyek": {
+  "jaras": null,
+  "lat": 47.44488,
+  "lon": 18.75047,
+  "megye": "Fejér vármegye"
+ },
+ "Fadd": {
+  "jaras": null,
+  "lat": 46.46639,
+  "lon": 18.82526,
+  "megye": "Tolna vármegye"
+ },
+ "Fajsz": {
+  "jaras": null,
+  "lat": 46.41615,
+  "lon": 18.92197,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Fancsal": {
   "jaras": null,
   "lat": 48.3556,
   "lon": 21.06403,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Fegyvernek": {
+  "jaras": null,
+  "lat": 47.25265,
+  "lon": 20.52594,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Fehérgyarmat": {
+  "jaras": null,
+  "lat": 47.9851,
+  "lon": 22.51675,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Fehérvárcsurgó": {
+  "jaras": null,
+  "lat": 47.29057,
+  "lon": 18.26584,
+  "megye": "Fejér vármegye"
+ },
+ "Feked": {
+  "jaras": null,
+  "lat": 46.16095,
+  "lon": 18.55991,
+  "megye": "Baranya vármegye"
+ },
+ "Feketeerdő": {
+  "jaras": null,
+  "lat": 47.93566,
+  "lon": 17.27871,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Feldebrő": {
+  "jaras": null,
+  "lat": 47.81305,
+  "lon": 20.23294,
+  "megye": "Heves vármegye"
+ },
+ "Felgyő": {
+  "jaras": null,
+  "lat": 46.66471,
+  "lon": 20.11303,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Felpéc": {
+  "jaras": null,
+  "lat": 47.52309,
+  "lon": 17.59859,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Foktő": {
   "jaras": null,
