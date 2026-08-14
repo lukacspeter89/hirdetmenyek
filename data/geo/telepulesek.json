@@ -370,6 +370,12 @@
   "lon": 18.085,
   "megye": "Fejér vármegye"
  },
+ "Bakonygyirót": {
+  "jaras": null,
+  "lat": 47.41793,
+  "lon": 17.80468,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Bakonyszentkirály": {
   "jaras": null,
   "lat": 47.36393,
@@ -1057,6 +1063,12 @@
   "lon": 17.92148,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Bátaszék": {
+  "jaras": null,
+  "lat": 46.19321,
+  "lon": 18.72315,
+  "megye": "Tolna vármegye"
+ },
  "Bátmonostor": {
   "jaras": null,
   "lat": 46.10479,
@@ -1105,6 +1117,7 @@
   "lon": 20.62201,
   "megye": "Békés vármegye"
  },
+ "Békésásmson": null,
  "Bélavár": {
   "jaras": null,
   "lat": 46.12169,
@@ -1236,6 +1249,12 @@
   "lat": 47.69621,
   "lon": 17.2862,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Cece": {
+  "jaras": null,
+  "lat": 46.77047,
+  "lon": 18.62911,
+  "megye": "Fejér vármegye"
  },
  "Cegléd": {
   "jaras": null,
@@ -1404,6 +1423,12 @@
   "lat": 46.46587,
   "lon": 18.3427,
   "megye": "Tolna vármegye"
+ },
+ "Csikvánd": {
+  "jaras": null,
+  "lat": 47.4655,
+  "lon": 17.45169,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Csikéria": {
   "jaras": null,
@@ -1964,6 +1989,12 @@
   "lon": 20.88815,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Egyházasfalu": {
+  "jaras": null,
+  "lat": 47.46507,
+  "lon": 16.76544,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Egyházasgerge": {
   "jaras": null,
   "lat": 48.17884,
@@ -2078,6 +2109,12 @@
   "lon": 18.54603,
   "megye": "Baranya vármegye"
  },
+ "Erk": {
+  "jaras": null,
+  "lat": 47.60935,
+  "lon": 20.07635,
+  "megye": "Heves vármegye"
+ },
  "Eszteregnye": {
   "jaras": null,
   "lat": 46.47018,
@@ -2144,6 +2181,7 @@
   "lon": 18.26584,
   "megye": "Fejér vármegye"
  },
+ "Fehérvárcsurgó zártkert": null,
  "Feked": {
   "jaras": null,
   "lat": 46.16095,
@@ -2173,6 +2211,48 @@
   "lat": 47.52309,
   "lon": 17.59859,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Felsőcsatár": {
+  "jaras": null,
+  "lat": 47.21386,
+  "lon": 16.44466,
+  "megye": "Vas vármegye"
+ },
+ "Felsőgagy": {
+  "jaras": null,
+  "lat": 48.42965,
+  "lon": 21.01517,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Felsőlajos": {
+  "jaras": null,
+  "lat": 47.06605,
+  "lon": 19.49591,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Felsőmocsolád": {
+  "jaras": null,
+  "lat": 46.57631,
+  "lon": 17.82499,
+  "megye": "Somogy vármegye"
+ },
+ "Felsőnyárád": {
+  "jaras": null,
+  "lat": 48.33003,
+  "lon": 20.59838,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Felsőnána": {
+  "jaras": null,
+  "lat": 46.46727,
+  "lon": 18.52876,
+  "megye": "Tolna vármegye"
+ },
+ "Felsőpakony": {
+  "jaras": null,
+  "lat": 47.34327,
+  "lon": 19.23622,
+  "megye": "Pest vármegye"
  },
  "Foktő": {
   "jaras": null,
