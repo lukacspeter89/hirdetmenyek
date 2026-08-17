@@ -100,6 +100,12 @@
   "lon": 17.55873,
   "megye": "Veszprém vármegye"
  },
+ "Aka": {
+  "jaras": null,
+  "lat": 47.40441,
+  "lon": 18.0697,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Akasztó": {
   "jaras": null,
   "lat": 46.69098,
@@ -243,6 +249,12 @@
   "lat": 47.69605,
   "lon": 18.66588,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Apagy": {
+  "jaras": null,
+  "lat": 47.95939,
+  "lon": 21.93485,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Apc": {
   "jaras": null,
@@ -609,6 +621,12 @@
   "lat": 46.75928,
   "lon": 16.68129,
   "megye": "Zala vármegye"
+ },
+ "Bedegkér": {
+  "jaras": null,
+  "lat": 46.65222,
+  "lon": 18.06115,
+  "megye": "Somogy vármegye"
  },
  "Bedő": {
   "jaras": null,
@@ -1538,6 +1556,12 @@
   "lon": 19.1441,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Csém": {
+  "jaras": null,
+  "lat": 47.68218,
+  "lon": 18.08887,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Csépa": {
   "jaras": null,
   "lat": 46.80625,
@@ -1586,6 +1610,12 @@
   "lat": 47.93644,
   "lon": 22.53867,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Cún": {
+  "jaras": null,
+  "lat": 45.81238,
+  "lon": 18.06727,
+  "megye": "Baranya vármegye"
  },
  "Dabas": {
   "jaras": null,
@@ -1760,6 +1790,12 @@
   "lat": 45.80459,
   "lon": 18.21289,
   "megye": "Baranya vármegye"
+ },
+ "Drávatamási": {
+  "jaras": null,
+  "lat": 45.93985,
+  "lon": 17.57142,
+  "megye": "Somogy vármegye"
  },
  "Drégelypalánk": {
   "jaras": null,
@@ -2253,6 +2289,60 @@
   "lat": 47.34327,
   "lon": 19.23622,
   "megye": "Pest vármegye"
+ },
+ "Felsőpáhok": {
+  "jaras": null,
+  "lat": 46.78449,
+  "lon": 17.15591,
+  "megye": "Zala vármegye"
+ },
+ "Felsőszentiván": {
+  "jaras": null,
+  "lat": 46.19476,
+  "lon": 19.18816,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Felsőszölnök": {
+  "jaras": null,
+  "lat": 46.87805,
+  "lon": 16.16539,
+  "megye": "Vas vármegye"
+ },
+ "Felsőtárkány": {
+  "jaras": null,
+  "lat": 47.97202,
+  "lon": 20.41436,
+  "megye": "Heves vármegye"
+ },
+ "Felsőörs": {
+  "jaras": null,
+  "lat": 47.01447,
+  "lon": 17.95325,
+  "megye": "Veszprém vármegye"
+ },
+ "Fertőhomok": {
+  "jaras": null,
+  "lat": 47.61976,
+  "lon": 16.76714,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Fertőrákos": {
+  "jaras": null,
+  "lat": 47.71615,
+  "lon": 16.65278,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Fertőszentmiklós": {
+  "jaras": null,
+  "lat": 47.58904,
+  "lon": 16.87718,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Fertőszéplak": {
+  "jaras": null,
+  "lat": 47.61698,
+  "lon": 16.83427,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Foktő": {
   "jaras": null,
