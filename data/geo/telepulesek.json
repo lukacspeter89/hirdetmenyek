@@ -808,6 +808,12 @@
   "lon": 18.1186,
   "megye": "Baranya vármegye"
  },
+ "Bodonhely": {
+  "jaras": null,
+  "lat": 47.56491,
+  "lon": 17.40733,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Bodrogkeresztúr": {
   "jaras": null,
   "lat": 48.15876,
@@ -1725,6 +1731,12 @@
   "lon": 20.00345,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Dombegyház": {
+  "jaras": null,
+  "lat": 46.34057,
+  "lon": 21.13202,
+  "megye": "Békés vármegye"
+ },
  "Dombrád": {
   "jaras": null,
   "lat": 48.22569,
@@ -1832,6 +1844,12 @@
   "lat": 46.64428,
   "lon": 18.99901,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunaremete": {
+  "jaras": null,
+  "lat": 47.87664,
+  "lon": 17.43709,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Dunaszeg": {
   "jaras": null,
@@ -2043,6 +2061,12 @@
   "lon": 18.33432,
   "megye": "Baranya vármegye"
  },
+ "Egyházaskesző": {
+  "jaras": null,
+  "lat": 47.41671,
+  "lon": 17.32918,
+  "megye": "Veszprém vármegye"
+ },
  "Egyházaskozár": {
   "jaras": null,
   "lat": 46.32984,
@@ -2180,6 +2204,12 @@
   "lat": 47.44488,
   "lon": 18.75047,
   "megye": "Fejér vármegye"
+ },
+ "FELSŐNYÉK": {
+  "jaras": null,
+  "lat": 46.78924,
+  "lon": 18.29148,
+  "megye": "Tolna vármegye"
  },
  "Fadd": {
   "jaras": null,
@@ -2349,6 +2379,66 @@
   "lat": 46.52901,
   "lon": 18.91929,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Folyás": {
+  "jaras": null,
+  "lat": 47.80861,
+  "lon": 21.13421,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Fony": {
+  "jaras": null,
+  "lat": 48.39104,
+  "lon": 21.28417,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Forráskút": {
+  "jaras": null,
+  "lat": 46.36603,
+  "lon": 19.9093,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Fulókércs": {
+  "jaras": null,
+  "lat": 48.42972,
+  "lon": 21.10734,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Fábiánháza": {
+  "jaras": null,
+  "lat": 47.84866,
+  "lon": 22.35666,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Fábiánsebestyén": {
+  "jaras": null,
+  "lat": 46.67832,
+  "lon": 20.44802,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Fácánkert": {
+  "jaras": null,
+  "lat": 46.44801,
+  "lon": 18.73615,
+  "megye": "Tolna vármegye"
+ },
+ "Fáj": {
+  "jaras": null,
+  "lat": 48.4212,
+  "lon": 21.07639,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Fényeslitke": {
+  "jaras": null,
+  "lat": 48.27092,
+  "lon": 22.09908,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Fót": {
+  "jaras": null,
+  "lat": 47.61259,
+  "lon": 19.19801,
+  "megye": "Pest vármegye"
  },
  "Földes": {
   "jaras": null,
