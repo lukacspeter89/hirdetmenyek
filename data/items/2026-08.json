@@ -105071,6 +105071,42 @@
   ],
   "ugyiratszam": "S/1383-1/2026."
  },
+ "2232906": {
+  "altipus": "adás-vételére",
+  "ar_ft": 3000000,
+  "ar_raw": [
+   "3.000.000,- Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1062634
+  ],
+  "forras": "Zirci Közös Önkormányzati Hivatal",
+  "ft_per_ha": 1704545,
+  "hrsz": [
+   "060/2"
+  ],
+  "id": 2232906,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-21",
+  "lejarat": "2026-09-21",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2232906",
+  "muvelesi_ag": [
+   "legelő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Borzvár hrsz.: 060/2",
+  "telepules": "Borzvár",
+  "terulet_m2": 17600,
+  "terulet_raw": [
+   "1 ha 7600 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1584/1584"
+  ],
+  "ugyiratszam": "VP03-A/15/2026"
+ },
  "2232911": {
   "altipus": "haszonbérletére",
   "ar_ft": 150000,

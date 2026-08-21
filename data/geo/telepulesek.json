@@ -964,6 +964,7 @@
   "lon": 17.40377,
   "megye": "Veszprém vármegye"
  },
+ "Borzvár": null,
  "Bozsok": {
   "jaras": null,
   "lat": 47.32506,
@@ -2531,11 +2532,95 @@
   "lon": 19.23956,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Fürged": {
+  "jaras": null,
+  "lat": 46.7214,
+  "lon": 18.30966,
+  "megye": "Tolna vármegye"
+ },
+ "Füzesabony": {
+  "jaras": null,
+  "lat": 47.74854,
+  "lon": 20.41427,
+  "megye": "Heves vármegye"
+ },
+ "Füzesgyarmat": {
+  "jaras": null,
+  "lat": 47.10768,
+  "lon": 21.21185,
+  "megye": "Békés vármegye"
+ },
+ "Füzérkajata": {
+  "jaras": null,
+  "lat": 48.51993,
+  "lon": 21.49905,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Füzérradvány": {
+  "jaras": null,
+  "lat": 48.48474,
+  "lon": 21.52498,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "GIRINCS": {
+  "jaras": null,
+  "lat": 47.96984,
+  "lon": 20.98458,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Gacsály": {
   "jaras": null,
   "lat": 47.93089,
   "lon": 22.75679,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Galambok": {
+  "jaras": null,
+  "lat": 46.52226,
+  "lon": 17.12578,
+  "megye": "Zala vármegye"
+ },
+ "Galgagyörk": {
+  "jaras": null,
+  "lat": 47.74069,
+  "lon": 19.37526,
+  "megye": "Pest vármegye"
+ },
+ "Galgahévíz": {
+  "jaras": null,
+  "lat": 47.62226,
+  "lon": 19.55584,
+  "megye": "Pest vármegye"
+ },
+ "Galgamácsa": {
+  "jaras": null,
+  "lat": 47.69375,
+  "lon": 19.38481,
+  "megye": "Pest vármegye"
+ },
+ "Galvács": {
+  "jaras": null,
+  "lat": 48.41944,
+  "lon": 20.77789,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Gamás": {
+  "jaras": null,
+  "lat": 46.62024,
+  "lon": 17.76257,
+  "megye": "Somogy vármegye"
+ },
+ "Gara": {
+  "jaras": null,
+  "lat": 46.03423,
+  "lon": 19.03869,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Gelse": {
+  "jaras": null,
+  "lat": 46.60218,
+  "lon": 16.98945,
+  "megye": "Zala vármegye"
  },
  "Gyömrő": {
   "jaras": null,
