@@ -118,6 +118,12 @@
   "lon": 19.20635,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Alacska": {
+  "jaras": null,
+  "lat": 48.21457,
+  "lon": 20.65203,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Alap": {
   "jaras": null,
   "lat": 46.80448,
@@ -406,10 +412,22 @@
   "lon": 17.80468,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Bakonykoppány": {
+  "jaras": null,
+  "lat": 47.33048,
+  "lon": 17.68665,
+  "megye": "Veszprém vármegye"
+ },
  "Bakonyszentkirály": {
   "jaras": null,
   "lat": 47.36393,
   "lon": 17.8826,
+  "megye": "Veszprém vármegye"
+ },
+ "Bakonyszücs": {
+  "jaras": null,
+  "lat": 47.34285,
+  "lon": 17.68137,
   "megye": "Veszprém vármegye"
  },
  "Baktalórántháza": {
@@ -622,6 +640,12 @@
   "lon": 17.46341,
   "megye": "Somogy vármegye"
  },
+ "Barlahida": {
+  "jaras": null,
+  "lat": 46.71648,
+  "lon": 16.70159,
+  "megye": "Zala vármegye"
+ },
  "Basal": {
   "jaras": null,
   "lat": 46.07421,
@@ -819,6 +843,12 @@
   "lat": 46.7789,
   "lon": 16.84403,
   "megye": "Zala vármegye"
+ },
+ "Boconád": {
+  "jaras": null,
+  "lat": 47.64206,
+  "lon": 20.18731,
+  "megye": "Heves vármegye"
  },
  "Bocskaikert": {
   "jaras": null,
@@ -1027,6 +1057,12 @@
   "lat": 47.47583,
   "lon": 19.26941,
   "megye": null
+ },
+ "Budapest XXI. Kerület Csepel": {
+  "jaras": null,
+  "lat": 47.41259,
+  "lon": 19.06519,
+  "megye": "Budapest"
  },
  "Budapest XXII. Kerület": {
   "jaras": null,
@@ -1581,6 +1617,12 @@
   "lon": 22.7225,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Császár": {
+  "jaras": null,
+  "lat": 47.50146,
+  "lon": 18.13934,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Császártöltés": {
   "jaras": null,
   "lat": 46.42298,
@@ -1611,6 +1653,12 @@
   "lat": 46.41861,
   "lon": 19.83876,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Csór": {
+  "jaras": null,
+  "lat": 47.20499,
+  "lon": 18.25695,
+  "megye": "Fejér vármegye"
  },
  "Csögle": {
   "jaras": null,
@@ -2003,6 +2051,12 @@
   "lon": 18.45863,
   "megye": "Baranya vármegye"
  },
+ "Ebergőc": {
+  "jaras": null,
+  "lat": 47.56369,
+  "lon": 16.81156,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Ebes": {
   "jaras": null,
   "lat": 47.47124,
@@ -2020,6 +2074,12 @@
   "lat": 46.55109,
   "lon": 17.85236,
   "megye": "Somogy vármegye"
+ },
+ "Ecséd": {
+  "jaras": null,
+  "lat": 47.73231,
+  "lon": 19.77288,
+  "megye": "Heves vármegye"
  },
  "Edde": {
   "jaras": null,
@@ -2370,6 +2430,12 @@
   "lon": 17.15591,
   "megye": "Zala vármegye"
  },
+ "Felsőrajk": {
+  "jaras": null,
+  "lat": 46.68096,
+  "lon": 16.98631,
+  "megye": "Zala vármegye"
+ },
  "Felsőszentiván": {
   "jaras": null,
   "lat": 46.19476,
@@ -2568,6 +2634,12 @@
   "lon": 20.98458,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "GYŐRVÁR": {
+  "jaras": null,
+  "lat": 46.9871,
+  "lon": 16.84109,
+  "megye": "Vas vármegye"
+ },
  "Gacsály": {
   "jaras": null,
   "lat": 47.93089,
@@ -2621,6 +2693,24 @@
   "lat": 46.60218,
   "lon": 16.98945,
   "megye": "Zala vármegye"
+ },
+ "Gelsesziget": {
+  "jaras": null,
+  "lat": 46.5661,
+  "lon": 16.98832,
+  "megye": "Zala vármegye"
+ },
+ "Gencsapáti": {
+  "jaras": null,
+  "lat": 47.28455,
+  "lon": 16.59598,
+  "megye": "Vas vármegye"
+ },
+ "Gerendás": {
+  "jaras": null,
+  "lat": 46.59748,
+  "lon": 20.85769,
+  "megye": "Békés vármegye"
  },
  "Gyömrő": {
   "jaras": null,
