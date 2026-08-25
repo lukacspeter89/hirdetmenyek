@@ -508,6 +508,12 @@
   "lon": 17.35049,
   "megye": "Zala vármegye"
  },
+ "Balatonhenye": {
+  "jaras": null,
+  "lat": 46.91197,
+  "lon": 17.61553,
+  "megye": "Veszprém vármegye"
+ },
  "Balatonkenese": {
   "jaras": null,
   "lat": 47.03551,
@@ -868,6 +874,12 @@
   "lon": 17.40733,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Bodony": {
+  "jaras": null,
+  "lat": 47.94229,
+  "lon": 20.02381,
+  "megye": "Heves vármegye"
+ },
  "Bodrogkeresztúr": {
   "jaras": null,
   "lat": 48.15876,
@@ -1075,6 +1087,12 @@
   "lat": 47.3894,
   "lon": 19.14416,
   "megye": null
+ },
+ "Budaörs": {
+  "jaras": null,
+  "lat": 47.46113,
+  "lon": 18.96118,
+  "megye": "Pest vármegye"
  },
  "Bugac": {
   "jaras": null,
@@ -1293,6 +1311,12 @@
   "lon": 20.78042,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Bükkszék": {
+  "jaras": null,
+  "lat": 47.99113,
+  "lon": 20.17684,
+  "megye": "Heves vármegye"
+ },
  "Bükkzsérc": {
   "jaras": null,
   "lat": 47.95492,
@@ -1412,6 +1436,12 @@
   "lat": 46.24405,
   "lon": 20.7234,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csegöld": {
+  "jaras": null,
+  "lat": 47.89812,
+  "lon": 22.68054,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Csemő": {
   "jaras": null,
@@ -2711,6 +2741,66 @@
   "lat": 46.59748,
   "lon": 20.85769,
   "megye": "Békés vármegye"
+ },
+ "Geresdlak": {
+  "jaras": null,
+  "lat": 46.10831,
+  "lon": 18.527,
+  "megye": "Baranya vármegye"
+ },
+ "Gerényes": {
+  "jaras": null,
+  "lat": 46.30543,
+  "lon": 18.18492,
+  "megye": "Baranya vármegye"
+ },
+ "Gibárt": {
+  "jaras": null,
+  "lat": 48.31594,
+  "lon": 21.16008,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Gige": {
+  "jaras": null,
+  "lat": 46.30072,
+  "lon": 17.60855,
+  "megye": "Somogy vármegye"
+ },
+ "Golop": {
+  "jaras": null,
+  "lat": 48.23891,
+  "lon": 21.18936,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Gomba": {
+  "jaras": null,
+  "lat": 47.37037,
+  "lon": 19.53115,
+  "megye": "Pest vármegye"
+ },
+ "Gulács": {
+  "jaras": null,
+  "lat": 48.08828,
+  "lon": 22.46789,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Gutorfölde": {
+  "jaras": null,
+  "lat": 46.6413,
+  "lon": 16.73647,
+  "megye": "Zala vármegye"
+ },
+ "Gyepükaján": {
+  "jaras": null,
+  "lat": 47.04423,
+  "lon": 17.32656,
+  "megye": "Veszprém vármegye"
+ },
+ "Gyermely": {
+  "jaras": null,
+  "lat": 47.59107,
+  "lon": 18.6439,
+  "megye": "Komárom-Esztergom vármegye"
  },
  "Gyömrő": {
   "jaras": null,
