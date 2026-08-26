@@ -370,6 +370,12 @@
   "lon": 16.74376,
   "megye": "Zala vármegye"
  },
+ "Baj": {
+  "jaras": null,
+  "lat": 47.64895,
+  "lon": 18.36444,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Baja": {
   "jaras": null,
   "lat": 46.17855,
@@ -1064,6 +1070,7 @@
   "lon": 19.20437,
   "megye": null
  },
+ "Budapest XVI. ker.": null,
  "Budapest XVII.": {
   "jaras": null,
   "lat": 47.47583,
@@ -2105,6 +2112,12 @@
   "lon": 17.85236,
   "megye": "Somogy vármegye"
  },
+ "Ecser": {
+  "jaras": null,
+  "lat": 47.4445,
+  "lon": 19.31846,
+  "megye": "Pest vármegye"
+ },
  "Ecséd": {
   "jaras": null,
   "lat": 47.73231,
@@ -2802,11 +2815,83 @@
   "lon": 18.6439,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Gyomaendrőd": {
+  "jaras": null,
+  "lat": 46.9358,
+  "lon": 20.82609,
+  "megye": "Békés vármegye"
+ },
+ "Gyula": {
+  "jaras": null,
+  "lat": 46.64387,
+  "lon": 21.27476,
+  "megye": "Békés vármegye"
+ },
+ "Gyulaháza": {
+  "jaras": null,
+  "lat": 48.13794,
+  "lon": 22.11173,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Gyulaj": {
+  "jaras": null,
+  "lat": 46.50536,
+  "lon": 18.29464,
+  "megye": "Tolna vármegye"
+ },
+ "Gyál": {
+  "jaras": null,
+  "lat": 47.38455,
+  "lon": 19.21731,
+  "megye": "Pest vármegye"
+ },
+ "Gyékényes": {
+  "jaras": null,
+  "lat": 46.23349,
+  "lon": 17.01037,
+  "megye": "Somogy vármegye"
+ },
  "Gyömrő": {
   "jaras": null,
   "lat": 47.42234,
   "lon": 19.3945,
   "megye": "Pest vármegye"
+ },
+ "Gyömöre": {
+  "jaras": null,
+  "lat": 47.50074,
+  "lon": 17.56474,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Gyöngyös": {
+  "jaras": null,
+  "lat": 47.77998,
+  "lon": 19.92912,
+  "megye": "Heves vármegye"
+ },
+ "Gyöngyösfalu": {
+  "jaras": null,
+  "lat": 47.31562,
+  "lon": 16.58686,
+  "megye": "Vas vármegye"
+ },
+ "Gyöngyöshalász": {
+  "jaras": null,
+  "lat": 47.74177,
+  "lon": 19.92173,
+  "megye": "Heves vármegye"
+ },
+ "Gyöngyösmellék": {
+  "jaras": null,
+  "lat": 45.98684,
+  "lon": 17.7021,
+  "megye": "Baranya vármegye"
+ },
+ "Gyöngyösoroszi": {
+  "jaras": null,
+  "lat": 47.82904,
+  "lon": 19.89254,
+  "megye": "Heves vármegye"
  },
  "Gyúró": {
   "jaras": null,
