@@ -484,6 +484,12 @@
   "lon": 17.65533,
   "megye": "Somogy vármegye"
  },
+ "Balatoncsicsó": {
+  "jaras": null,
+  "lat": 46.9266,
+  "lon": 17.66889,
+  "megye": "Veszprém vármegye"
+ },
  "Balatonederics": {
   "jaras": null,
   "lat": 46.80914,
@@ -783,6 +789,12 @@
   "lat": 47.296,
   "lon": 20.25715,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Besenyőd": {
+  "jaras": null,
+  "lat": 47.96357,
+  "lon": 22.0114,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Besnyő": {
   "jaras": null,
@@ -2184,6 +2196,12 @@
   "lon": 20.88815,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Egyházasdengeleg": {
+  "jaras": null,
+  "lat": 47.79761,
+  "lon": 19.55899,
+  "megye": "Nógrád vármegye"
+ },
  "Egyházasfalu": {
   "jaras": null,
   "lat": 47.46507,
@@ -2893,11 +2911,83 @@
   "lon": 19.89254,
   "megye": "Heves vármegye"
  },
+ "Gyöngyöspata": {
+  "jaras": null,
+  "lat": 47.81468,
+  "lon": 19.79034,
+  "megye": "Heves vármegye"
+ },
+ "Gyöngyössolymos": {
+  "jaras": null,
+  "lat": 47.81694,
+  "lon": 19.93323,
+  "megye": "Heves vármegye"
+ },
+ "Gyöngyöstarján": {
+  "jaras": null,
+  "lat": 47.81174,
+  "lon": 19.86683,
+  "megye": "Heves vármegye"
+ },
+ "Györköny": {
+  "jaras": null,
+  "lat": 46.63452,
+  "lon": 18.69457,
+  "megye": "Tolna vármegye"
+ },
  "Gyúró": {
   "jaras": null,
   "lat": 47.37085,
   "lon": 18.73956,
   "megye": "Fejér vármegye"
+ },
+ "Győr": {
+  "jaras": null,
+  "lat": 47.6835,
+  "lon": 17.63428,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Győrszemere": {
+  "jaras": null,
+  "lat": 47.55283,
+  "lon": 17.56225,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Győrsövényház": {
+  "jaras": null,
+  "lat": 47.69006,
+  "lon": 17.37378,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Győrtelek": {
+  "jaras": null,
+  "lat": 47.92842,
+  "lon": 22.44069,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Győrzámoly": {
+  "jaras": null,
+  "lat": 47.74043,
+  "lon": 17.57884,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Győrújbarát": {
+  "jaras": null,
+  "lat": 47.61338,
+  "lon": 17.63657,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Gyűrűs": {
+  "jaras": null,
+  "lat": 46.88439,
+  "lon": 16.99223,
+  "megye": "Zala vármegye"
+ },
+ "Gáborján": {
+  "jaras": null,
+  "lat": 47.23986,
+  "lon": 21.6577,
+  "megye": "Hajdú-Bihar vármegye"
  },
  "Gölle": {
   "jaras": null,
