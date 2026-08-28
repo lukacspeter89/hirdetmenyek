@@ -40,6 +40,12 @@
   "lon": 20.00049,
   "megye": "Heves vármegye"
  },
+ "Abaújkér": {
+  "jaras": null,
+  "lat": 48.30752,
+  "lon": 21.20152,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Abda": {
   "jaras": null,
   "lat": 47.69768,
@@ -1739,6 +1745,12 @@
   "lon": 19.1904,
   "megye": "Pest vármegye"
  },
+ "Csörötnek": {
+  "jaras": null,
+  "lat": 46.95169,
+  "lon": 16.36549,
+  "megye": "Vas vármegye"
+ },
  "Csősz": {
   "jaras": null,
   "lat": 47.03615,
@@ -1780,6 +1792,12 @@
   "lat": 47.51823,
   "lon": 18.22543,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Darnó": {
+  "jaras": null,
+  "lat": 47.95805,
+  "lon": 22.66027,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Darnózseli": {
   "jaras": null,
@@ -1992,6 +2010,12 @@
   "lon": 17.54007,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Dunaszekcső": {
+  "jaras": null,
+  "lat": 46.08492,
+  "lon": 18.75974,
+  "megye": "Baranya vármegye"
+ },
  "Dunaszentbenedek": {
   "jaras": null,
   "lat": 46.59387,
@@ -2033,6 +2057,12 @@
   "lat": 46.39002,
   "lon": 18.95896,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Dánszentmiklós": {
+  "jaras": null,
+  "lat": 47.20773,
+  "lon": 19.55611,
+  "megye": "Pest vármegye"
  },
  "Dány": {
   "jaras": null,
@@ -2707,6 +2737,12 @@
   "lon": 22.75679,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Gagybátor": {
+  "jaras": null,
+  "lat": 48.43424,
+  "lon": 20.94981,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Galambok": {
   "jaras": null,
   "lat": 46.52226,
@@ -2988,6 +3024,60 @@
   "lat": 47.23986,
   "lon": 21.6577,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Gádoros": {
+  "jaras": null,
+  "lat": 46.67069,
+  "lon": 20.5996,
+  "megye": "Békés vármegye"
+ },
+ "Gárdony": {
+  "jaras": null,
+  "lat": 47.20281,
+  "lon": 18.6262,
+  "megye": "Fejér vármegye"
+ },
+ "Gátér": {
+  "jaras": null,
+  "lat": 46.68353,
+  "lon": 19.95773,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Gávavencsellő": {
+  "jaras": null,
+  "lat": 48.16101,
+  "lon": 21.59341,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Géderlak": {
+  "jaras": null,
+  "lat": 46.60852,
+  "lon": 18.91405,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Gégény": {
+  "jaras": null,
+  "lat": 48.14455,
+  "lon": 21.94896,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Gétye": {
+  "jaras": null,
+  "lat": 46.76289,
+  "lon": 17.06964,
+  "megye": "Zala vármegye"
+ },
+ "Göd": {
+  "jaras": null,
+  "lat": 47.68343,
+  "lon": 19.13416,
+  "megye": "Pest vármegye"
+ },
+ "Gödöllő": {
+  "jaras": null,
+  "lat": 47.60153,
+  "lon": 19.3477,
+  "megye": "Pest vármegye"
  },
  "Gölle": {
   "jaras": null,
