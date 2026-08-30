@@ -3085,10 +3085,100 @@
   "lon": 18.01221,
   "megye": "Somogy vármegye"
  },
+ "Gönc": {
+  "jaras": null,
+  "lat": 48.47249,
+  "lon": 21.27263,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Göncruszka": {
+  "jaras": null,
+  "lat": 48.44923,
+  "lon": 21.24149,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Görbeháza": {
+  "jaras": null,
+  "lat": 47.81883,
+  "lon": 21.23796,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Görcsöny": {
+  "jaras": null,
+  "lat": 45.96961,
+  "lon": 18.13543,
+  "megye": "Baranya vármegye"
+ },
+ "Görcsönydoboka": {
+  "jaras": null,
+  "lat": 46.0708,
+  "lon": 18.62739,
+  "megye": "Baranya vármegye"
+ },
+ "Gősfa": {
+  "jaras": null,
+  "lat": 46.95815,
+  "lon": 16.85727,
+  "megye": "Zala vármegye"
+ },
+ "HERNÁD": {
+  "jaras": null,
+  "lat": 47.16508,
+  "lon": 19.40708,
+  "megye": "Pest vármegye"
+ },
+ "HOMOKSZENTGYÖRGY": {
+  "jaras": null,
+  "lat": 46.116,
+  "lon": 17.56897,
+  "megye": "Somogy vármegye"
+ },
+ "Hagyárosbörönd": {
+  "jaras": null,
+  "lat": 46.91044,
+  "lon": 16.70455,
+  "megye": "Zala vármegye"
+ },
+ "Hahót": {
+  "jaras": null,
+  "lat": 46.64888,
+  "lon": 16.9228,
+  "megye": "Zala vármegye"
+ },
+ "Hajdúbagos": {
+  "jaras": null,
+  "lat": 47.38976,
+  "lon": 21.66592,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajdúböszörmény": {
+  "jaras": null,
+  "lat": 47.67166,
+  "lon": 21.50789,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajdúdorog": {
+  "jaras": null,
+  "lat": 47.81572,
+  "lon": 21.50068,
+  "megye": "Hajdú-Bihar vármegye"
+ },
  "Hajdúhadház": {
   "jaras": null,
   "lat": 47.6822,
   "lon": 21.66922,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajdúnánás": {
+  "jaras": null,
+  "lat": 47.84522,
+  "lon": 21.4279,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajdúszoboszló": {
+  "jaras": null,
+  "lat": 47.44313,
+  "lon": 21.3903,
   "megye": "Hajdú-Bihar vármegye"
  },
  "Hatvan": {

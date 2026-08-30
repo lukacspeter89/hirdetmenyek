@@ -143738,5 +143738,77 @@
    "1/1"
   ],
   "ugyiratszam": "K/4832/2026"
+ },
+ "2234022": {
+  "altipus": "adás-vételére",
+  "ar_ft": 105000,
+  "ar_raw": [
+   "105 000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1063722
+  ],
+  "forras": "Borotai Közös Önkormányzati Hivatal",
+  "ft_per_ha": 365854,
+  "hrsz": [
+   "0299/85"
+  ],
+  "id": 2234022,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-30",
+  "lejarat": "2026-09-29",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2234022",
+  "muvelesi_ag": [
+   "kivett rom, legelő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Borota hrsz.: 0299/85",
+  "telepules": "Borota",
+  "terulet_m2": 2870,
+  "terulet_raw": [
+   "0,2870 ha"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "21/36"
+  ],
+  "ugyiratszam": "B/1299/2026"
+ },
+ "2234023": {
+  "altipus": "adás-vételére",
+  "ar_ft": 175000,
+  "ar_raw": [
+   "175 000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1063723
+  ],
+  "forras": "Borotai Közös Önkormányzati Hivatal",
+  "ft_per_ha": 608273,
+  "hrsz": [
+   "0437/5"
+  ],
+  "id": 2234023,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-08-30",
+  "lejarat": "2026-09-29",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2234023",
+  "muvelesi_ag": [
+   "kivett tanya, gyümölcsös"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Borota hrsz.: 0437/5",
+  "telepules": "Borota",
+  "terulet_m2": 2877,
+  "terulet_raw": [
+   "0,2877 ha"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "B/1310/2026"
  }
 }
