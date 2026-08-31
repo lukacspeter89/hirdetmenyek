@@ -1131,6 +1131,12 @@
   "lon": 19.15093,
   "megye": "Pest vármegye"
  },
+ "Buzsák": {
+  "jaras": null,
+  "lat": 46.64871,
+  "lon": 17.57747,
+  "megye": "Somogy vármegye"
+ },
  "Bábonymegyer": {
   "jaras": null,
   "lat": 46.75167,
@@ -1467,6 +1473,12 @@
   "lat": 47.89812,
   "lon": 22.68054,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Csehimindszent": {
+  "jaras": null,
+  "lat": 47.04645,
+  "lon": 16.95566,
+  "megye": "Vas vármegye"
  },
  "Csemő": {
   "jaras": null,
@@ -1913,11 +1925,23 @@
   "lon": 20.41839,
   "megye": "Heves vármegye"
  },
+ "Dorog": {
+  "jaras": null,
+  "lat": 47.72238,
+  "lon": 18.73144,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Dorogháza": {
   "jaras": null,
   "lat": 47.98714,
   "lon": 19.90035,
   "megye": "Nógrád vármegye"
+ },
+ "Dozmat": {
+  "jaras": null,
+  "lat": 47.23349,
+  "lon": 16.51252,
+  "megye": "Vas vármegye"
  },
  "Drágszél": {
   "jaras": null,
@@ -2749,6 +2773,12 @@
   "lon": 17.12578,
   "megye": "Zala vármegye"
  },
+ "Galgaguta": {
+  "jaras": null,
+  "lat": 47.84599,
+  "lon": 19.38912,
+  "megye": "Nógrád vármegye"
+ },
  "Galgagyörk": {
   "jaras": null,
   "lat": 47.74069,
@@ -3180,6 +3210,66 @@
   "lat": 47.44313,
   "lon": 21.3903,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajdúsámson": {
+  "jaras": null,
+  "lat": 47.59895,
+  "lon": 21.75371,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajós": {
+  "jaras": null,
+  "lat": 46.3983,
+  "lon": 19.11722,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Halmaj": {
+  "jaras": null,
+  "lat": 48.24625,
+  "lon": 21.00168,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Halászi": {
+  "jaras": null,
+  "lat": 47.89096,
+  "lon": 17.32933,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Halásztelek": {
+  "jaras": null,
+  "lat": 47.3631,
+  "lon": 18.98114,
+  "megye": "Pest vármegye"
+ },
+ "Hangony": {
+  "jaras": null,
+  "lat": 48.22605,
+  "lon": 20.20073,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hantos": {
+  "jaras": null,
+  "lat": 46.99487,
+  "lon": 18.69912,
+  "megye": "Fejér vármegye"
+ },
+ "Harkakötöny": {
+  "jaras": null,
+  "lat": 46.46343,
+  "lon": 19.6075,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Harkány": {
+  "jaras": null,
+  "lat": 45.84779,
+  "lon": 18.236,
+  "megye": "Baranya vármegye"
+ },
+ "Harta": {
+  "jaras": null,
+  "lat": 46.69472,
+  "lon": 19.02771,
+  "megye": "Bács-Kiskun vármegye"
  },
  "Hatvan": {
   "jaras": null,

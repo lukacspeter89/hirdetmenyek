@@ -1,0 +1,110 @@
+{
+ "2234083": {
+  "altipus": "adás-vételére",
+  "ar_ft": 2000000,
+  "ar_raw": [
+   "2 000 000Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1063783
+  ],
+  "forras": "Gödöllői Polgármesteri Hivatal",
+  "ft_per_ha": 18165304,
+  "hrsz": [
+   "0226/15"
+  ],
+  "id": 2234083,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-01",
+  "lejarat": "2026-09-30",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2234083",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Gödöllő hrsz.: 0226/15",
+  "telepules": "Gödöllő",
+  "terulet_m2": 1101,
+  "terulet_raw": [
+   "1101 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "111/2425/2026"
+ },
+ "2234184": {
+  "altipus": "adás-vételére",
+  "ar_ft": null,
+  "ar_raw": [
+   "550000"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1063885
+  ],
+  "forras": "Gyáli Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "068/24"
+  ],
+  "id": 2234184,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-01",
+  "lejarat": "2026-09-30",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2234184",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ar_nem_ertelmezheto",
+  "targy": "Adás-vétel - Gyál hrsz.: 068/24",
+  "telepules": "Gyál",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "2740"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "90/272"
+  ],
+  "ugyiratszam": "K/16709/2026"
+ },
+ "2234203": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "50 kg malmi búza/AK/év"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1063903
+  ],
+  "forras": "Rábapordányi Közös Önkormányzati Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0248/1,0263/13,0233/5"
+  ],
+  "id": 2234203,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-01",
+  "lejarat": "2026-09-15",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2234203",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "termeny_alapu_dij",
+  "targy": "Haszonbérlet - Sobor hrsz.: 0248/1,0263/13,0233/5",
+  "telepules": "Sobor",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "17,029"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "S/271-1/2026"
+ }
+}
