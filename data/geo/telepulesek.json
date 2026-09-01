@@ -292,6 +292,12 @@
   "lon": 18.48021,
   "megye": "Baranya vármegye"
  },
+ "Aranyosgadány": {
+  "jaras": null,
+  "lat": 46.00791,
+  "lon": 18.11916,
+  "megye": "Baranya vármegye"
+ },
  "Arnót": {
   "jaras": null,
   "lat": 48.13081,
@@ -1992,6 +1998,12 @@
   "megye": "Nógrád vármegye"
  },
  "Duanszentbenedek": null,
+ "Dudar": {
+  "jaras": null,
+  "lat": 47.31058,
+  "lon": 17.94393,
+  "megye": "Veszprém vármegye"
+ },
  "Dunabogdány": {
   "jaras": null,
   "lat": 47.79379,
@@ -3061,6 +3073,12 @@
   "lon": 20.5996,
   "megye": "Békés vármegye"
  },
+ "Gánt": {
+  "jaras": null,
+  "lat": 47.39086,
+  "lon": 18.38778,
+  "megye": "Fejér vármegye"
+ },
  "Gárdony": {
   "jaras": null,
   "lat": 47.20281,
@@ -3282,6 +3300,78 @@
   "lat": 46.91608,
   "lon": 17.52111,
   "megye": "Veszprém vármegye"
+ },
+ "Hegyeshalom": {
+  "jaras": null,
+  "lat": 47.91449,
+  "lon": 17.1558,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Hegyháthodász": {
+  "jaras": null,
+  "lat": 46.93405,
+  "lon": 16.6576,
+  "megye": "Vas vármegye"
+ },
+ "Hegyhátszentjakab": {
+  "jaras": null,
+  "lat": 46.86816,
+  "lon": 16.54725,
+  "megye": "Vas vármegye"
+ },
+ "Hegymagas": {
+  "jaras": null,
+  "lat": 46.83335,
+  "lon": 17.43304,
+  "megye": "Veszprém vármegye"
+ },
+ "Hegyszentmárton": {
+  "jaras": null,
+  "lat": 45.90372,
+  "lon": 18.0903,
+  "megye": "Baranya vármegye"
+ },
+ "Hejőpapi": {
+  "jaras": null,
+  "lat": 47.89762,
+  "lon": 20.90713,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hejőszalonta": {
+  "jaras": null,
+  "lat": 47.94001,
+  "lon": 20.88251,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Helvécia": {
+  "jaras": null,
+  "lat": 46.83739,
+  "lon": 19.62128,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Hencida": {
+  "jaras": null,
+  "lat": 47.25078,
+  "lon": 21.69554,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hencse": {
+  "jaras": null,
+  "lat": 46.20034,
+  "lon": 17.62343,
+  "megye": "Somogy vármegye"
+ },
+ "Hercegkút": {
+  "jaras": null,
+  "lat": 48.33691,
+  "lon": 21.5292,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hercegszántó": {
+  "jaras": null,
+  "lat": 45.9506,
+  "lon": 18.93584,
+  "megye": "Bács-Kiskun vármegye"
  },
  "Heves": {
   "jaras": null,
