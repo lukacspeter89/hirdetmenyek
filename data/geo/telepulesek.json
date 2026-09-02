@@ -742,6 +742,12 @@
   "lon": 18.43274,
   "megye": "Baranya vármegye"
  },
+ "Benk": {
+  "jaras": null,
+  "lat": 48.30193,
+  "lon": 22.23263,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Beregsurány": {
   "jaras": null,
   "lat": 48.16156,
@@ -824,6 +830,12 @@
   "jaras": null,
   "lat": 47.96212,
   "lon": 17.21621,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Bezi": {
+  "jaras": null,
+  "lat": 47.67435,
+  "lon": 17.39194,
   "megye": "Győr-Moson-Sopron vármegye"
  },
  "Biatorbágy": {
@@ -909,6 +921,12 @@
   "lat": 47.94229,
   "lon": 20.02381,
   "megye": "Heves vármegye"
+ },
+ "Bodroghalom": {
+  "jaras": null,
+  "lat": 48.30357,
+  "lon": 21.70488,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Bodrogkeresztúr": {
   "jaras": null,
@@ -1082,6 +1100,12 @@
   "megye": null
  },
  "Budapest XI": null,
+ "Budapest XII. kerület": {
+  "jaras": null,
+  "lat": 47.50021,
+  "lon": 18.98559,
+  "megye": "Budapest"
+ },
  "Budapest XV. Kerület": {
   "jaras": null,
   "lat": 47.55893,
@@ -1184,6 +1208,12 @@
   "lat": 46.78166,
   "lon": 17.95207,
   "megye": "Somogy vármegye"
+ },
+ "Bánk": {
+  "jaras": null,
+  "lat": 47.92589,
+  "lon": 19.17359,
+  "megye": "Nógrád vármegye"
  },
  "Bánokszentgyörgy": {
   "jaras": null,
@@ -1624,6 +1654,12 @@
   "lon": 18.71759,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Csombárd": {
+  "jaras": null,
+  "lat": 46.45209,
+  "lon": 17.67208,
+  "megye": "Somogy vármegye"
+ },
  "Csongrád": {
   "jaras": null,
   "lat": 46.70976,
@@ -1635,6 +1671,12 @@
   "lat": 46.97969,
   "lon": 17.92314,
   "megye": "Veszprém vármegye"
+ },
+ "Csorna": {
+  "jaras": null,
+  "lat": 47.61342,
+  "lon": 17.2498,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Csorvás": {
   "jaras": null,
@@ -2827,6 +2869,12 @@
   "lon": 19.03869,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Gelej": {
+  "jaras": null,
+  "lat": 47.83208,
+  "lon": 20.77676,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Gelse": {
   "jaras": null,
   "lat": 46.60218,
@@ -3072,6 +3120,12 @@
   "lat": 46.67069,
   "lon": 20.5996,
   "megye": "Békés vármegye"
+ },
+ "Gálosfa": {
+  "jaras": null,
+  "lat": 46.2562,
+  "lon": 17.88553,
+  "megye": "Somogy vármegye"
  },
  "Gánt": {
   "jaras": null,
@@ -3325,6 +3379,12 @@
   "lon": 17.43304,
   "megye": "Veszprém vármegye"
  },
+ "Hegymeg": {
+  "jaras": null,
+  "lat": 48.33101,
+  "lon": 20.86141,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Hegyszentmárton": {
   "jaras": null,
   "lat": 45.90372,
@@ -3372,6 +3432,36 @@
   "lat": 45.9506,
   "lon": 18.93584,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Herencsény": {
+  "jaras": null,
+  "lat": 47.97461,
+  "lon": 19.47258,
+  "megye": "Nógrád vármegye"
+ },
+ "Hernádbűd": {
+  "jaras": null,
+  "lat": 48.29469,
+  "lon": 21.13558,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hernádkak": {
+  "jaras": null,
+  "lat": 48.09132,
+  "lon": 20.96418,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hernádkércs": {
+  "jaras": null,
+  "lat": 48.2419,
+  "lon": 21.0486,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hernádnémeti": {
+  "jaras": null,
+  "lat": 48.07119,
+  "lon": 20.97705,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Heves": {
   "jaras": null,
