@@ -172,6 +172,12 @@
   "lon": 17.87414,
   "megye": "Baranya vármegye"
  },
+ "Almáskamarás": {
+  "jaras": null,
+  "lat": 46.46274,
+  "lon": 21.08991,
+  "megye": "Békés vármegye"
+ },
  "Alsódobsza": {
   "jaras": null,
   "lat": 48.18048,
@@ -2935,6 +2941,12 @@
   "lon": 19.53115,
   "megye": "Pest vármegye"
  },
+ "Grábóc": {
+  "jaras": null,
+  "lat": 46.28907,
+  "lon": 18.60694,
+  "megye": "Tolna vármegye"
+ },
  "Gulács": {
   "jaras": null,
   "lat": 48.08828,
@@ -3463,11 +3475,89 @@
   "lon": 20.97705,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Hetefejércse": {
+  "jaras": null,
+  "lat": 48.12793,
+  "lon": 22.4684,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Hetes": {
+  "jaras": null,
+  "lat": 46.42188,
+  "lon": 17.69508,
+  "megye": "Somogy vármegye"
+ },
+ "Hetvehely": {
+  "jaras": null,
+  "lat": 46.13215,
+  "lon": 18.04415,
+  "megye": "Baranya vármegye"
+ },
  "Heves": {
   "jaras": null,
   "lat": 47.78844,
   "lon": 20.17144,
   "megye": "Heves vármegye"
+ },
+ "Hevesaranyos": {
+  "jaras": null,
+  "lat": 48.00841,
+  "lon": 20.23527,
+  "megye": "Heves vármegye"
+ },
+ "Hevesvezekény": {
+  "jaras": null,
+  "lat": 47.55724,
+  "lon": 20.35785,
+  "megye": "Heves vármegye"
+ },
+ "Hidasnémeti": {
+  "jaras": null,
+  "lat": 48.50027,
+  "lon": 21.22878,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hidvégardó": {
+  "jaras": null,
+  "lat": 48.56077,
+  "lon": 20.83451,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Himesháza": {
+  "jaras": null,
+  "lat": 46.08594,
+  "lon": 18.56983,
+  "megye": "Baranya vármegye"
+ },
+ "Himod": {
+  "jaras": null,
+  "lat": 47.51888,
+  "lon": 17.00402,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Hodász": {
+  "jaras": null,
+  "lat": 47.91683,
+  "lon": 22.20464,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Hollád": {
+  "jaras": null,
+  "lat": 46.63982,
+  "lon": 17.30841,
+  "megye": "Somogy vármegye"
+ },
+ "Homokkomárom": {
+  "jaras": null,
+  "lat": 46.50551,
+  "lon": 16.91566,
+  "megye": "Zala vármegye"
+ },
+ "Homokmégy": {
+  "jaras": null,
+  "lat": 46.48799,
+  "lon": 19.07374,
+  "megye": "Bács-Kiskun vármegye"
  },
  "Jánossomorja": {
   "jaras": null,
