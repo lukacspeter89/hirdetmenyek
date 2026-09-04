@@ -1036,6 +1036,12 @@
   "lon": 19.22317,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Borsfa": {
+  "jaras": null,
+  "lat": 46.50132,
+  "lon": 16.78419,
+  "megye": "Zala vármegye"
+ },
  "Borsodgeszt": {
   "jaras": null,
   "lat": 47.95764,
@@ -1636,6 +1642,12 @@
   "lon": 19.47156,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Csipkerek": {
+  "jaras": null,
+  "lat": 47.07379,
+  "lon": 16.94137,
+  "megye": "Vas vármegye"
+ },
  "Csobaj": {
   "jaras": null,
   "lat": 48.04814,
@@ -1889,6 +1901,12 @@
   "lon": 18.76007,
   "megye": "Tolna vármegye"
  },
+ "Demecser": {
+  "jaras": null,
+  "lat": 48.1137,
+  "lon": 21.92521,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Demjén": {
   "jaras": null,
   "lat": 47.82946,
@@ -2141,6 +2159,12 @@
   "lat": 46.39002,
   "lon": 18.95896,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Dáka": {
+  "jaras": null,
+  "lat": 47.28652,
+  "lon": 17.42789,
+  "megye": "Veszprém vármegye"
  },
  "Dánszentmiklós": {
   "jaras": null,
@@ -3385,6 +3409,12 @@
   "lon": 16.54725,
   "megye": "Vas vármegye"
  },
+ "Hegykő": {
+  "jaras": null,
+  "lat": 47.6217,
+  "lon": 16.79407,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Hegymagas": {
   "jaras": null,
   "lat": 46.83335,
@@ -3558,6 +3588,66 @@
   "lat": 46.48799,
   "lon": 19.07374,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Homorúd": {
+  "jaras": null,
+  "lat": 45.98483,
+  "lon": 18.78798,
+  "megye": "Baranya vármegye"
+ },
+ "Homrogd": {
+  "jaras": null,
+  "lat": 48.28191,
+  "lon": 20.91328,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Horpács": {
+  "jaras": null,
+  "lat": 47.99673,
+  "lon": 19.13124,
+  "megye": "Nógrád vármegye"
+ },
+ "Hort": {
+  "jaras": null,
+  "lat": 47.68957,
+  "lon": 19.78261,
+  "megye": "Heves vármegye"
+ },
+ "Hortobágy": {
+  "jaras": null,
+  "lat": 47.58261,
+  "lon": 21.15254,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Horvátlövő": {
+  "jaras": null,
+  "lat": 47.17946,
+  "lon": 16.46128,
+  "megye": "Vas vármegye"
+ },
+ "Hosszúhetény": {
+  "jaras": null,
+  "lat": 46.1613,
+  "lon": 18.35277,
+  "megye": "Baranya vármegye"
+ },
+ "Hosszúpereszteg": {
+  "jaras": null,
+  "lat": 47.0955,
+  "lon": 17.02318,
+  "megye": "Vas vármegye"
+ },
+ "Hosszúpályi": {
+  "jaras": null,
+  "lat": 47.39177,
+  "lon": 21.73352,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hosszúvíz": {
+  "jaras": null,
+  "lat": 46.51708,
+  "lon": 17.4434,
+  "megye": "Somogy vármegye"
  },
  "Jánossomorja": {
   "jaras": null,
