@@ -448,6 +448,12 @@
   "lon": 17.8826,
   "megye": "Veszprém vármegye"
  },
+ "Bakonyszombathely": {
+  "jaras": null,
+  "lat": 47.47034,
+  "lon": 17.96249,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Bakonyszücs": {
   "jaras": null,
   "lat": 47.34285,
@@ -1179,6 +1185,12 @@
   "lon": 17.57747,
   "megye": "Somogy vármegye"
  },
+ "BÁNRÉVE": {
+  "jaras": null,
+  "lat": 48.29714,
+  "lon": 20.35559,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Bábonymegyer": {
   "jaras": null,
   "lat": 46.75167,
@@ -1492,6 +1504,12 @@
   "lon": 20.65043,
   "megye": "Békés vármegye"
  },
+ "Csajág": {
+  "jaras": null,
+  "lat": 47.04468,
+  "lon": 18.18589,
+  "megye": "Veszprém vármegye"
+ },
  "Csanytelek": {
   "jaras": null,
   "lat": 46.60112,
@@ -1683,6 +1701,12 @@
   "lat": 46.70976,
   "lon": 20.15373,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csonkamindszent": {
+  "jaras": null,
+  "lat": 46.05199,
+  "lon": 17.96648,
+  "megye": "Baranya vármegye"
  },
  "Csopak": {
   "jaras": null,
@@ -2208,6 +2232,12 @@
   "lon": 20.13694,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Döbrököz": {
+  "jaras": null,
+  "lat": 46.42413,
+  "lon": 18.23925,
+  "megye": "Tolna vármegye"
+ },
  "Döbörhegy": {
   "jaras": null,
   "lat": 46.99122,
@@ -2225,6 +2255,12 @@
   "lat": 47.76362,
   "lon": 18.91109,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Dör": {
+  "jaras": null,
+  "lat": 47.59794,
+  "lon": 17.29874,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Dörgicse": {
   "jaras": null,
@@ -3648,6 +3684,60 @@
   "lat": 46.51708,
   "lon": 17.4434,
   "megye": "Somogy vármegye"
+ },
+ "Hottó": {
+  "jaras": null,
+  "lat": 46.84678,
+  "lon": 16.75353,
+  "megye": "Zala vármegye"
+ },
+ "Hunya": {
+  "jaras": null,
+  "lat": 46.81195,
+  "lon": 20.8443,
+  "megye": "Békés vármegye"
+ },
+ "Hunyadfalva": {
+  "jaras": null,
+  "lat": 47.31205,
+  "lon": 20.37088,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Háromfa": {
+  "jaras": null,
+  "lat": 46.10463,
+  "lon": 17.32954,
+  "megye": "Somogy vármegye"
+ },
+ "Hárskút": {
+  "jaras": null,
+  "lat": 47.18486,
+  "lon": 17.80843,
+  "megye": "Veszprém vármegye"
+ },
+ "Hásságy": {
+  "jaras": null,
+  "lat": 46.03464,
+  "lon": 18.38863,
+  "megye": "Baranya vármegye"
+ },
+ "Hédervár": {
+  "jaras": null,
+  "lat": 47.8317,
+  "lon": 17.45797,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Héhalom": {
+  "jaras": null,
+  "lat": 47.77951,
+  "lon": 19.58579,
+  "megye": "Nógrád vármegye"
+ },
+ "Héreg": {
+  "jaras": null,
+  "lat": 47.64643,
+  "lon": 18.51166,
+  "megye": "Komárom-Esztergom vármegye"
  },
  "Jánossomorja": {
   "jaras": null,
