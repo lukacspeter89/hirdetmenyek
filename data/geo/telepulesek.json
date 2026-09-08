@@ -46,6 +46,12 @@
   "lon": 21.20152,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Abaújvár": {
+  "jaras": null,
+  "lat": 48.52522,
+  "lon": 21.31263,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Abda": {
   "jaras": null,
   "lat": 47.69768,
@@ -303,6 +309,12 @@
   "lat": 46.00791,
   "lon": 18.11916,
   "megye": "Baranya vármegye"
+ },
+ "Arló": {
+  "jaras": null,
+  "lat": 48.17667,
+  "lon": 20.2542,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Arnót": {
   "jaras": null,
@@ -567,6 +579,12 @@
   "lat": 46.78676,
   "lon": 17.69652,
   "megye": "Somogy vármegye"
+ },
+ "Balatonrendes": {
+  "jaras": null,
+  "lat": 46.82738,
+  "lon": 17.5858,
+  "megye": "Veszprém vármegye"
  },
  "Balatonszabadi": {
   "jaras": null,
@@ -2328,6 +2346,12 @@
   "lon": 20.37437,
   "megye": "Heves vármegye"
  },
+ "Egeralja": {
+  "jaras": null,
+  "lat": 47.23693,
+  "lon": 17.24057,
+  "megye": "Veszprém vármegye"
+ },
  "Egeraracsa": {
   "jaras": null,
   "lat": 46.67326,
@@ -2567,6 +2591,12 @@
   "lat": 48.3556,
   "lon": 21.06403,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Farmos": {
+  "jaras": null,
+  "lat": 47.36164,
+  "lon": 19.84896,
+  "megye": "Pest vármegye"
  },
  "Fegyvernek": {
   "jaras": null,
@@ -2867,6 +2897,12 @@
   "jaras": null,
   "lat": 47.96984,
   "lon": 20.98458,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "GOLOP": {
+  "jaras": null,
+  "lat": 48.23891,
+  "lon": 21.18936,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "GYŐRVÁR": {
@@ -3469,6 +3505,12 @@
   "lon": 18.0903,
   "megye": "Baranya vármegye"
  },
+ "Hejőkürt": {
+  "jaras": null,
+  "lat": 47.85561,
+  "lon": 20.99294,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Hejőpapi": {
   "jaras": null,
   "lat": 47.89762,
@@ -3738,6 +3780,44 @@
   "lat": 47.64643,
   "lon": 18.51166,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Hévízgyörk": {
+  "jaras": null,
+  "lat": 47.6303,
+  "lon": 19.51905,
+  "megye": "Pest vármegye"
+ },
+ "Hódezővásárhely": null,
+ "Hódmezővásárhely": {
+  "jaras": null,
+  "lat": 46.41713,
+  "lon": 20.31961,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Hódmezővásárhely zártkert": null,
+ "Hőgyész": {
+  "jaras": null,
+  "lat": 46.49575,
+  "lon": 18.41874,
+  "megye": "Tolna vármegye"
+ },
+ "Ibafa": {
+  "jaras": null,
+  "lat": 46.15494,
+  "lon": 17.91718,
+  "megye": "Baranya vármegye"
+ },
+ "Iborfia": {
+  "jaras": null,
+  "lat": 46.73829,
+  "lon": 16.74963,
+  "megye": "Zala vármegye"
+ },
+ "Ibrány": {
+  "jaras": null,
+  "lat": 48.12259,
+  "lon": 21.71022,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Jánossomorja": {
   "jaras": null,
