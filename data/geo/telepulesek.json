@@ -880,6 +880,12 @@
   "lon": 18.6358,
   "megye": "Fejér vármegye"
  },
+ "Bicsérd": {
+  "jaras": null,
+  "lat": 46.02256,
+  "lon": 18.08155,
+  "megye": "Baranya vármegye"
+ },
  "Bihardancsháza": {
   "jaras": null,
   "lat": 47.22887,
@@ -933,6 +939,12 @@
   "lat": 47.64552,
   "lon": 21.66095,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Bodajk": {
+  "jaras": null,
+  "lat": 47.3227,
+  "lon": 18.2331,
+  "megye": "Fejér vármegye"
  },
  "Bodolyabér": {
   "jaras": null,
@@ -1522,6 +1534,12 @@
   "lon": 20.65043,
   "megye": "Békés vármegye"
  },
+ "Csabrendek": {
+  "jaras": null,
+  "lat": 47.01318,
+  "lon": 17.28956,
+  "megye": "Veszprém vármegye"
+ },
  "Csajág": {
   "jaras": null,
   "lat": 47.04468,
@@ -1551,6 +1569,12 @@
   "lat": 46.24405,
   "lon": 20.7234,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csataszög": {
+  "jaras": null,
+  "lat": 47.28259,
+  "lon": 20.38338,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
  },
  "Csegöld": {
   "jaras": null,
@@ -1659,6 +1683,12 @@
   "lat": 48.01437,
   "lon": 19.27758,
   "megye": "Nógrád vármegye"
+ },
+ "Csetény": {
+  "jaras": null,
+  "lat": 47.31716,
+  "lon": 17.99628,
+  "megye": "Veszprém vármegye"
  },
  "Csibrák": {
   "jaras": null,
@@ -1913,6 +1943,12 @@
   "lon": 18.22543,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Damak": {
+  "jaras": null,
+  "lat": 48.31678,
+  "lon": 20.82001,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Darnó": {
   "jaras": null,
   "lat": 47.95805,
@@ -1960,6 +1996,12 @@
   "lat": 47.35395,
   "lon": 21.57092,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Derekegyház": {
+  "jaras": null,
+  "lat": 46.58215,
+  "lon": 20.35597,
+  "megye": "Csongrád-Csanád vármegye"
  },
  "Deszk": {
   "jaras": null,
@@ -3013,6 +3055,12 @@
   "lon": 18.18492,
   "megye": "Baranya vármegye"
  },
+ "Gesztely": {
+  "jaras": null,
+  "lat": 48.10274,
+  "lon": 20.9649,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Gibárt": {
   "jaras": null,
   "lat": 48.31594,
@@ -3818,6 +3866,48 @@
   "lat": 48.12259,
   "lon": 21.71022,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Igal": {
+  "jaras": null,
+  "lat": 46.53455,
+  "lon": 17.93867,
+  "megye": "Somogy vármegye"
+ },
+ "Igar": {
+  "jaras": null,
+  "lat": 46.77598,
+  "lon": 18.51454,
+  "megye": "Fejér vármegye"
+ },
+ "Iharosberény": {
+  "jaras": null,
+  "lat": 46.3635,
+  "lon": 17.11141,
+  "megye": "Somogy vármegye"
+ },
+ "Iklódbördőce": {
+  "jaras": null,
+  "lat": 46.60518,
+  "lon": 16.6117,
+  "megye": "Zala vármegye"
+ },
+ "Illocska": {
+  "jaras": null,
+  "lat": 45.80077,
+  "lon": 18.52227,
+  "megye": "Baranya vármegye"
+ },
+ "Imrehegy": {
+  "jaras": null,
+  "lat": 46.48453,
+  "lon": 19.3037,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Inke": {
+  "jaras": null,
+  "lat": 46.39473,
+  "lon": 17.19948,
+  "megye": "Somogy vármegye"
  },
  "Jánossomorja": {
   "jaras": null,
