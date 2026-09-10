@@ -298,6 +298,12 @@
   "lon": 20.57465,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Apátistvánfalva": {
+  "jaras": null,
+  "lat": 46.89612,
+  "lon": 16.25334,
+  "megye": "Vas vármegye"
+ },
  "Apátvarasd": {
   "jaras": null,
   "lat": 46.18632,
@@ -718,6 +724,12 @@
   "lon": 21.02189,
   "megye": "Békés vármegye"
  },
+ "Bazsi": {
+  "jaras": null,
+  "lat": 46.93155,
+  "lon": 17.24751,
+  "megye": "Veszprém vármegye"
+ },
  "Becsehely": {
   "jaras": null,
   "lat": 46.44762,
@@ -843,6 +855,12 @@
   "lat": 47.96357,
   "lon": 22.0114,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Besenyőtelek": {
+  "jaras": null,
+  "lat": 47.69837,
+  "lon": 20.42789,
+  "megye": "Heves vármegye"
  },
  "Besnyő": {
   "jaras": null,
@@ -3253,6 +3271,12 @@
   "lon": 17.57884,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Győröcske": {
+  "jaras": null,
+  "lat": 48.38536,
+  "lon": 22.15155,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Győrújbarát": {
   "jaras": null,
   "lat": 47.61338,
@@ -3908,6 +3932,72 @@
   "lat": 46.39473,
   "lon": 17.19948,
   "megye": "Somogy vármegye"
+ },
+ "Ináncs": {
+  "jaras": null,
+  "lat": 48.28392,
+  "lon": 21.06764,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Inárcs": {
+  "jaras": null,
+  "lat": 47.26094,
+  "lon": 19.32914,
+  "megye": "Pest vármegye"
+ },
+ "Ipacsfa": {
+  "jaras": null,
+  "lat": 45.83431,
+  "lon": 18.20461,
+  "megye": "Baranya vármegye"
+ },
+ "Ipolytarnóc": {
+  "jaras": null,
+  "lat": 48.23756,
+  "lon": 19.627,
+  "megye": "Nógrád vármegye"
+ },
+ "Ipolytölgyes": {
+  "jaras": null,
+  "lat": 47.9229,
+  "lon": 18.7744,
+  "megye": "Pest vármegye"
+ },
+ "Iregszemcse": {
+  "jaras": null,
+  "lat": 46.69301,
+  "lon": 18.1836,
+  "megye": "Tolna vármegye"
+ },
+ "Isaszeg": {
+  "jaras": null,
+  "lat": 47.53033,
+  "lon": 19.4017,
+  "megye": "Pest vármegye"
+ },
+ "Istenmezeje": {
+  "jaras": null,
+  "lat": 48.08297,
+  "lon": 20.05181,
+  "megye": "Heves vármegye"
+ },
+ "Istvándi": {
+  "jaras": null,
+  "lat": 46.01999,
+  "lon": 17.62204,
+  "megye": "Somogy vármegye"
+ },
+ "Iszkaszentgyörgy": {
+  "jaras": null,
+  "lat": 47.2382,
+  "lon": 18.29502,
+  "megye": "Fejér vármegye"
+ },
+ "Iszkáz": {
+  "jaras": null,
+  "lat": 47.1641,
+  "lon": 17.29797,
+  "megye": "Veszprém vármegye"
  },
  "Jánossomorja": {
   "jaras": null,
