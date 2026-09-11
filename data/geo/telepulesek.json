@@ -3999,11 +3999,101 @@
   "lon": 17.29797,
   "megye": "Veszprém vármegye"
  },
+ "Ivád": {
+  "jaras": null,
+  "lat": 48.02072,
+  "lon": 20.06082,
+  "megye": "Heves vármegye"
+ },
+ "Ivánbattyán": {
+  "jaras": null,
+  "lat": 45.90757,
+  "lon": 18.41797,
+  "megye": "Baranya vármegye"
+ },
+ "Ivánc": {
+  "jaras": null,
+  "lat": 46.93937,
+  "lon": 16.49838,
+  "megye": "Vas vármegye"
+ },
+ "Iváncsa": {
+  "jaras": null,
+  "lat": 47.14733,
+  "lon": 18.83115,
+  "megye": "Fejér vármegye"
+ },
+ "Izmény": {
+  "jaras": null,
+  "lat": 46.31338,
+  "lon": 18.41451,
+  "megye": "Tolna vármegye"
+ },
+ "Izsák": {
+  "jaras": null,
+  "lat": 46.80092,
+  "lon": 19.35954,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Izsófalva": {
+  "jaras": null,
+  "lat": 48.30945,
+  "lon": 20.65726,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Jakabszállás": {
+  "jaras": null,
+  "lat": 46.76149,
+  "lon": 19.60078,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Jobbágyi": {
+  "jaras": null,
+  "lat": 47.83035,
+  "lon": 19.67678,
+  "megye": "Nógrád vármegye"
+ },
+ "Juta": {
+  "jaras": null,
+  "lat": 46.40608,
+  "lon": 17.73422,
+  "megye": "Somogy vármegye"
+ },
+ "Jágónak": {
+  "jaras": null,
+  "lat": 46.31535,
+  "lon": 18.09154,
+  "megye": "Tolna vármegye"
+ },
+ "Jánkmajtis": {
+  "jaras": null,
+  "lat": 47.94005,
+  "lon": 22.64917,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Jánoshalma": {
+  "jaras": null,
+  "lat": 46.29723,
+  "lon": 19.32359,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Jánoshida": {
+  "jaras": null,
+  "lat": 47.38392,
+  "lon": 20.05657,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
  "Jánossomorja": {
   "jaras": null,
   "lat": 47.78592,
   "lon": 17.13642,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Jármi": {
+  "jaras": null,
+  "lat": 47.97138,
+  "lon": 22.25194,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Kapolcs": {
   "jaras": null,
