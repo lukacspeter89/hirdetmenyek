@@ -688,6 +688,12 @@
   "lon": 20.00922,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Bana": {
+  "jaras": null,
+  "lat": 47.65051,
+  "lon": 17.91965,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Baracs": {
   "jaras": null,
   "lat": 46.9133,
@@ -1341,6 +1347,12 @@
   "lon": 18.95452,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Bázakerettye": {
+  "jaras": null,
+  "lat": 46.52427,
+  "lon": 16.72853,
+  "megye": "Zala vármegye"
+ },
  "Békés": {
   "jaras": null,
   "lat": 46.7863,
@@ -1852,6 +1864,12 @@
   "lon": 19.17849,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Csátalja": {
+  "jaras": null,
+  "lat": 46.03653,
+  "lon": 18.94461,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Csávoly": {
   "jaras": null,
   "lat": 46.19438,
@@ -1936,6 +1954,12 @@
   "lat": 45.81238,
   "lon": 18.06727,
   "megye": "Baranya vármegye"
+ },
+ "DOBA": {
+  "jaras": null,
+  "lat": 47.16597,
+  "lon": 17.37985,
+  "megye": "Veszprém vármegye"
  },
  "Dabas": {
   "jaras": null,
@@ -2322,6 +2346,12 @@
   "lon": 16.70234,
   "megye": "Vas vármegye"
  },
+ "Döge": {
+  "jaras": null,
+  "lat": 48.2588,
+  "lon": 22.06845,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Dömsöd": {
   "jaras": null,
   "lat": 47.09477,
@@ -2706,6 +2736,12 @@
   "lat": 47.52309,
   "lon": 17.59859,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Felsőberecki": {
+  "jaras": null,
+  "lat": 48.35982,
+  "lon": 21.69488,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Felsőcsatár": {
   "jaras": null,
@@ -3102,6 +3138,12 @@
   "lat": 47.37037,
   "lon": 19.53115,
   "megye": "Pest vármegye"
+ },
+ "Gosztola": {
+  "jaras": null,
+  "lat": 46.58667,
+  "lon": 16.52801,
+  "megye": "Zala vármegye"
  },
  "Grábóc": {
   "jaras": null,
@@ -3775,6 +3817,12 @@
   "lon": 16.46128,
   "megye": "Vas vármegye"
  },
+ "Horvátzsidány": {
+  "jaras": null,
+  "lat": 47.41088,
+  "lon": 16.62519,
+  "megye": "Vas vármegye"
+ },
  "Hosszúhetény": {
   "jaras": null,
   "lat": 46.1613,
@@ -4094,6 +4142,48 @@
   "lat": 47.97138,
   "lon": 22.25194,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Jászalsószentgyörgy": {
+  "jaras": null,
+  "lat": 47.37185,
+  "lon": 20.09115,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászapáti": {
+  "jaras": null,
+  "lat": 47.51372,
+  "lon": 20.14042,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászberény": {
+  "jaras": null,
+  "lat": 47.50305,
+  "lon": 19.91179,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászboldogháza": {
+  "jaras": null,
+  "lat": 47.36867,
+  "lon": 19.9958,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászdózsa": {
+  "jaras": null,
+  "lat": 47.5663,
+  "lon": 20.01571,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászfelsőszentgyörgy": {
+  "jaras": null,
+  "lat": 47.50862,
+  "lon": 19.79269,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászfényszaru": {
+  "jaras": null,
+  "lat": 47.56923,
+  "lon": 19.71681,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
  },
  "Kapolcs": {
   "jaras": null,
