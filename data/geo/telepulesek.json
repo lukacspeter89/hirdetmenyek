@@ -112,6 +112,12 @@
   "lon": 16.94093,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Ajak": {
+  "jaras": null,
+  "lat": 48.17785,
+  "lon": 22.05223,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Ajka": {
   "jaras": null,
   "lat": 47.10566,
@@ -183,6 +189,12 @@
   "lat": 46.46274,
   "lon": 21.08991,
   "megye": "Békés vármegye"
+ },
+ "Almáskeresztúr": {
+  "jaras": null,
+  "lat": 46.11961,
+  "lon": 17.89453,
+  "megye": "Baranya vármegye"
  },
  "Alsódobsza": {
   "jaras": null,
@@ -584,6 +596,12 @@
   "jaras": null,
   "lat": 46.78676,
   "lon": 17.69652,
+  "megye": "Somogy vármegye"
+ },
+ "Balatonmáriafürdő": {
+  "jaras": null,
+  "lat": 46.705,
+  "lon": 17.37182,
   "megye": "Somogy vármegye"
  },
  "Balatonrendes": {
@@ -1089,6 +1107,12 @@
   "lat": 46.32163,
   "lon": 19.92178,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Borjád": {
+  "jaras": null,
+  "lat": 45.93532,
+  "lon": 18.46836,
+  "megye": "Baranya vármegye"
  },
  "Borota": {
   "jaras": null,
@@ -1913,6 +1937,12 @@
   "lon": 21.29487,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Csököly": {
+  "jaras": null,
+  "lat": 46.29918,
+  "lon": 17.5544,
+  "megye": "Somogy vármegye"
+ },
  "Csömör": {
   "jaras": null,
   "lat": 47.54892,
@@ -2080,6 +2110,12 @@
   "lat": 46.7344,
   "lon": 21.24137,
   "megye": "Békés vármegye"
+ },
+ "Dobri": {
+  "jaras": null,
+  "lat": 46.51643,
+  "lon": 16.58171,
+  "megye": "Zala vármegye"
  },
  "Domaháza": {
   "jaras": null,
@@ -4184,6 +4220,60 @@
   "lat": 47.56923,
   "lon": 19.71681,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászjákóhalma": {
+  "jaras": null,
+  "lat": 47.52194,
+  "lon": 19.98911,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászkisér": {
+  "jaras": null,
+  "lat": 47.45944,
+  "lon": 20.21578,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászladány": {
+  "jaras": null,
+  "lat": 47.36495,
+  "lon": 20.16536,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászszentandrás": {
+  "jaras": null,
+  "lat": 47.58399,
+  "lon": 20.17352,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászszentlászló": {
+  "jaras": null,
+  "lat": 46.56794,
+  "lon": 19.76032,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Jászágó": {
+  "jaras": null,
+  "lat": 47.59233,
+  "lon": 19.85449,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jászárokszállás": {
+  "jaras": null,
+  "lat": 47.64454,
+  "lon": 19.97865,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "KARCAG": {
+  "jaras": null,
+  "lat": 47.31465,
+  "lon": 20.92409,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "KONYÁR": {
+  "jaras": null,
+  "lat": 47.32097,
+  "lon": 21.67383,
+  "megye": "Hajdú-Bihar vármegye"
  },
  "Kapolcs": {
   "jaras": null,
