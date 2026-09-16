@@ -1,6 +1,8 @@
 {
  "120 évnél régebben születettek - Bogdása": null,
+ "120 évnél régebben születettek - Bükkaranyos": null,
  "120 évnél régebben születettek - Gecse": null,
+ "120 évnél régebben születettek - Sajókeresztúr": null,
  "120 évnél régebben születettek - Vanyola": null,
  "120 évnél régebben születettek - Vokány": null,
  "120 évnél régebben születettek - Újpetre": null,
@@ -520,6 +522,7 @@
   "lon": 18.14394,
   "megye": "Veszprém vármegye"
  },
+ "Balatonakarttya": null,
  "Balatonalmádi": {
   "jaras": null,
   "lat": 47.03028,
@@ -1072,6 +1075,12 @@
   "lon": 21.23781,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Boldogkőújfalu": {
+  "jaras": null,
+  "lat": 48.31925,
+  "lon": 21.24355,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Boldva": {
   "jaras": null,
   "lat": 48.21718,
@@ -1256,6 +1265,12 @@
   "lat": 47.22275,
   "lon": 19.15093,
   "megye": "Pest vármegye"
+ },
+ "Buják": {
+  "jaras": null,
+  "lat": 47.88482,
+  "lon": 19.5451,
+  "megye": "Nógrád vármegye"
  },
  "Buzsák": {
   "jaras": null,
@@ -1762,6 +1777,12 @@
   "lon": 19.47156,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Csikóstőttős": {
+  "jaras": null,
+  "lat": 46.34047,
+  "lon": 18.15571,
+  "megye": "Tolna vármegye"
+ },
  "Csipkerek": {
   "jaras": null,
   "lat": 47.07379,
@@ -1949,6 +1970,12 @@
   "lon": 19.22421,
   "megye": "Pest vármegye"
  },
+ "Csönge": {
+  "jaras": null,
+  "lat": 47.35212,
+  "lon": 17.06548,
+  "megye": "Vas vármegye"
+ },
  "Csörnyeföld": {
   "jaras": null,
   "lat": 46.49884,
@@ -1972,6 +1999,12 @@
   "lat": 47.03615,
   "lon": 18.4179,
   "megye": "Fejér vármegye"
+ },
+ "Cák": {
+  "jaras": null,
+  "lat": 47.35393,
+  "lon": 16.51361,
+  "megye": "Vas vármegye"
  },
  "Cégénydányád": {
   "jaras": null,
@@ -2755,6 +2788,12 @@
   "lon": 17.27871,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Felcsút": {
+  "jaras": null,
+  "lat": 47.45453,
+  "lon": 18.58624,
+  "megye": "Fejér vármegye"
+ },
  "Feldebrő": {
   "jaras": null,
   "lat": 47.81305,
@@ -2856,6 +2895,12 @@
   "lat": 47.01447,
   "lon": 17.95325,
   "megye": "Veszprém vármegye"
+ },
+ "Fertőd": {
+  "jaras": null,
+  "lat": 47.62163,
+  "lon": 16.86458,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Fertőhomok": {
   "jaras": null,
@@ -3139,6 +3184,12 @@
   "lon": 18.527,
   "megye": "Baranya vármegye"
  },
+ "Gersekarát": {
+  "jaras": null,
+  "lat": 46.9799,
+  "lon": 16.74347,
+  "megye": "Vas vármegye"
+ },
  "Gerényes": {
   "jaras": null,
   "lat": 46.30543,
@@ -3234,6 +3285,12 @@
   "lat": 46.50536,
   "lon": 18.29464,
   "megye": "Tolna vármegye"
+ },
+ "Gyulakeszi": {
+  "jaras": null,
+  "lat": 46.86791,
+  "lon": 17.48082,
+  "megye": "Veszprém vármegye"
  },
  "Gyál": {
   "jaras": null,
@@ -3673,6 +3730,12 @@
   "lon": 20.88251,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Helesfa": {
+  "jaras": null,
+  "lat": 46.08831,
+  "lon": 17.97721,
+  "megye": "Baranya vármegye"
+ },
  "Helvécia": {
   "jaras": null,
   "lat": 46.83739,
@@ -3768,6 +3831,12 @@
   "lat": 47.55724,
   "lon": 20.35785,
   "megye": "Heves vármegye"
+ },
+ "Hidas": {
+  "jaras": null,
+  "lat": 46.25953,
+  "lon": 18.49775,
+  "megye": "Baranya vármegye"
  },
  "Hidasnémeti": {
   "jaras": null,
@@ -4273,6 +4342,12 @@
   "jaras": null,
   "lat": 47.32097,
   "lon": 21.67383,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Kaba": {
+  "jaras": null,
+  "lat": 47.35762,
+  "lon": 21.27426,
   "megye": "Hajdú-Bihar vármegye"
  },
  "Kapolcs": {
