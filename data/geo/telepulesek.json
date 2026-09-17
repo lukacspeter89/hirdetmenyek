@@ -1033,6 +1033,12 @@
   "lon": 21.51763,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Bogdása": {
+  "jaras": null,
+  "lat": 45.87392,
+  "lon": 17.78954,
+  "megye": "Baranya vármegye"
+ },
  "Bogyiszló": {
   "jaras": null,
   "lat": 46.38324,
@@ -1203,6 +1209,12 @@
   "lat": 47.48139,
   "lon": 19.14577,
   "megye": null
+ },
+ "Budapest X. kerület": {
+  "jaras": null,
+  "lat": 47.48224,
+  "lon": 19.15649,
+  "megye": "Budapest"
  },
  "Budapest XI": null,
  "Budapest XII. kerület": {
@@ -2166,6 +2178,12 @@
   "jaras": null,
   "lat": 46.34057,
   "lon": 21.13202,
+  "megye": "Békés vármegye"
+ },
+ "Dombiratos": {
+  "jaras": null,
+  "lat": 46.41962,
+  "lon": 21.11687,
   "megye": "Békés vármegye"
  },
  "Dombrád": {
@@ -3640,6 +3658,12 @@
   "lon": 18.69912,
   "megye": "Fejér vármegye"
  },
+ "Harasztifalu": {
+  "jaras": null,
+  "lat": 47.04964,
+  "lon": 16.55103,
+  "megye": "Vas vármegye"
+ },
  "Harkakötöny": {
   "jaras": null,
   "lat": 46.46343,
@@ -4218,6 +4242,12 @@
   "lon": 18.09154,
   "megye": "Tolna vármegye"
  },
+ "Ják": {
+  "jaras": null,
+  "lat": 47.14105,
+  "lon": 16.58072,
+  "megye": "Vas vármegye"
+ },
  "Jánkmajtis": {
   "jaras": null,
   "lat": 47.94005,
@@ -4296,6 +4326,12 @@
   "lon": 19.98911,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "Jászkarajenő": {
+  "jaras": null,
+  "lat": 47.05378,
+  "lon": 20.06833,
+  "megye": "Pest vármegye"
+ },
  "Jászkisér": {
   "jaras": null,
   "lat": 47.45944,
@@ -4349,6 +4385,60 @@
   "lat": 47.35762,
   "lon": 21.27426,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Kacorlak": {
+  "jaras": null,
+  "lat": 46.57384,
+  "lon": 16.9541,
+  "megye": "Zala vármegye"
+ },
+ "Kacsóta": {
+  "jaras": null,
+  "lat": 46.03767,
+  "lon": 17.95706,
+  "megye": "Baranya vármegye"
+ },
+ "Kadarkút": {
+  "jaras": null,
+  "lat": 46.22856,
+  "lon": 17.61787,
+  "megye": "Somogy vármegye"
+ },
+ "Kajárpéc": {
+  "jaras": null,
+  "lat": 47.49519,
+  "lon": 17.62726,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Kajászó": {
+  "jaras": null,
+  "lat": 47.32648,
+  "lon": 18.72176,
+  "megye": "Fejér vármegye"
+ },
+ "Kakasd": {
+  "jaras": null,
+  "lat": 46.34627,
+  "lon": 18.5927,
+  "megye": "Tolna vármegye"
+ },
+ "Kakucs": {
+  "jaras": null,
+  "lat": 47.24162,
+  "lon": 19.36674,
+  "megye": "Pest vármegye"
+ },
+ "Kallósd": {
+  "jaras": null,
+  "lat": 46.87164,
+  "lon": 17.06232,
+  "megye": "Zala vármegye"
+ },
+ "Kalocsa": {
+  "jaras": null,
+  "lat": 46.52303,
+  "lon": 18.9825,
+  "megye": "Bács-Kiskun vármegye"
  },
  "Kapolcs": {
   "jaras": null,
