@@ -1555,6 +1555,12 @@
   "lon": 17.86745,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Bőszénfa": {
+  "jaras": null,
+  "lat": 46.22986,
+  "lon": 17.85036,
+  "megye": "Somogy vármegye"
+ },
  "CSÓT": {
   "jaras": null,
   "lat": 47.36061,
@@ -1939,6 +1945,12 @@
   "lon": 18.08887,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Csép": {
+  "jaras": null,
+  "lat": 47.57788,
+  "lon": 18.063,
+  "megye": "Komárom-Esztergom vármegye"
+ },
  "Csépa": {
   "jaras": null,
   "lat": 46.80625,
@@ -2245,6 +2257,12 @@
   "lat": 45.82846,
   "lon": 18.13662,
   "megye": "Baranya vármegye"
+ },
+ "Drávagárdony": {
+  "jaras": null,
+  "lat": 45.94404,
+  "lon": 17.60468,
+  "megye": "Somogy vármegye"
  },
  "Drávakeresztúr": {
   "jaras": null,
@@ -2691,6 +2709,12 @@
   "lon": 19.30836,
   "megye": "Pest vármegye"
  },
+ "Erdőkövesd": {
+  "jaras": null,
+  "lat": 48.04067,
+  "lon": 20.10095,
+  "megye": "Heves vármegye"
+ },
  "Erdőkürt": {
   "jaras": null,
   "lat": 47.77338,
@@ -2738,6 +2762,12 @@
   "lat": 47.53223,
   "lon": 18.07248,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Etes": {
+  "jaras": null,
+  "lat": 48.10989,
+  "lon": 19.71737,
+  "megye": "Nógrád vármegye"
  },
  "Etyek": {
   "jaras": null,
@@ -3634,6 +3664,12 @@
   "lon": 21.00168,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Halogy": {
+  "jaras": null,
+  "lat": 46.97057,
+  "lon": 16.56137,
+  "megye": "Vas vármegye"
+ },
  "Halászi": {
   "jaras": null,
   "lat": 47.89096,
@@ -4440,16 +4476,70 @@
   "lon": 18.9825,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Kamut": {
+  "jaras": null,
+  "lat": 46.76031,
+  "lon": 20.98328,
+  "megye": "Békés vármegye"
+ },
  "Kapolcs": {
   "jaras": null,
   "lat": 46.9559,
   "lon": 17.60893,
   "megye": "Veszprém vármegye"
  },
+ "Kapoly": {
+  "jaras": null,
+  "lat": 46.73092,
+  "lon": 17.97073,
+  "megye": "Somogy vármegye"
+ },
+ "Kaposfő": {
+  "jaras": null,
+  "lat": 46.36183,
+  "lon": 17.66984,
+  "megye": "Somogy vármegye"
+ },
+ "Kaposgyarmat": {
+  "jaras": null,
+  "lat": 46.27993,
+  "lon": 17.88321,
+  "megye": "Somogy vármegye"
+ },
+ "Kaposhomok": {
+  "jaras": null,
+  "lat": 46.36205,
+  "lon": 17.92092,
+  "megye": "Somogy vármegye"
+ },
+ "Kaposkeresztúr": {
+  "jaras": null,
+  "lat": 46.33206,
+  "lon": 17.96521,
+  "megye": "Somogy vármegye"
+ },
  "Kaposmérő": {
   "jaras": null,
   "lat": 46.36126,
   "lon": 17.70553,
+  "megye": "Somogy vármegye"
+ },
+ "Kaposszekcső": {
+  "jaras": null,
+  "lat": 46.32969,
+  "lon": 18.12995,
+  "megye": "Tolna vármegye"
+ },
+ "Kaposszerdahely": {
+  "jaras": null,
+  "lat": 46.32258,
+  "lon": 17.75575,
+  "megye": "Somogy vármegye"
+ },
+ "Kaposvár": {
+  "jaras": null,
+  "lat": 46.35647,
+  "lon": 17.78869,
   "megye": "Somogy vármegye"
  },
  "Kartal": {
