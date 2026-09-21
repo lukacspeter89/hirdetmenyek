@@ -366,6 +366,12 @@
   "lon": 19.89016,
   "megye": "Heves vármegye"
  },
+ "BUJ": {
+  "jaras": null,
+  "lat": 48.09908,
+  "lon": 21.64649,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Babarc": {
   "jaras": null,
   "lat": 46.00381,
@@ -1075,6 +1081,12 @@
   "lon": 18.24208,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Boldog": {
+  "jaras": null,
+  "lat": 47.6012,
+  "lon": 19.69543,
+  "megye": "Heves vármegye"
+ },
  "Boldogkőváralja": {
   "jaras": null,
   "lat": 48.33821,
@@ -1332,6 +1344,12 @@
   "lon": 19.42125,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Bágyogszovát": {
+  "jaras": null,
+  "lat": 47.58349,
+  "lon": 17.36754,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Bálványos": {
   "jaras": null,
   "lat": 46.78166,
@@ -1367,6 +1385,12 @@
   "lat": 47.50899,
   "lon": 17.92148,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Báta": {
+  "jaras": null,
+  "lat": 46.12868,
+  "lon": 18.77492,
+  "megye": "Tolna vármegye"
  },
  "Bátaszék": {
   "jaras": null,
@@ -1663,11 +1687,23 @@
   "lon": 20.38338,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "Csebény": {
+  "jaras": null,
+  "lat": 46.18883,
+  "lon": 17.92504,
+  "megye": "Baranya vármegye"
+ },
  "Csegöld": {
   "jaras": null,
   "lat": 47.89812,
   "lon": 22.68054,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Csehi": {
+  "jaras": null,
+  "lat": 47.03681,
+  "lon": 16.94357,
+  "megye": "Vas vármegye"
  },
  "Csehimindszent": {
   "jaras": null,
@@ -2138,6 +2174,12 @@
   "lon": 20.23889,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Detk": {
+  "jaras": null,
+  "lat": 47.74753,
+  "lon": 20.0993,
+  "megye": "Heves vármegye"
+ },
  "Devecser": {
   "jaras": null,
   "lat": 47.10405,
@@ -2563,6 +2605,12 @@
   "jaras": null,
   "lat": 47.71828,
   "lon": 20.53636,
+  "megye": "Heves vármegye"
+ },
+ "Egerszalók": {
+  "jaras": null,
+  "lat": 47.87023,
+  "lon": 20.32383,
   "megye": "Heves vármegye"
  },
  "Egerszólát": {
@@ -3412,6 +3460,12 @@
   "lon": 19.86683,
   "megye": "Heves vármegye"
  },
+ "Gyönk": {
+  "jaras": null,
+  "lat": 46.55535,
+  "lon": 18.47833,
+  "megye": "Tolna vármegye"
+ },
  "Györköny": {
   "jaras": null,
   "lat": 46.63452,
@@ -4080,6 +4134,7 @@
   "megye": "Csongrád-Csanád vármegye"
  },
  "Hódmezővásárhely zártkert": null,
+ "Hódmezővásásárhely": null,
  "Hőgyész": {
   "jaras": null,
   "lat": 46.49575,
@@ -4127,6 +4182,12 @@
   "lat": 46.60518,
   "lon": 16.6117,
   "megye": "Zala vármegye"
+ },
+ "Ikrény": {
+  "jaras": null,
+  "lat": 47.65403,
+  "lon": 17.52925,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Illocska": {
   "jaras": null,
@@ -4283,6 +4344,12 @@
   "lat": 47.14105,
   "lon": 16.58072,
   "megye": "Vas vármegye"
+ },
+ "Jánd": {
+  "jaras": null,
+  "lat": 48.11435,
+  "lon": 22.3727,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
  "Jánkmajtis": {
   "jaras": null,
@@ -4541,6 +4608,24 @@
   "lat": 46.35647,
   "lon": 17.78869,
   "megye": "Somogy vármegye"
+ },
+ "Kaposújlak": {
+  "jaras": null,
+  "lat": 46.36679,
+  "lon": 17.72591,
+  "megye": "Somogy vármegye"
+ },
+ "Kapuvár": {
+  "jaras": null,
+  "lat": 47.59369,
+  "lon": 17.02747,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Karakó": {
+  "jaras": null,
+  "lat": 47.11587,
+  "lon": 17.20066,
+  "megye": "Vas vármegye"
  },
  "Kartal": {
   "jaras": null,
