@@ -24,6 +24,12 @@
   "lon": 17.03468,
   "megye": "Somogy vármegye"
  },
+ "ABONY": {
+  "jaras": null,
+  "lat": 47.18874,
+  "lon": 20.00478,
+  "megye": "Pest vármegye"
+ },
  "APOSTAG": {
   "jaras": null,
   "lat": 46.88324,
@@ -978,6 +984,12 @@
   "lat": 47.8123,
   "lon": 21.85095,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Boba": {
+  "jaras": null,
+  "lat": 47.18459,
+  "lon": 17.18708,
+  "megye": "Vas vármegye"
  },
  "Bocfölde": {
   "jaras": null,
@@ -2360,6 +2372,12 @@
   "lon": 18.21289,
   "megye": "Baranya vármegye"
  },
+ "Drávasztára": {
+  "jaras": null,
+  "lat": 45.82562,
+  "lon": 17.82273,
+  "megye": "Baranya vármegye"
+ },
  "Drávatamási": {
   "jaras": null,
   "lat": 45.93985,
@@ -2625,6 +2643,13 @@
   "lon": 20.73344,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Edve": {
+  "jaras": null,
+  "lat": 47.45532,
+  "lon": 17.13434,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Ege": null,
  "Eger": {
   "jaras": null,
   "lat": 47.89899,
@@ -3399,6 +3424,12 @@
   "lat": 46.6413,
   "lon": 16.73647,
   "megye": "Zala vármegye"
+ },
+ "Gyanógeregye": {
+  "jaras": null,
+  "lat": 47.1244,
+  "lon": 16.76184,
+  "megye": "Vas vármegye"
  },
  "Gyepükaján": {
   "jaras": null,
@@ -4231,6 +4262,12 @@
   "lon": 17.11141,
   "megye": "Somogy vármegye"
  },
+ "Ikervár": {
+  "jaras": null,
+  "lat": 47.20821,
+  "lon": 16.89539,
+  "megye": "Vas vármegye"
+ },
  "Iklódbördőce": {
   "jaras": null,
   "lat": 46.60518,
@@ -4712,11 +4749,59 @@
   "lon": 20.92409,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "Kardos": {
+  "jaras": null,
+  "lat": 46.79689,
+  "lon": 20.71953,
+  "megye": "Békés vármegye"
+ },
+ "Kardoskút": {
+  "jaras": null,
+  "lat": 46.49661,
+  "lon": 20.70151,
+  "megye": "Békés vármegye"
+ },
+ "Karmacs": {
+  "jaras": null,
+  "lat": 46.83653,
+  "lon": 17.17405,
+  "megye": "Zala vármegye"
+ },
  "Kartal": {
   "jaras": null,
   "lat": 47.66792,
   "lon": 19.5311,
   "megye": "Pest vármegye"
+ },
+ "Karácsond": {
+  "jaras": null,
+  "lat": 47.72809,
+  "lon": 20.02735,
+  "megye": "Heves vármegye"
+ },
+ "Karád": {
+  "jaras": null,
+  "lat": 46.69345,
+  "lon": 17.83855,
+  "megye": "Somogy vármegye"
+ },
+ "Kaskantyú": {
+  "jaras": null,
+  "lat": 46.67146,
+  "lon": 19.38698,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Kastélyosdombó": {
+  "jaras": null,
+  "lat": 45.95389,
+  "lon": 17.61755,
+  "megye": "Somogy vármegye"
+ },
+ "Kaszaper": {
+  "jaras": null,
+  "lat": 46.4578,
+  "lon": 20.82321,
+  "megye": "Békés vármegye"
  },
  "Kecskemét": {
   "jaras": null,
