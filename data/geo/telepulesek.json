@@ -372,6 +372,12 @@
   "lon": 19.89016,
   "megye": "Heves vármegye"
  },
+ "BOTYKAPETERD": {
+  "jaras": null,
+  "lat": 46.04888,
+  "lon": 17.86709,
+  "megye": "Baranya vármegye"
+ },
  "BUJ": {
   "jaras": null,
   "lat": 48.09908,
@@ -443,6 +449,12 @@
   "lat": 46.17855,
   "lon": 18.95173,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Bajna": {
+  "jaras": null,
+  "lat": 47.65533,
+  "lon": 18.59862,
+  "megye": "Komárom-Esztergom vármegye"
  },
  "Bajánsenye": {
   "jaras": null,
@@ -1675,6 +1687,12 @@
   "lon": 21.89049,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Cikó": {
+  "jaras": null,
+  "lat": 46.25368,
+  "lon": 18.55912,
+  "megye": "Tolna vármegye"
+ },
  "Csabacsűd": {
   "jaras": null,
   "lat": 46.82498,
@@ -2204,6 +2222,12 @@
   "lon": 20.33359,
   "megye": "Heves vármegye"
  },
+ "Dencsháza": {
+  "jaras": null,
+  "lat": 45.99475,
+  "lon": 17.83461,
+  "megye": "Baranya vármegye"
+ },
  "Derecske": {
   "jaras": null,
   "lat": 47.35395,
@@ -2456,6 +2480,12 @@
   "lat": 46.59387,
   "lon": 18.8944,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Dunaszentgyörgy": {
+  "jaras": null,
+  "lat": 46.53001,
+  "lon": 18.8119,
+  "megye": "Tolna vármegye"
  },
  "Dunaszentmiklós": {
   "jaras": null,
@@ -3887,6 +3917,12 @@
   "lon": 16.54725,
   "megye": "Vas vármegye"
  },
+ "Hegyhátsál": {
+  "jaras": null,
+  "lat": 46.96006,
+  "lon": 16.64231,
+  "megye": "Vas vármegye"
+ },
  "Hegykő": {
   "jaras": null,
   "lat": 47.6217,
@@ -4220,6 +4256,12 @@
  },
  "Hódmezővásárhely zártkert": null,
  "Hódmezővásásárhely": null,
+ "Hövej": {
+  "jaras": null,
+  "lat": 47.54946,
+  "lon": 17.02042,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Hőgyész": {
   "jaras": null,
   "lat": 46.49575,
@@ -4255,6 +4297,12 @@
   "lat": 46.77598,
   "lon": 18.51454,
   "megye": "Fejér vármegye"
+ },
+ "Igrici": {
+  "jaras": null,
+  "lat": 47.86608,
+  "lon": 20.88265,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Iharosberény": {
   "jaras": null,
@@ -4369,6 +4417,12 @@
   "lat": 48.02072,
   "lon": 20.06082,
   "megye": "Heves vármegye"
+ },
+ "Iván": {
+  "jaras": null,
+  "lat": 47.4433,
+  "lon": 16.90603,
+  "megye": "Győr-Moson-Sopron vármegye"
  },
  "Ivánbattyán": {
   "jaras": null,
@@ -4803,6 +4857,30 @@
   "lon": 20.82321,
   "megye": "Békés vármegye"
  },
+ "Katafa": {
+  "jaras": null,
+  "lat": 46.97568,
+  "lon": 16.62944,
+  "megye": "Vas vármegye"
+ },
+ "Katymár": {
+  "jaras": null,
+  "lat": 46.03453,
+  "lon": 19.20987,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Kazincbarcika": {
+  "jaras": null,
+  "lat": 48.25444,
+  "lon": 20.62233,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kecel": {
+  "jaras": null,
+  "lat": 46.52377,
+  "lon": 19.25334,
+  "megye": "Bács-Kiskun vármegye"
+ },
  "Kecskemét": {
   "jaras": null,
   "lat": 46.90748,
@@ -4814,6 +4892,18 @@
   "lat": 47.52402,
   "lon": 18.3076,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Kehidakustány": {
+  "jaras": null,
+  "lat": 46.843,
+  "lon": 17.0943,
+  "megye": "Zala vármegye"
+ },
+ "Kelebia": {
+  "jaras": null,
+  "lat": 46.19711,
+  "lon": 19.60717,
+  "megye": "Bács-Kiskun vármegye"
  },
  "Kisvárda": {
   "jaras": null,
