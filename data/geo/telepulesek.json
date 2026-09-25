@@ -210,6 +210,12 @@
   "lon": 21.0003,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Alsómocsolád": {
+  "jaras": null,
+  "lat": 46.31308,
+  "lon": 18.24501,
+  "megye": "Baranya vármegye"
+ },
  "Alsónemesapáti": {
   "jaras": null,
   "lat": 46.85339,
@@ -1422,6 +1428,12 @@
   "lon": 17.92148,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Báránd": {
+  "jaras": null,
+  "lat": 47.29377,
+  "lon": 21.22773,
+  "megye": "Hajdú-Bihar vármegye"
+ },
  "Báta": {
   "jaras": null,
   "lat": 46.12868,
@@ -1939,6 +1951,12 @@
   "lon": 20.15373,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Csonkahegyhát": {
+  "jaras": null,
+  "lat": 46.80103,
+  "lon": 16.71998,
+  "megye": "Zala vármegye"
+ },
  "Csonkamindszent": {
   "jaras": null,
   "lat": 46.05199,
@@ -2058,6 +2076,12 @@
   "lat": 46.80625,
   "lon": 20.13047,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Csévharaszt": {
+  "jaras": null,
+  "lat": 47.29733,
+  "lon": 19.42919,
+  "megye": "Pest vármegye"
  },
  "Csókakő zártkert": null,
  "Csólyospálos": {
@@ -4490,6 +4514,12 @@
   "lon": 16.58072,
   "megye": "Vas vármegye"
  },
+ "Jákfa": {
+  "jaras": null,
+  "lat": 47.33842,
+  "lon": 16.95495,
+  "megye": "Vas vármegye"
+ },
  "Jánd": {
   "jaras": null,
   "lat": 48.11435,
@@ -4904,6 +4934,66 @@
   "lat": 46.19711,
   "lon": 19.60717,
   "megye": "Bács-Kiskun vármegye"
+ },
+ "Kelemér": {
+  "jaras": null,
+  "lat": 48.35504,
+  "lon": 20.42795,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kelevíz": {
+  "jaras": null,
+  "lat": 46.5204,
+  "lon": 17.42158,
+  "megye": "Somogy vármegye"
+ },
+ "Keléd": {
+  "jaras": null,
+  "lat": 47.07588,
+  "lon": 17.11691,
+  "megye": "Vas vármegye"
+ },
+ "Kemecse": {
+  "jaras": null,
+  "lat": 48.06783,
+  "lon": 21.79869,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Kemendollár": {
+  "jaras": null,
+  "lat": 46.90299,
+  "lon": 16.94942,
+  "megye": "Zala vármegye"
+ },
+ "Kemeneshőgyész": {
+  "jaras": null,
+  "lat": 47.35496,
+  "lon": 17.29818,
+  "megye": "Veszprém vármegye"
+ },
+ "Kemeneskápolna": {
+  "jaras": null,
+  "lat": 47.20795,
+  "lon": 17.10604,
+  "megye": "Vas vármegye"
+ },
+ "Kemenesmagasi": {
+  "jaras": null,
+  "lat": 47.33179,
+  "lon": 17.21114,
+  "megye": "Vas vármegye"
+ },
+ "Kemenesmihályfa": {
+  "jaras": null,
+  "lat": 47.2854,
+  "lon": 17.1136,
+  "megye": "Vas vármegye"
+ },
+ "Kemenessömjén": {
+  "jaras": null,
+  "lat": 47.2945,
+  "lon": 17.13379,
+  "megye": "Vas vármegye"
  },
  "Kisvárda": {
   "jaras": null,
