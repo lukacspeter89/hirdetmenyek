@@ -4995,6 +4995,96 @@
   "lon": 17.13379,
   "megye": "Vas vármegye"
  },
+ "Kenderes": {
+  "jaras": null,
+  "lat": 47.24775,
+  "lon": 20.67203,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Kengyel": {
+  "jaras": null,
+  "lat": 47.09463,
+  "lon": 20.34237,
+  "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Kenyeri": {
+  "jaras": null,
+  "lat": 47.38607,
+  "lon": 17.0926,
+  "megye": "Vas vármegye"
+ },
+ "Kenézlő": {
+  "jaras": null,
+  "lat": 48.20014,
+  "lon": 21.53113,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kerecsend": {
+  "jaras": null,
+  "lat": 47.79405,
+  "lon": 20.3461,
+  "megye": "Heves vármegye"
+ },
+ "Kerecseny": {
+  "jaras": null,
+  "lat": 46.62542,
+  "lon": 17.04541,
+  "megye": "Zala vármegye"
+ },
+ "Kerekegyháza": {
+  "jaras": null,
+  "lat": 46.93588,
+  "lon": 19.48251,
+  "megye": "Bács-Kiskun vármegye"
+ },
+ "Kerekharaszt": {
+  "jaras": null,
+  "lat": 47.66286,
+  "lon": 19.62566,
+  "megye": "Heves vármegye"
+ },
+ "Kereki": {
+  "jaras": null,
+  "lat": 46.79596,
+  "lon": 17.91188,
+  "megye": "Somogy vármegye"
+ },
+ "Kerepes": {
+  "jaras": null,
+  "lat": 47.56161,
+  "lon": 19.28691,
+  "megye": "Pest vármegye"
+ },
+ "Kerkabarabás": {
+  "jaras": null,
+  "lat": 46.67903,
+  "lon": 16.55763,
+  "megye": "Zala vármegye"
+ },
+ "Kerkafalva": {
+  "jaras": null,
+  "lat": 46.77319,
+  "lon": 16.48504,
+  "megye": "Zala vármegye"
+ },
+ "Kerkaszentkirály": {
+  "jaras": null,
+  "lat": 46.50068,
+  "lon": 16.57949,
+  "megye": "Zala vármegye"
+ },
+ "Kerkateskánd": {
+  "jaras": null,
+  "lat": 46.57383,
+  "lon": 16.57096,
+  "megye": "Zala vármegye"
+ },
+ "Kerkáskápolna": {
+  "jaras": null,
+  "lat": 46.78482,
+  "lon": 16.4272,
+  "megye": "Vas vármegye"
+ },
  "Kisvárda": {
   "jaras": null,
   "lat": 48.22576,

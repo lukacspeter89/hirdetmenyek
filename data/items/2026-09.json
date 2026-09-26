@@ -157921,6 +157921,78 @@
   ],
   "ugyiratszam": "A/2620-1/2026"
  },
+ "2238784": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "4.200.-Ft/AK/év"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1068485
+  ],
+  "forras": "Somogyvári Közös Önkormányzati Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "071/5"
+  ],
+  "id": 2238784,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-26",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238784",
+  "muvelesi_ag": [
+   "Szántó, legelő"
+  ],
+  "status": "aranykorona_alapu_dij",
+  "targy": "Haszonbérlet - Pamuk hrsz.: 071/5",
+  "telepules": "Pamuk",
+  "terulet_m2": 34652,
+  "terulet_raw": [
+   "3 ha 4652 m2; 59,00 AK"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "2400/5900"
+  ],
+  "ugyiratszam": "S/1525-1/2026."
+ },
+ "2238785": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "4.200.-Ft/AK/év"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1068486
+  ],
+  "forras": "Somogyvári Közös Önkormányzati Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "07/4"
+  ],
+  "id": 2238785,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-26",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238785",
+  "muvelesi_ag": [
+   "Szántó, fásított terület"
+  ],
+  "status": "aranykorona_alapu_dij",
+  "targy": "Haszonbérlet - Pamuk hrsz.: 07/4",
+  "telepules": "Pamuk",
+  "terulet_m2": 24519,
+  "terulet_raw": [
+   "2 ha 4519 m2; 25,07 AK"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "760/2507"
+  ],
+  "ugyiratszam": "S/1526-1/2026."
+ },
  "2238803": {
   "altipus": "adás-vételére",
   "ar_ft": 3500000,
@@ -157956,5 +158028,41 @@
    "1/1"
   ],
   "ugyiratszam": "ÖLB/633/2026"
+ },
+ "2238804": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "4.200.-Ft/AK/év"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1068476
+  ],
+  "forras": "Somogyvári Közös Önkormányzati Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "058/3"
+  ],
+  "id": 2238804,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-26",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238804",
+  "muvelesi_ag": [
+   "Szántó és fásított terület"
+  ],
+  "status": "aranykorona_alapu_dij",
+  "targy": "Haszonbérlet - Somogyvár hrsz.: 058/3",
+  "telepules": "Somogyvár",
+  "terulet_m2": 30552,
+  "terulet_raw": [
+   "3 ha 0552 m2; 30,21 AK"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "50/3022"
+  ],
+  "ugyiratszam": "S/1527-1/2026."
  }
 }
