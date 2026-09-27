@@ -5085,6 +5085,96 @@
   "lon": 16.4272,
   "megye": "Vas vármegye"
  },
+ "Kerta": {
+  "jaras": null,
+  "lat": 47.16225,
+  "lon": 17.27449,
+  "megye": "Veszprém vármegye"
+ },
+ "Kerékteleki": {
+  "jaras": null,
+  "lat": 47.51474,
+  "lon": 17.93874,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Kesznyéten": {
+  "jaras": null,
+  "lat": 47.96923,
+  "lon": 21.04203,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Keszthely": {
+  "jaras": null,
+  "lat": 46.76751,
+  "lon": 17.24628,
+  "megye": "Zala vármegye"
+ },
+ "Kesztölc": {
+  "jaras": null,
+  "lat": 47.71314,
+  "lon": 18.79709,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Keszü": {
+  "jaras": null,
+  "lat": 46.01696,
+  "lon": 18.19181,
+  "megye": "Baranya vármegye"
+ },
+ "Kevermes": {
+  "jaras": null,
+  "lat": 46.41721,
+  "lon": 21.18431,
+  "megye": "Békés vármegye"
+ },
+ "Kimle": {
+  "jaras": null,
+  "lat": 47.82683,
+  "lon": 17.37096,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Királyegyháza": {
+  "jaras": null,
+  "lat": 45.99688,
+  "lon": 17.96865,
+  "megye": "Baranya vármegye"
+ },
+ "Királyhegyes": {
+  "jaras": null,
+  "lat": 46.27032,
+  "lon": 20.612,
+  "megye": "Csongrád-Csanád vármegye"
+ },
+ "Királyszentistván": {
+  "jaras": null,
+  "lat": 47.10927,
+  "lon": 18.04365,
+  "megye": "Veszprém vármegye"
+ },
+ "Kisapostag": {
+  "jaras": null,
+  "lat": 46.89415,
+  "lon": 18.9322,
+  "megye": "Fejér vármegye"
+ },
+ "Kisapáti": {
+  "jaras": null,
+  "lat": 46.84262,
+  "lon": 17.46719,
+  "megye": "Veszprém vármegye"
+ },
+ "Kisasszond": {
+  "jaras": null,
+  "lat": 46.33101,
+  "lon": 17.64143,
+  "megye": "Somogy vármegye"
+ },
+ "Kisasszonyfa": {
+  "jaras": null,
+  "lat": 45.94665,
+  "lon": 18.0075,
+  "megye": "Baranya vármegye"
+ },
  "Kisvárda": {
   "jaras": null,
   "lat": 48.22576,

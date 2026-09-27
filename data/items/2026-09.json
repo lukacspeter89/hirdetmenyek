@@ -157845,6 +157845,42 @@
   ],
   "ugyiratszam": "SKÖH/309/2026"
  },
+ "2238781": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 688020,
+  "ar_raw": [
+   "120.000 Ft/Ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1068473
+  ],
+  "forras": "Jánoshidai Polgármesteri Hivatal",
+  "ft_per_ha": 120000,
+  "hrsz": [
+   "0118/47"
+  ],
+  "id": 2238781,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-28",
+  "lejarat": "2026-10-13",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238781",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Jánoshida hrsz.: 0118/47",
+  "telepules": "Jánoshida",
+  "terulet_m2": 57335,
+  "terulet_raw": [
+   "5,7335 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "Ált/736/2026"
+ },
  "2238782": {
   "altipus": "adás-vételére",
   "ar_ft": 600000,
@@ -157993,6 +158029,316 @@
   ],
   "ugyiratszam": "S/1526-1/2026."
  },
+ "2238786": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068487
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/19"
+  ],
+  "id": 2238786,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238786",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/19",
+  "telepules": "Szerep",
+  "terulet_m2": 10054,
+  "terulet_raw": [
+   "1 ha 0054 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1485/2026"
+ },
+ "2238787": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068488
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/24"
+  ],
+  "id": 2238787,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238787",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/24",
+  "telepules": "Szerep",
+  "terulet_m2": 15268,
+  "terulet_raw": [
+   "1 ha 5268 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1486/2026"
+ },
+ "2238788": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068489
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0310/8"
+  ],
+  "id": 2238788,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238788",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0310/8",
+  "telepules": "Szerep",
+  "terulet_m2": 107223,
+  "terulet_raw": [
+   "10 ha 7223 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "3868/19635"
+  ],
+  "ugyiratszam": "SZI/1487/2026"
+ },
+ "2238789": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068490
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0222/35"
+  ],
+  "id": 2238789,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238789",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0222/35",
+  "telepules": "Szerep",
+  "terulet_m2": 3937,
+  "terulet_raw": [
+   "0,3937 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "515/1030"
+  ],
+  "ugyiratszam": "SZI/1488/2026"
+ },
+ "2238790": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068491
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0321/45"
+  ],
+  "id": 2238790,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238790",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0321/45",
+  "telepules": "Szerep",
+  "terulet_m2": 7877,
+  "terulet_raw": [
+   "0.7877 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1495/2026"
+ },
+ "2238791": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068492
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/34"
+  ],
+  "id": 2238791,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238791",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/34",
+  "telepules": "Szerep",
+  "terulet_m2": 2541,
+  "terulet_raw": [
+   "0,2541 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1496/2026"
+ },
+ "2238792": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068493
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0321/22"
+  ],
+  "id": 2238792,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238792",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0321/22",
+  "telepules": "Szerep",
+  "terulet_m2": 4273,
+  "terulet_raw": [
+   "0,4273 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1497/2026"
+ },
+ "2238793": {
+  "altipus": "adás-vételére",
+  "ar_ft": 200000,
+  "ar_raw": [
+   "200.000.-Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1068494
+  ],
+  "forras": "Mihálygerge Község Önkormányzata",
+  "ft_per_ha": 66667,
+  "hrsz": [
+   "0214/3"
+  ],
+  "id": 2238793,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-27",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238793",
+  "muvelesi_ag": [
+   "rét"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Egyházasgerge hrsz.: 0214/3",
+  "telepules": "Egyházasgerge",
+  "terulet_m2": 30000,
+  "terulet_raw": [
+   "3 ha 5362 m2 64.36 AK"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "21600/3333240"
+  ],
+  "ugyiratszam": "2820/2026"
+ },
+ "2238802": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 60053,
+  "ar_raw": [
+   "80.500 Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1068474
+  ],
+  "forras": "Jánoshidai Polgármesteri Hivatal",
+  "ft_per_ha": 80500,
+  "hrsz": [
+   "094/39"
+  ],
+  "id": 2238802,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-28",
+  "lejarat": "2026-10-13",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238802",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Jánoshida hrsz.: 094/39",
+  "telepules": "Jánoshida",
+  "terulet_m2": 7460,
+  "terulet_raw": [
+   "0,7460 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "Ált/737/2026"
+ },
  "2238803": {
   "altipus": "adás-vételére",
   "ar_ft": 3500000,
@@ -158064,5 +158410,110 @@
    "50/3022"
   ],
   "ugyiratszam": "S/1527-1/2026."
+ },
+ "2238805": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068477
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/27"
+  ],
+  "id": 2238805,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238805",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/27",
+  "telepules": "Szerep",
+  "terulet_m2": 8711,
+  "terulet_raw": [
+   "0,8711 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1498/2026"
+ },
+ "2238806": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068478
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/18"
+  ],
+  "id": 2238806,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238806",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/18",
+  "telepules": "Szerep",
+  "terulet_m2": 10163,
+  "terulet_raw": [
+   "1 ha 0163 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1499/2026"
+ },
+ "2238807": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1068479
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "038/13",
+   "038/14"
+  ],
+  "id": 2238807,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-09-27",
+  "lejarat": "2026-10-12",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2238807",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 038/13|Haszonbérlet - Szerep hrsz.: 038/14",
+  "telepules": "Szerep",
+  "terulet_m2": 61923,
+  "terulet_raw": [
+   "0,3602 ha",
+   "5 ha 8321 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1500/2026"
  }
 }
