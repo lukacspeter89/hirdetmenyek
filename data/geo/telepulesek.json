@@ -54,6 +54,12 @@
   "lon": 21.20152,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Abaújszántó": {
+  "jaras": null,
+  "lat": 48.27871,
+  "lon": 21.1855,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Abaújvár": {
   "jaras": null,
   "lat": 48.52522,
@@ -739,6 +745,12 @@
   "lon": 19.53618,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Balsa": {
+  "jaras": null,
+  "lat": 48.17194,
+  "lon": 21.53571,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
  "Balástya": {
   "jaras": null,
   "lat": 46.42333,
@@ -828,6 +840,12 @@
   "lat": 47.46611,
   "lon": 17.08988,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Beleg": {
+  "jaras": null,
+  "lat": 46.3168,
+  "lon": 17.41157,
+  "megye": "Somogy vármegye"
  },
  "Belezna": {
   "jaras": null,
@@ -1109,6 +1127,12 @@
   "jaras": null,
   "lat": 46.08393,
   "lon": 18.32219,
+  "megye": "Baranya vármegye"
+ },
+ "Bogádmindszent": {
+  "jaras": null,
+  "lat": 45.90633,
+  "lon": 18.04519,
   "megye": "Baranya vármegye"
  },
  "Bojt": {
@@ -1645,6 +1669,12 @@
   "lon": 17.24937,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "CSEPREG": {
+  "jaras": null,
+  "lat": 47.40159,
+  "lon": 16.70784,
+  "megye": "Vas vármegye"
+ },
  "CSÓT": {
   "jaras": null,
   "lat": 47.36061,
@@ -1854,6 +1884,12 @@
   "lat": 48.1443,
   "lon": 20.34209,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Cserszegtomaj": {
+  "jaras": null,
+  "lat": 46.80619,
+  "lon": 17.22647,
+  "megye": "Zala vármegye"
  },
  "Csertő": {
   "jaras": null,
@@ -2233,6 +2269,12 @@
   "lat": 46.28433,
   "lon": 18.76007,
   "megye": "Tolna vármegye"
+ },
+ "Dejtár": {
+  "jaras": null,
+  "lat": 48.03778,
+  "lon": 19.1712,
+  "megye": "Nógrád vármegye"
  },
  "Demecser": {
   "jaras": null,
@@ -3185,6 +3227,12 @@
   "lon": 21.10734,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Furta": {
+  "jaras": null,
+  "lat": 47.12949,
+  "lon": 21.45768,
+  "megye": "Hajdú-Bihar vármegye"
+ },
  "Fábiánháza": {
   "jaras": null,
   "lat": 47.84866,
@@ -3323,6 +3371,12 @@
   "lon": 22.75679,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Gadány": {
+  "jaras": null,
+  "lat": 46.51705,
+  "lon": 17.39179,
+  "megye": "Somogy vármegye"
+ },
  "Gagybátor": {
   "jaras": null,
   "lat": 48.43424,
@@ -3412,6 +3466,12 @@
   "lat": 46.10831,
   "lon": 18.527,
   "megye": "Baranya vármegye"
+ },
+ "Gerjen": {
+  "jaras": null,
+  "lat": 46.49361,
+  "lon": 18.90324,
+  "megye": "Tolna vármegye"
  },
  "Gersekarát": {
   "jaras": null,
@@ -3844,6 +3904,12 @@
   "lat": 47.59895,
   "lon": 21.75371,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Hajmás": {
+  "jaras": null,
+  "lat": 46.27432,
+  "lon": 17.90545,
+  "megye": "Somogy vármegye"
  },
  "Hajós": {
   "jaras": null,
@@ -4436,6 +4502,12 @@
   "lon": 17.29797,
   "megye": "Veszprém vármegye"
  },
+ "Isztimér": {
+  "jaras": null,
+  "lat": 47.27838,
+  "lon": 18.19605,
+  "megye": "Fejér vármegye"
+ },
  "Ivád": {
   "jaras": null,
   "lat": 48.02072,
@@ -4833,6 +4905,12 @@
   "lon": 20.92409,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "Karcsa": {
+  "jaras": null,
+  "lat": 48.31141,
+  "lon": 21.79299,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
  "Kardos": {
   "jaras": null,
   "lat": 46.79689,
@@ -5174,6 +5252,18 @@
   "lat": 45.94665,
   "lon": 18.0075,
   "megye": "Baranya vármegye"
+ },
+ "Kisbabot": {
+  "jaras": null,
+  "lat": 47.55588,
+  "lon": 17.41729,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Kisberény": {
+  "jaras": null,
+  "lat": 46.63774,
+  "lon": 17.65868,
+  "megye": "Somogy vármegye"
  },
  "Kisvárda": {
   "jaras": null,
