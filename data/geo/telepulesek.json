@@ -384,6 +384,12 @@
   "lon": 19.89016,
   "megye": "Heves vármegye"
  },
+ "Attala": {
+  "jaras": null,
+  "lat": 46.37657,
+  "lon": 18.06608,
+  "megye": "Tolna vármegye"
+ },
  "BOTYKAPETERD": {
   "jaras": null,
   "lat": 46.04888,
@@ -522,6 +528,12 @@
   "lon": 17.8826,
   "megye": "Veszprém vármegye"
  },
+ "Bakonyszentlászló": {
+  "jaras": null,
+  "lat": 47.39074,
+  "lon": 17.80434,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
  "Bakonyszombathely": {
   "jaras": null,
   "lat": 47.47034,
@@ -605,6 +617,12 @@
   "jaras": null,
   "lat": 46.95673,
   "lon": 17.88889,
+  "megye": "Veszprém vármegye"
+ },
+ "Balatonfőkajár": {
+  "jaras": null,
+  "lat": 47.02029,
+  "lon": 18.21222,
   "megye": "Veszprém vármegye"
  },
  "Balatonfűzfő": {
@@ -1075,6 +1093,12 @@
   "lon": 20.02381,
   "megye": "Heves vármegye"
  },
+ "Bodorfa": {
+  "jaras": null,
+  "lat": 47.07597,
+  "lon": 17.34298,
+  "megye": "Veszprém vármegye"
+ },
  "Bodroghalom": {
   "jaras": null,
   "lat": 48.30357,
@@ -1200,6 +1224,12 @@
   "lat": 46.32163,
   "lon": 19.92178,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Borgáta": {
+  "jaras": null,
+  "lat": 47.16183,
+  "lon": 17.07986,
+  "megye": "Vas vármegye"
  },
  "Borjád": {
   "jaras": null,
@@ -1746,6 +1776,12 @@
   "lat": 46.57464,
   "lon": 20.95317,
   "megye": "Békés vármegye"
+ },
+ "Csabdi": {
+  "jaras": null,
+  "lat": 47.51884,
+  "lon": 18.6127,
+  "megye": "Fejér vármegye"
  },
  "Csabrendek": {
   "jaras": null,
@@ -4344,6 +4380,7 @@
   "lon": 20.31961,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Hódmezővásárhely kültertület": null,
  "Hódmezővásárhely zártkert": null,
  "Hódmezővásásárhely": null,
  "Hövej": {
@@ -5211,6 +5248,12 @@
   "lon": 17.37096,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Kincsesbánya": {
+  "jaras": null,
+  "lat": 47.26446,
+  "lon": 18.27391,
+  "megye": "Fejér vármegye"
+ },
  "Királyegyháza": {
   "jaras": null,
   "lat": 45.99688,
@@ -5264,6 +5307,48 @@
   "lat": 46.63774,
   "lon": 17.65868,
   "megye": "Somogy vármegye"
+ },
+ "Kisbucsa": {
+  "jaras": null,
+  "lat": 46.817,
+  "lon": 16.94164,
+  "megye": "Zala vármegye"
+ },
+ "Kisbárapáti": {
+  "jaras": null,
+  "lat": 46.60298,
+  "lon": 17.8661,
+  "megye": "Somogy vármegye"
+ },
+ "Kisbér": {
+  "jaras": null,
+  "lat": 47.49926,
+  "lon": 18.03002,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Kiscsősz": {
+  "jaras": null,
+  "lat": 47.19589,
+  "lon": 17.27984,
+  "megye": "Veszprém vármegye"
+ },
+ "Kisdobsza": {
+  "jaras": null,
+  "lat": 46.0319,
+  "lon": 17.65452,
+  "megye": "Baranya vármegye"
+ },
+ "Kisdombegyház": {
+  "jaras": null,
+  "lat": 46.37038,
+  "lon": 21.09871,
+  "megye": "Békés vármegye"
+ },
+ "Kisdorog": {
+  "jaras": null,
+  "lat": 46.39074,
+  "lon": 18.49432,
+  "megye": "Tolna vármegye"
  },
  "Kisvárda": {
   "jaras": null,
