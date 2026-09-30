@@ -3040,6 +3040,12 @@
   "lon": 18.29148,
   "megye": "Tolna vármegye"
  },
+ "FIAD": {
+  "jaras": null,
+  "lat": 46.63401,
+  "lon": 17.83812,
+  "megye": "Somogy vármegye"
+ },
  "Fadd": {
   "jaras": null,
   "lat": 46.46639,
@@ -3250,6 +3256,12 @@
   "lat": 48.39104,
   "lon": 21.28417,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Fonyód": {
+  "jaras": null,
+  "lat": 46.74675,
+  "lon": 17.54946,
+  "megye": "Somogy vármegye"
  },
  "Forráskút": {
   "jaras": null,
@@ -4761,6 +4773,12 @@
   "lon": 20.92409,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "KISBÁRAPÁTI": {
+  "jaras": null,
+  "lat": 46.60298,
+  "lon": 17.8661,
+  "megye": "Somogy vármegye"
+ },
  "KONYÁR": {
   "jaras": null,
   "lat": 47.32097,
@@ -4768,6 +4786,12 @@
   "megye": "Hajdú-Bihar vármegye"
  },
  "Kaba": {
+  "jaras": null,
+  "lat": 47.35762,
+  "lon": 21.27426,
+  "megye": "Hajdú-Bihar vármegye"
+ },
+ "Kaba.": {
   "jaras": null,
   "lat": 47.35762,
   "lon": 21.27426,
@@ -5349,6 +5373,72 @@
   "lat": 46.39074,
   "lon": 18.49432,
   "megye": "Tolna vármegye"
+ },
+ "Kisfalud": {
+  "jaras": null,
+  "lat": 47.52943,
+  "lon": 17.08837,
+  "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Kisgyalán": {
+  "jaras": null,
+  "lat": 46.42356,
+  "lon": 17.97675,
+  "megye": "Somogy vármegye"
+ },
+ "Kisgörbő": {
+  "jaras": null,
+  "lat": 46.9373,
+  "lon": 17.15669,
+  "megye": "Zala vármegye"
+ },
+ "Kishajmás": {
+  "jaras": null,
+  "lat": 46.20063,
+  "lon": 18.08228,
+  "megye": "Baranya vármegye"
+ },
+ "Kisharsány": {
+  "jaras": null,
+  "lat": 45.85978,
+  "lon": 18.36401,
+  "megye": "Baranya vármegye"
+ },
+ "Kisherend": {
+  "jaras": null,
+  "lat": 45.96332,
+  "lon": 18.3319,
+  "megye": "Baranya vármegye"
+ },
+ "Kishuta": {
+  "jaras": null,
+  "lat": 48.4496,
+  "lon": 21.47967,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kishódos": {
+  "jaras": null,
+  "lat": 47.97105,
+  "lon": 22.8357,
+  "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Kisigmánd": {
+  "jaras": null,
+  "lat": 47.65365,
+  "lon": 18.09975,
+  "megye": "Komárom-Esztergom vármegye"
+ },
+ "Kiskinizs": {
+  "jaras": null,
+  "lat": 48.25119,
+  "lon": 21.03555,
+  "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kiskorpád": {
+  "jaras": null,
+  "lat": 46.36403,
+  "lon": 17.61064,
+  "megye": "Somogy vármegye"
  },
  "Kisvárda": {
   "jaras": null,

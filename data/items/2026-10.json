@@ -1,0 +1,74 @@
+{
+ "2239397": {
+  "altipus": "adás-vételére",
+  "ar_ft": 4145000,
+  "ar_raw": [
+   "4.145.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1069111
+  ],
+  "forras": "Dunabogdány Község Önkormányzata",
+  "ft_per_ha": 15183150,
+  "hrsz": [
+   "3651 hrsz"
+  ],
+  "id": 2239397,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-01",
+  "lejarat": "2026-10-30",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2239397",
+  "muvelesi_ag": [
+   "gyümölcsös, szőlő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Dunabogdány hrsz.: 3651 hrsz",
+  "telepules": "Dunabogdány",
+  "terulet_m2": 2730,
+  "terulet_raw": [
+   "2730 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "21/24"
+  ],
+  "ugyiratszam": "574.650/2026"
+ },
+ "2239565": {
+  "altipus": "adás-vételére",
+  "ar_ft": 7000000,
+  "ar_raw": [
+   "7.000.000. Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1069239
+  ],
+  "forras": "Diósjenő Község Önkormányzata",
+  "ft_per_ha": 15257193,
+  "hrsz": [
+   "081/8"
+  ],
+  "id": 2239565,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-01",
+  "lejarat": "2026-10-30",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2239565",
+  "muvelesi_ag": [
+   "szántó és gazdasági épület"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Diósjenő hrsz.: 081/8",
+  "telepules": "Diósjenő",
+  "terulet_m2": 4588,
+  "terulet_raw": [
+   "4588 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "591.031/2/2026"
+ }
+}
