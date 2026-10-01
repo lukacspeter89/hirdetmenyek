@@ -30,6 +30,12 @@
   "lon": 20.00478,
   "megye": "Pest vármegye"
  },
+ "ANDRÁSFA": {
+  "jaras": null,
+  "lat": 46.96368,
+  "lon": 16.79361,
+  "megye": "Vas megye"
+ },
  "APOSTAG": {
   "jaras": null,
   "lat": 46.88324,
@@ -1318,6 +1324,12 @@
   "lon": 19.14577,
   "megye": null
  },
+ "Budapest III. kerület": {
+  "jaras": null,
+  "lat": 47.56761,
+  "lon": 19.03678,
+  "megye": "Budapest"
+ },
  "Budapest X. kerület": {
   "jaras": null,
   "lat": 47.48224,
@@ -1818,6 +1830,12 @@
   "lat": 46.24405,
   "lon": 20.7234,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Csapi": {
+  "jaras": null,
+  "lat": 46.53214,
+  "lon": 17.08648,
+  "megye": "Zala megye"
  },
  "Csataszög": {
   "jaras": null,
@@ -5350,6 +5368,12 @@
   "lon": 18.03002,
   "megye": "Komárom-Esztergom vármegye"
  },
+ "Kiscsécs": {
+  "jaras": null,
+  "lat": 47.96577,
+  "lon": 21.01068,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Kiscsősz": {
   "jaras": null,
   "lat": 47.19589,
@@ -5439,6 +5463,72 @@
   "lat": 46.36403,
   "lon": 17.61064,
   "megye": "Somogy vármegye"
+ },
+ "Kiskunfélegyháza": {
+  "jaras": null,
+  "lat": 46.71144,
+  "lon": 19.85016,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kiskunhalas": {
+  "jaras": null,
+  "lat": 46.43045,
+  "lon": 19.48126,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kiskunlacháza": {
+  "jaras": null,
+  "lat": 47.19034,
+  "lon": 19.00569,
+  "megye": "Pest megye"
+ },
+ "Kiskunmajsa": {
+  "jaras": null,
+  "lat": 46.49062,
+  "lon": 19.73931,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kiskutas": {
+  "jaras": null,
+  "lat": 46.91261,
+  "lon": 16.79644,
+  "megye": "Zala megye"
+ },
+ "Kisköre": {
+  "jaras": null,
+  "lat": 47.49946,
+  "lon": 20.4925,
+  "megye": "Heves megye"
+ },
+ "Kiskőrös": {
+  "jaras": null,
+  "lat": 46.62057,
+  "lon": 19.28436,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kisláng": {
+  "jaras": null,
+  "lat": 46.96025,
+  "lon": 18.38517,
+  "megye": "Fejér megye"
+ },
+ "Kismarja": {
+  "jaras": null,
+  "lat": 47.24813,
+  "lon": 21.8221,
+  "megye": "Hajdú-Bihar megye"
+ },
+ "Kismaros": {
+  "jaras": null,
+  "lat": 47.82664,
+  "lon": 19.01291,
+  "megye": "Pest megye"
+ },
+ "Kisnyárád": {
+  "jaras": null,
+  "lat": 46.03649,
+  "lon": 18.5648,
+  "megye": "Baranya megye"
  },
  "Kisvárda": {
   "jaras": null,
