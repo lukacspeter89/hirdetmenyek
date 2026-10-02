@@ -4187,6 +4187,7 @@
   "lon": 20.97705,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Hernádnémeti zártkert": null,
  "Hetefejércse": {
   "jaras": null,
   "lat": 48.12793,
@@ -5530,11 +5531,90 @@
   "lon": 18.5648,
   "megye": "Baranya megye"
  },
+ "Kisnémedi": {
+  "jaras": null,
+  "lat": 47.73774,
+  "lon": 19.29013,
+  "megye": "Pest megye"
+ },
+ "Kisoroszi": {
+  "jaras": null,
+  "lat": 47.80776,
+  "lon": 19.00717,
+  "megye": "Pest megye"
+ },
+ "Kisrozvágy": {
+  "jaras": null,
+  "lat": 48.3468,
+  "lon": 21.93876,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Kissomlyó: Köcsk": null,
+ "Kisszállás": {
+  "jaras": null,
+  "lat": 46.28066,
+  "lon": 19.49126,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kisszékely": {
+  "jaras": null,
+  "lat": 46.67942,
+  "lon": 18.539,
+  "megye": "Tolna megye"
+ },
+ "Kistamási": {
+  "jaras": null,
+  "lat": 46.01094,
+  "lon": 17.72158,
+  "megye": "Baranya megye"
+ },
+ "Kistarcsa": {
+  "jaras": null,
+  "lat": 47.54473,
+  "lon": 19.26364,
+  "megye": "Pest megye"
+ },
+ "Kistelek": {
+  "jaras": null,
+  "lat": 46.47046,
+  "lon": 19.9812,
+  "megye": "Csongrád-Csanád megye"
+ },
+ "Kistokaj": {
+  "jaras": null,
+  "lat": 48.03998,
+  "lon": 20.84037,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Kistótfalu": {
+  "jaras": null,
+  "lat": 45.90854,
+  "lon": 18.31142,
+  "megye": "Baranya megye"
+ },
+ "Kisvarsány": {
+  "jaras": null,
+  "lat": 48.14495,
+  "lon": 22.29803,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Kisvejke": {
+  "jaras": null,
+  "lat": 46.3811,
+  "lon": 18.41403,
+  "megye": "Tolna megye"
+ },
  "Kisvárda": {
   "jaras": null,
   "lat": 48.22576,
   "lon": 22.07842,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Kisvásárhely": {
+  "jaras": null,
+  "lat": 46.99496,
+  "lon": 17.19868,
+  "megye": "Zala megye"
  },
  "Kozárd": {
   "jaras": null,
