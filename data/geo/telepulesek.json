@@ -1,6 +1,8 @@
 {
  "120 évnél régebben születettek - Bogdása": null,
  "120 évnél régebben születettek - Bükkaranyos": null,
+ "120 évnél régebben születettek - Csányoszró": null,
+ "120 évnél régebben születettek - Diósviszló": null,
  "120 évnél régebben születettek - Gecse": null,
  "120 évnél régebben születettek - Sajókeresztúr": null,
  "120 évnél régebben születettek - Vanyola": null,
@@ -769,6 +771,7 @@
   "lon": 19.53618,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Balotaszállása": null,
  "Balsa": {
   "jaras": null,
   "lat": 48.17194,
@@ -973,6 +976,12 @@
   "lon": 18.79365,
   "megye": "Fejér vármegye"
  },
+ "Beszterec": {
+  "jaras": null,
+  "lat": 48.15668,
+  "lon": 21.83826,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
  "Bezedek": {
   "jaras": null,
   "lat": 45.86688,
@@ -1050,6 +1059,12 @@
   "lat": 47.8123,
   "lon": 21.85095,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Birján": {
+  "jaras": null,
+  "lat": 45.99748,
+  "lon": 18.37568,
+  "megye": "Baranya megye"
  },
  "Boba": {
   "jaras": null,
@@ -1626,6 +1641,12 @@
   "lat": 48.47464,
   "lon": 21.46772,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Böde": {
+  "jaras": null,
+  "lat": 46.83605,
+  "lon": 16.71726,
+  "megye": "Zala megye"
  },
  "Böhönye": {
   "jaras": null,
@@ -3821,6 +3842,12 @@
   "lon": 17.63657,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Győrújfalu": {
+  "jaras": null,
+  "lat": 47.72119,
+  "lon": 17.60818,
+  "megye": "Győr-Moson-Sopron megye"
+ },
  "Gyűrűs": {
   "jaras": null,
   "lat": 46.88439,
@@ -3886,6 +3913,12 @@
   "lat": 46.76289,
   "lon": 17.06964,
   "megye": "Zala vármegye"
+ },
+ "Gór": {
+  "jaras": null,
+  "lat": 47.35985,
+  "lon": 16.80418,
+  "megye": "Vas megye"
  },
  "Göd": {
   "jaras": null,
@@ -5640,6 +5673,12 @@
   "lon": 18.31142,
   "megye": "Baranya megye"
  },
+ "Kisunyom": {
+  "jaras": null,
+  "lat": 47.14706,
+  "lon": 16.64147,
+  "megye": "Vas megye"
+ },
  "Kisvarsány": {
   "jaras": null,
   "lat": 48.14495,
@@ -5705,6 +5744,42 @@
   "lat": 47.00201,
   "lon": 19.92255,
   "megye": "Pest megye"
+ },
+ "Kokad": {
+  "jaras": null,
+  "lat": 47.40729,
+  "lon": 21.93247,
+  "megye": "Hajdú-Bihar megye"
+ },
+ "Kolontár": {
+  "jaras": null,
+  "lat": 47.08708,
+  "lon": 17.47378,
+  "megye": "Veszprém megye"
+ },
+ "Komjáti": {
+  "jaras": null,
+  "lat": 48.5457,
+  "lon": 20.76077,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Komló": {
+  "jaras": null,
+  "lat": 46.19117,
+  "lon": 18.26138,
+  "megye": "Baranya megye"
+ },
+ "Komlódtótfalu": {
+  "jaras": null,
+  "lat": 47.84388,
+  "lon": 22.703,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Komoró": {
+  "jaras": null,
+  "lat": 48.30264,
+  "lon": 22.11612,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
  },
  "Kozárd": {
   "jaras": null,
