@@ -218,6 +218,12 @@
   "lon": 17.89453,
   "megye": "Baranya vármegye"
  },
+ "Alsóbogát": {
+  "jaras": null,
+  "lat": 46.51076,
+  "lon": 17.74849,
+  "megye": "Somogy megye"
+ },
  "Alsódobsza": {
   "jaras": null,
   "lat": 48.18048,
@@ -939,6 +945,12 @@
   "lat": 46.07616,
   "lon": 18.40853,
   "megye": "Baranya vármegye"
+ },
+ "Bernecebaráti": {
+  "jaras": null,
+  "lat": 48.03817,
+  "lon": 18.91399,
+  "megye": "Pest megye"
  },
  "Berzence": {
   "jaras": null,
@@ -2411,6 +2423,12 @@
   "lon": 20.23889,
   "megye": "Csongrád-Csanád vármegye"
  },
+ "Detek": {
+  "jaras": null,
+  "lat": 48.33334,
+  "lon": 21.01901,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Detk": {
   "jaras": null,
   "lat": 47.74753,
@@ -2682,6 +2700,7 @@
   "lon": 18.9405,
   "megye": "Fejér vármegye"
  },
+ "Dunaújváros zártkert": null,
  "Dusnok": {
   "jaras": null,
   "lat": 46.39002,
@@ -3079,6 +3098,12 @@
   "lon": 17.1084,
   "megye": "Zala vármegye"
  },
+ "Esztár": {
+  "jaras": null,
+  "lat": 47.28512,
+  "lon": 21.77552,
+  "megye": "Hajdú-Bihar megye"
+ },
  "Ete": {
   "jaras": null,
   "lat": 47.53223,
@@ -3132,6 +3157,12 @@
   "lat": 47.36164,
   "lon": 19.84896,
   "megye": "Pest vármegye"
+ },
+ "Farád": {
+  "jaras": null,
+  "lat": 47.60628,
+  "lon": 17.20194,
+  "megye": "Győr-Moson-Sopron megye"
  },
  "Fegyvernek": {
   "jaras": null,
@@ -3493,6 +3524,12 @@
   "lat": 47.93089,
   "lon": 22.75679,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
+ },
+ "Gadna": {
+  "jaras": null,
+  "lat": 48.40142,
+  "lon": 20.92781,
+  "megye": "Borsod-Abaúj-Zemplén megye"
  },
  "Gadány": {
   "jaras": null,
@@ -4257,6 +4294,12 @@
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Hernádnémeti zártkert": null,
+ "Hernádszentandrás": {
+  "jaras": null,
+  "lat": 48.28878,
+  "lon": 21.09604,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Hetefejércse": {
   "jaras": null,
   "lat": 48.12793,
@@ -4304,6 +4347,12 @@
   "lat": 48.50027,
   "lon": 21.22878,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Hidegség": {
+  "jaras": null,
+  "lat": 47.6252,
+  "lon": 16.74138,
+  "megye": "Győr-Moson-Sopron megye"
  },
  "Hidvégardó": {
   "jaras": null,
@@ -5780,6 +5829,42 @@
   "lat": 48.30264,
   "lon": 22.11612,
   "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Komádi": {
+  "jaras": null,
+  "lat": 47.00152,
+  "lon": 21.4883,
+  "megye": "Hajdú-Bihar megye"
+ },
+ "Komárom": {
+  "jaras": null,
+  "lat": 47.74173,
+  "lon": 18.12183,
+  "megye": "Komárom-Esztergom megye"
+ },
+ "Kondorfa": {
+  "jaras": null,
+  "lat": 46.89665,
+  "lon": 16.39293,
+  "megye": "Vas megye"
+ },
+ "Kondoros": {
+  "jaras": null,
+  "lat": 46.75997,
+  "lon": 20.79506,
+  "megye": "Békés megye"
+ },
+ "Korlát": {
+  "jaras": null,
+  "lat": 48.37858,
+  "lon": 21.24564,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Koroncó": {
+  "jaras": null,
+  "lat": 47.59738,
+  "lon": 17.52982,
+  "megye": "Győr-Moson-Sopron megye"
  },
  "Kozárd": {
   "jaras": null,
