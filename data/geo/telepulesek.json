@@ -4083,6 +4083,12 @@
   "lon": 17.90545,
   "megye": "Somogy vármegye"
  },
+ "Hajmáskér": {
+  "jaras": null,
+  "lat": 47.14447,
+  "lon": 18.01427,
+  "megye": "Veszprém megye"
+ },
  "Hajós": {
   "jaras": null,
   "lat": 46.3983,
@@ -4783,6 +4789,12 @@
   "lat": 47.33842,
   "lon": 16.95495,
   "megye": "Vas vármegye"
+ },
+ "Jákó": {
+  "jaras": null,
+  "lat": 46.33633,
+  "lon": 17.55263,
+  "megye": "Somogy megye"
  },
  "Jánd": {
   "jaras": null,
@@ -5866,11 +5878,89 @@
   "lon": 17.52982,
   "megye": "Győr-Moson-Sopron megye"
  },
+ "Kosd": {
+  "jaras": null,
+  "lat": 47.80682,
+  "lon": 19.17584,
+  "megye": "Pest megye"
+ },
+ "Kovácshida": {
+  "jaras": null,
+  "lat": 45.83373,
+  "lon": 18.18105,
+  "megye": "Baranya megye"
+ },
+ "Kovácsvágás": {
+  "jaras": null,
+  "lat": 48.45486,
+  "lon": 21.53042,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Kozárd": {
   "jaras": null,
   "lat": 47.91402,
   "lon": 19.61821,
   "megye": "Nógrád vármegye"
+ },
+ "Kozármisleny": {
+  "jaras": null,
+  "lat": 46.04782,
+  "lon": 18.2857,
+  "megye": "Baranya megye"
+ },
+ "Kulcs": {
+  "jaras": null,
+  "lat": 47.05294,
+  "lon": 18.91632,
+  "megye": "Fejér megye"
+ },
+ "Kunadacs": {
+  "jaras": null,
+  "lat": 46.9562,
+  "lon": 19.29455,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kunbaja": {
+  "jaras": null,
+  "lat": 46.0883,
+  "lon": 19.42408,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kuncsorba": {
+  "jaras": null,
+  "lat": 47.12851,
+  "lon": 20.55528,
+  "megye": "Jász-Nagykun-Szolnok megye"
+ },
+ "Kunfehértó": {
+  "jaras": null,
+  "lat": 46.3624,
+  "lon": 19.41328,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kunhegyes": {
+  "jaras": null,
+  "lat": 47.36991,
+  "lon": 20.63183,
+  "megye": "Jász-Nagykun-Szolnok megye"
+ },
+ "Kunmadaras": {
+  "jaras": null,
+  "lat": 47.42847,
+  "lon": 20.7953,
+  "megye": "Jász-Nagykun-Szolnok megye"
+ },
+ "Kunpeszér": {
+  "jaras": null,
+  "lat": 47.06307,
+  "lon": 19.281,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kunszentmiklós": {
+  "jaras": null,
+  "lat": 47.02571,
+  "lon": 19.12349,
+  "megye": "Bács-Kiskun megye"
  },
  "Kunszentmárton": {
   "jaras": null,
