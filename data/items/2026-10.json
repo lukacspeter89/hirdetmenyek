@@ -65406,6 +65406,42 @@
   ],
   "ugyiratszam": "B/2190/2026."
  },
+ "2241454": {
+  "altipus": "adás-vételére",
+  "ar_ft": 3805000,
+  "ar_raw": [
+   "3.805.000.-Ft"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1071177
+  ],
+  "forras": "Nyíregyháza MJV Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0690/13"
+  ],
+  "id": 2241454,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-12",
+  "lejarat": "2026-11-11",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2241454",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "terulet_hianyos",
+  "targy": "Adás-vétel - Nyíregyháza hrsz.: 0690/13",
+  "telepules": "Nyíregyháza",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "1522m2 1.07AK"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "231/2026"
+ },
  "2241455": {
   "altipus": "haszonbérletére",
   "ar_ft": 124712,

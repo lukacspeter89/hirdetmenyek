@@ -5968,6 +5968,96 @@
   "lon": 20.29088,
   "megye": "Jász-Nagykun-Szolnok vármegye"
  },
+ "Kunsziget": {
+  "jaras": null,
+  "lat": 47.7394,
+  "lon": 17.51521,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Kunszállás": {
+  "jaras": null,
+  "lat": 46.76059,
+  "lon": 19.7524,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kunágota": {
+  "jaras": null,
+  "lat": 46.42339,
+  "lon": 21.04898,
+  "megye": "Békés megye"
+ },
+ "Kup": {
+  "jaras": null,
+  "lat": 47.24837,
+  "lon": 17.46456,
+  "megye": "Veszprém megye"
+ },
+ "Kupa": {
+  "jaras": null,
+  "lat": 48.33138,
+  "lon": 20.91388,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Kurd": {
+  "jaras": null,
+  "lat": 46.44895,
+  "lon": 18.31613,
+  "megye": "Tolna megye"
+ },
+ "Kutas": {
+  "jaras": null,
+  "lat": 46.33207,
+  "lon": 17.45303,
+  "megye": "Somogy megye"
+ },
+ "KÁLD": {
+  "jaras": null,
+  "lat": 47.16406,
+  "lon": 17.04488,
+  "megye": "Vas megye"
+ },
+ "KÁTOLY": {
+  "jaras": null,
+  "lat": 46.06113,
+  "lon": 18.45099,
+  "megye": "Baranya megye"
+ },
+ "Kács": {
+  "jaras": null,
+  "lat": 47.95861,
+  "lon": 20.60858,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Kálló": {
+  "jaras": null,
+  "lat": 47.74897,
+  "lon": 19.49199,
+  "megye": "Nógrád megye"
+ },
+ "Kállósemjén": {
+  "jaras": null,
+  "lat": 47.86034,
+  "lon": 21.92486,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Kálmáncsa": {
+  "jaras": null,
+  "lat": 46.06721,
+  "lon": 17.6184,
+  "megye": "Somogy megye"
+ },
+ "Kálmánháza": {
+  "jaras": null,
+  "lat": 47.87343,
+  "lon": 21.57722,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Káloz": {
+  "jaras": null,
+  "lat": 46.95522,
+  "lon": 18.48236,
+  "megye": "Fejér megye"
+ },
  "Kéthely": {
   "jaras": null,
   "lat": 46.64694,
