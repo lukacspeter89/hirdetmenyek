@@ -62,6 +62,12 @@
   "lon": 21.20152,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Abaújlak": {
+  "jaras": null,
+  "lat": 48.40506,
+  "lon": 20.95505,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Abaújszántó": {
   "jaras": null,
   "lat": 48.27871,
@@ -1580,6 +1586,12 @@
   "lat": 46.52427,
   "lon": 16.72853,
   "megye": "Zala vármegye"
+ },
+ "Béb": {
+  "jaras": null,
+  "lat": 47.34403,
+  "lon": 17.60067,
+  "megye": "Veszprém megye"
  },
  "Békés": {
   "jaras": null,
@@ -4574,6 +4586,12 @@
   "lon": 18.41874,
   "megye": "Tolna vármegye"
  },
+ "ILK": {
+  "jaras": null,
+  "lat": 48.11969,
+  "lon": 22.23162,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
  "Ibafa": {
   "jaras": null,
   "lat": 46.15494,
@@ -5222,6 +5240,12 @@
   "lat": 48.25444,
   "lon": 20.62233,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Kazár": {
+  "jaras": null,
+  "lat": 48.05034,
+  "lon": 19.8545,
+  "megye": "Nógrád megye"
  },
  "Kecel": {
   "jaras": null,
@@ -6148,11 +6172,72 @@
   "lon": 18.40061,
   "megye": "Baranya megye"
  },
+ "Kávás": {
+  "jaras": null,
+  "lat": 46.86198,
+  "lon": 16.70867,
+  "megye": "Zala megye"
+ },
+ "Kéked": {
+  "jaras": null,
+  "lat": 48.54625,
+  "lon": 21.34854,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Kékesd": {
+  "jaras": null,
+  "lat": 46.10098,
+  "lon": 18.47271,
+  "megye": "Baranya megye"
+ },
+ "Kékkút": {
+  "jaras": null,
+  "lat": 46.85067,
+  "lon": 17.55992,
+  "megye": "Veszprém megye"
+ },
+ "Kéleshalom": {
+  "jaras": null,
+  "lat": 46.36632,
+  "lon": 19.2794,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kérsemjén": {
+  "jaras": null,
+  "lat": 48.02321,
+  "lon": 22.41654,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Kétbodony": {
+  "jaras": null,
+  "lat": 47.93544,
+  "lon": 19.28494,
+  "megye": "Nógrád megye"
+ },
+ "Kétbodony zártkert": null,
+ "Kétegyháza": {
+  "jaras": null,
+  "lat": 46.54554,
+  "lon": 21.18563,
+  "megye": "Békés megye"
+ },
  "Kéthely": {
   "jaras": null,
   "lat": 46.64694,
   "lon": 17.39333,
   "megye": "Somogy vármegye"
+ },
+ "Kétpó": {
+  "jaras": null,
+  "lat": 47.0743,
+  "lon": 20.48212,
+  "megye": "Jász-Nagykun-Szolnok megye"
+ },
+ "Kétsoprony": {
+  "jaras": null,
+  "lat": 46.71918,
+  "lon": 20.88398,
+  "megye": "Békés megye"
  },
  "Köröm": {
   "jaras": null,
