@@ -4,6 +4,7 @@
  "120 évnél régebben születettek - Csányoszró": null,
  "120 évnél régebben születettek - Diósviszló": null,
  "120 évnél régebben születettek - Gecse": null,
+ "120 évnél régebben születettek - Hosszúhetény": null,
  "120 évnél régebben születettek - Sajókeresztúr": null,
  "120 évnél régebben születettek - Vanyola": null,
  "120 évnél régebben születettek - Vokány": null,
@@ -837,6 +838,12 @@
   "lat": 46.28587,
   "lon": 21.02189,
   "megye": "Békés vármegye"
+ },
+ "Batyk": {
+  "jaras": null,
+  "lat": 46.98989,
+  "lon": 17.03574,
+  "megye": "Zala megye"
  },
  "Bazsi": {
   "jaras": null,
@@ -2579,6 +2586,12 @@
   "lon": 17.60468,
   "megye": "Somogy vármegye"
  },
+ "Drávaiványi": {
+  "jaras": null,
+  "lat": 45.84676,
+  "lon": 17.81813,
+  "megye": "Baranya megye"
+ },
  "Drávakeresztúr": {
   "jaras": null,
   "lat": 45.83941,
@@ -2887,6 +2900,12 @@
   "lat": 47.89899,
   "lon": 20.37437,
   "megye": "Heves vármegye"
+ },
+ "Eger; Eger": {
+  "jaras": null,
+  "lat": 47.89899,
+  "lon": 20.37437,
+  "megye": "Heves megye"
  },
  "Egeralja": {
   "jaras": null,
@@ -3248,6 +3267,12 @@
   "lat": 47.21386,
   "lon": 16.44466,
   "megye": "Vas vármegye"
+ },
+ "Felsődobsza": {
+  "jaras": null,
+  "lat": 48.25526,
+  "lon": 21.07487,
+  "megye": "Borsod-Abaúj-Zemplén megye"
  },
  "Felsőgagy": {
   "jaras": null,
@@ -3620,6 +3645,12 @@
   "lat": 48.41838,
   "lon": 21.17499,
   "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Gasztony": {
+  "jaras": null,
+  "lat": 46.96459,
+  "lon": 16.45331,
+  "megye": "Vas megye"
  },
  "Gelej": {
   "jaras": null,
@@ -4131,6 +4162,12 @@
   "lon": 21.00168,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Halmajugra": {
+  "jaras": null,
+  "lat": 47.76198,
+  "lon": 20.05576,
+  "megye": "Heves megye"
+ },
  "Halogy": {
   "jaras": null,
   "lat": 46.97057,
@@ -4628,6 +4665,12 @@
   "lon": 20.88265,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
+ "Iharos": {
+  "jaras": null,
+  "lat": 46.33864,
+  "lon": 17.09247,
+  "megye": "Somogy megye"
+ },
  "Iharosberény": {
   "jaras": null,
   "lat": 46.3635,
@@ -4867,6 +4910,12 @@
   "lat": 47.78592,
   "lon": 17.13642,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Járdánháza": {
+  "jaras": null,
+  "lat": 48.1577,
+  "lon": 20.25104,
+  "megye": "Borsod-Abaúj-Zemplén megye"
  },
  "Jármi": {
   "jaras": null,
@@ -6238,6 +6287,42 @@
   "lat": 46.71918,
   "lon": 20.88398,
   "megye": "Békés megye"
+ },
+ "Kétvölgy": {
+  "jaras": null,
+  "lat": 46.88375,
+  "lon": 16.22358,
+  "megye": "Vas megye"
+ },
+ "Kéty": {
+  "jaras": null,
+  "lat": 46.4404,
+  "lon": 18.51774,
+  "megye": "Tolna megye"
+ },
+ "Kóka": {
+  "jaras": null,
+  "lat": 47.48916,
+  "lon": 19.58061,
+  "megye": "Pest megye"
+ },
+ "Kóny": {
+  "jaras": null,
+  "lat": 47.6316,
+  "lon": 17.36016,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Kóspallag": {
+  "jaras": null,
+  "lat": 47.87409,
+  "lon": 18.93604,
+  "megye": "Pest megye"
+ },
+ "Kótaj": {
+  "jaras": null,
+  "lat": 48.04789,
+  "lon": 21.70988,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
  },
  "Köröm": {
   "jaras": null,
