@@ -730,6 +730,12 @@
   "lon": 17.82921,
   "megye": "Veszprém vármegye"
  },
+ "Balatonudvari": {
+  "jaras": null,
+  "lat": 46.90542,
+  "lon": 17.80482,
+  "megye": "Veszprém megye"
+ },
  "Balatonvilágos": {
   "jaras": null,
   "lat": 46.96417,
@@ -1407,6 +1413,12 @@
   "lat": 47.47583,
   "lon": 19.26941,
   "megye": null
+ },
+ "Budapest XVIII. kerület": {
+  "jaras": null,
+  "lat": 47.43033,
+  "lon": 19.20186,
+  "megye": "Budapest"
  },
  "Budapest XXI. Kerület Csepel": {
   "jaras": null,
@@ -2949,6 +2961,12 @@
   "lon": 16.85218,
   "megye": "Zala vármegye"
  },
+ "Egerág": {
+  "jaras": null,
+  "lat": 45.98148,
+  "lon": 18.30488,
+  "megye": "Baranya megye"
+ },
  "Egyed": {
   "jaras": null,
   "lat": 47.52172,
@@ -4288,6 +4306,12 @@
   "lon": 20.94475,
   "megye": "Borsod-Abaúj-Zemplén megye"
  },
+ "Hejőkeresztúr": {
+  "jaras": null,
+  "lat": 47.96174,
+  "lon": 20.88386,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Hejőkürt": {
   "jaras": null,
   "lat": 47.85561,
@@ -4904,6 +4928,12 @@
   "lat": 47.38392,
   "lon": 20.05657,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Jánosháza": {
+  "jaras": null,
+  "lat": 47.11988,
+  "lon": 17.16427,
+  "megye": "Vas megye"
  },
  "Jánossomorja": {
   "jaras": null,
@@ -6323,6 +6353,66 @@
   "lat": 48.04789,
   "lon": 21.70988,
   "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Köcsk": {
+  "jaras": null,
+  "lat": 47.19085,
+  "lon": 17.10316,
+  "megye": "Vas megye"
+ },
+ "Kökény": {
+  "jaras": null,
+  "lat": 46.00104,
+  "lon": 18.20429,
+  "megye": "Baranya megye"
+ },
+ "Kölesd": {
+  "jaras": null,
+  "lat": 46.50841,
+  "lon": 18.58713,
+  "megye": "Tolna megye"
+ },
+ "Kölked": {
+  "jaras": null,
+  "lat": 45.94824,
+  "lon": 18.70313,
+  "megye": "Baranya megye"
+ },
+ "Kömlő": {
+  "jaras": null,
+  "lat": 47.60093,
+  "lon": 20.4441,
+  "megye": "Heves megye"
+ },
+ "Kömlőd": {
+  "jaras": null,
+  "lat": 47.54709,
+  "lon": 18.26063,
+  "megye": "Komárom-Esztergom megye"
+ },
+ "Kömpöc": {
+  "jaras": null,
+  "lat": 46.46388,
+  "lon": 19.86693,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Kömörő": {
+  "jaras": null,
+  "lat": 48.02902,
+  "lon": 22.59153,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Körmend": {
+  "jaras": null,
+  "lat": 47.00871,
+  "lon": 16.60487,
+  "megye": "Vas megye"
+ },
+ "Környe": {
+  "jaras": null,
+  "lat": 47.54758,
+  "lon": 18.33185,
+  "megye": "Komárom-Esztergom megye"
  },
  "Köröm": {
   "jaras": null,
