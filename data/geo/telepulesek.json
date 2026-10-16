@@ -1,6 +1,7 @@
 {
  "120 évnél régebben születettek - Bogdása": null,
  "120 évnél régebben születettek - Bükkaranyos": null,
+ "120 évnél régebben születettek - Cserkút": null,
  "120 évnél régebben születettek - Csányoszró": null,
  "120 évnél régebben születettek - Diósviszló": null,
  "120 évnél régebben születettek - Gecse": null,
@@ -9,6 +10,12 @@
  "120 évnél régebben születettek - Vanyola": null,
  "120 évnél régebben születettek - Vokány": null,
  "120 évnél régebben születettek - Újpetre": null,
+ "3053 Ecseg": {
+  "jaras": null,
+  "lat": 47.89833,
+  "lon": 19.60263,
+  "megye": "Nógrád megye"
+ },
  "4066 Tiszacsege": {
   "jaras": null,
   "lat": 47.69755,
@@ -362,6 +369,12 @@
   "lat": 46.18632,
   "lon": 18.48021,
   "megye": "Baranya vármegye"
+ },
+ "Aranyosapáti": {
+  "jaras": null,
+  "lat": 48.21229,
+  "lon": 22.25674,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
  },
  "Aranyosgadány": {
   "jaras": null,
@@ -808,6 +821,12 @@
   "lat": 47.65051,
   "lon": 17.91965,
   "megye": "Komárom-Esztergom vármegye"
+ },
+ "Barabás": {
+  "jaras": null,
+  "lat": 48.23035,
+  "lon": 22.43073,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
  },
  "Baracs": {
   "jaras": null,
@@ -6419,6 +6438,72 @@
   "lat": 47.98293,
   "lon": 20.95307,
   "megye": "Borsod-Abaúj-Zemplén vármegye"
+ },
+ "Körösladány": {
+  "jaras": null,
+  "lat": 46.96182,
+  "lon": 21.0774,
+  "megye": "Békés megye"
+ },
+ "Körösszegapáti": {
+  "jaras": null,
+  "lat": 47.04128,
+  "lon": 21.63468,
+  "megye": "Hajdú-Bihar megye"
+ },
+ "Köröstarcsa": {
+  "jaras": null,
+  "lat": 46.88466,
+  "lon": 21.02726,
+  "megye": "Békés megye"
+ },
+ "Kötcse": {
+  "jaras": null,
+  "lat": 46.75187,
+  "lon": 17.86017,
+  "megye": "Somogy megye"
+ },
+ "Kötegyán": {
+  "jaras": null,
+  "lat": 46.7347,
+  "lon": 21.47905,
+  "megye": "Békés megye"
+ },
+ "Köveskál": {
+  "jaras": null,
+  "lat": 46.8814,
+  "lon": 17.60567,
+  "megye": "Veszprém megye"
+ },
+ "Kübekháza": {
+  "jaras": null,
+  "lat": 46.14954,
+  "lon": 20.27638,
+  "megye": "Csongrád-Csanád megye"
+ },
+ "Külsővat": {
+  "jaras": null,
+  "lat": 47.29632,
+  "lon": 17.22566,
+  "megye": "Veszprém megye"
+ },
+ "Küngös": {
+  "jaras": null,
+  "lat": 47.06601,
+  "lon": 18.17343,
+  "megye": "Veszprém megye"
+ },
+ "KŐRÖSHEGY": {
+  "jaras": null,
+  "lat": 46.83127,
+  "lon": 17.90055,
+  "megye": "Somogy megye"
+ },
+ "Kőkút": {
+  "jaras": null,
+  "lat": 46.19288,
+  "lon": 17.57456,
+  "megye": "Somogy megye"
  },
  "Kőtelek": {
   "jaras": null,
