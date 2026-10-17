@@ -6505,11 +6505,101 @@
   "lon": 17.57456,
   "megye": "Somogy megye"
  },
+ "Kőröshegy": {
+  "jaras": null,
+  "lat": 46.83127,
+  "lon": 17.90055,
+  "megye": "Somogy megye"
+ },
+ "Kőröstetétlen": {
+  "jaras": null,
+  "lat": 47.09869,
+  "lon": 20.0219,
+  "megye": "Pest megye"
+ },
+ "Kőszeg": {
+  "jaras": null,
+  "lat": 47.38949,
+  "lon": 16.54068,
+  "megye": "Vas megye"
+ },
+ "Kőszegdoroszló": {
+  "jaras": null,
+  "lat": 47.34542,
+  "lon": 16.54226,
+  "megye": "Vas megye"
+ },
+ "Kőszárhegy": {
+  "jaras": null,
+  "lat": 47.09204,
+  "lon": 18.34219,
+  "megye": "Fejér megye"
+ },
  "Kőtelek": {
   "jaras": null,
   "lat": 47.33208,
   "lon": 20.44299,
   "megye": "Jász-Nagykun-Szolnok vármegye"
+ },
+ "Kővágószőlős": {
+  "jaras": null,
+  "lat": 46.08297,
+  "lon": 18.12507,
+  "megye": "Baranya megye"
+ },
+ "Lad": {
+  "jaras": null,
+  "lat": 46.13967,
+  "lon": 17.64594,
+  "megye": "Somogy megye"
+ },
+ "Ladánybene": {
+  "jaras": null,
+  "lat": 47.03502,
+  "lon": 19.45571,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Lajoskomárom": {
+  "jaras": null,
+  "lat": 46.84178,
+  "lon": 18.33721,
+  "megye": "Fejér megye"
+ },
+ "Lajosmizse": {
+  "jaras": null,
+  "lat": 47.02647,
+  "lon": 19.55826,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Lak": {
+  "jaras": null,
+  "lat": 48.34858,
+  "lon": 20.86688,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Lakhegy": {
+  "jaras": null,
+  "lat": 46.95218,
+  "lon": 16.83226,
+  "megye": "Zala megye"
+ },
+ "Lakitelek": {
+  "jaras": null,
+  "lat": 46.87363,
+  "lon": 20.00037,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Lakócsa": {
+  "jaras": null,
+  "lat": 45.89641,
+  "lon": 17.69294,
+  "megye": "Somogy megye"
+ },
+ "Lasztonya": {
+  "jaras": null,
+  "lat": 46.55613,
+  "lon": 16.7163,
+  "megye": "Zala megye"
  },
  "Lepsény": {
   "jaras": null,

@@ -115566,6 +115566,176 @@
   ],
   "ugyiratszam": "pan/464-2/2026"
  },
+ "2242873": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072617
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0295/49"
+  ],
+  "id": 2242873,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242873",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0295/49",
+  "telepules": "Szerep",
+  "terulet_m2": 17337,
+  "terulet_raw": [
+   "1 ha 7337 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1587/2026"
+ },
+ "2242874": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072618
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0295/48"
+  ],
+  "id": 2242874,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242874",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0295/48",
+  "telepules": "Szerep",
+  "terulet_m2": 17332,
+  "terulet_raw": [
+   "1 ha 7332 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1588/2026"
+ },
+ "2242875": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072619
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0222/23"
+  ],
+  "id": 2242875,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242875",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0222/23",
+  "telepules": "Szerep",
+  "terulet_m2": 12224,
+  "terulet_raw": [
+   "1 ha 2224 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1589/2026"
+ },
+ "2242876": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072620
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "038/16"
+  ],
+  "id": 2242876,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242876",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 038/16",
+  "telepules": "Szerep",
+  "terulet_m2": 12317,
+  "terulet_raw": [
+   "1 ha 2317 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1590/2026"
+ },
+ "2242877": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072621
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/14"
+  ],
+  "id": 2242877,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242877",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/14",
+  "telepules": "Szerep",
+  "terulet_m2": 874,
+  "terulet_raw": [
+   "0,0874 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1592/2026"
+ },
  "2242882": {
   "altipus": "adás-vételére",
   "ar_ft": 120000,
@@ -115677,5 +115847,211 @@
    "1/1"
   ],
   "ugyiratszam": "pan/463-2/2026"
+ },
+ "2242885": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072598
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0308/24"
+  ],
+  "id": 2242885,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242885",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0308/24",
+  "telepules": "Szerep",
+  "terulet_m2": 9897,
+  "terulet_raw": [
+   "9897 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1580/2026"
+ },
+ "2242886": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072599
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0319/11"
+  ],
+  "id": 2242886,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242886",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0319/11",
+  "telepules": "Szerep",
+  "terulet_m2": 4444,
+  "terulet_raw": [
+   "4444 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1581/2026"
+ },
+ "2242887": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072600
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0321/43"
+  ],
+  "id": 2242887,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242887",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0321/43",
+  "telepules": "Szerep",
+  "terulet_m2": 4112,
+  "terulet_raw": [
+   "0,4112 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1582/2026"
+ },
+ "2242888": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1294130,
+  "ar_raw": [
+   "1.294.130 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1072601
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": 913676,
+  "hrsz": [
+   "075/6"
+  ],
+  "id": 2242888,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-16",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242888",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Szerep hrsz.: 075/6",
+  "telepules": "Szerep",
+  "terulet_m2": 14164,
+  "terulet_raw": [
+   "1 ha 4164 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "280/480"
+  ],
+  "ugyiratszam": "SZI/1585/2026"
+ },
+ "2242889": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072622
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0321/53"
+  ],
+  "id": 2242889,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242889",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0321/53",
+  "telepules": "Szerep",
+  "terulet_m2": 2744,
+  "terulet_raw": [
+   "0,2744 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1591/2026"
+ },
+ "2242890": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [],
+  "comparable": false,
+  "csatolmanyok": [
+   1072623
+  ],
+  "forras": "Szerep Községi Önkormányzat",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0321/44"
+  ],
+  "id": 2242890,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-17",
+  "lejarat": "2026-11-02",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2242890",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "nincs_ar",
+  "targy": "Haszonbérlet - Szerep hrsz.: 0321/44",
+  "telepules": "Szerep",
+  "terulet_m2": 35176,
+  "terulet_raw": [
+   "3 ha 5176 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZI/1583/2026"
  }
 }
