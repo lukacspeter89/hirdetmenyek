@@ -900,6 +900,12 @@
   "lon": 21.75031,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Bejcgyertyános": {
+  "jaras": null,
+  "lat": 47.14872,
+  "lon": 16.92303,
+  "megye": "Vas megye"
+ },
  "Bekecs": {
   "jaras": null,
   "lat": 48.15159,
@@ -1151,6 +1157,12 @@
   "lat": 47.3227,
   "lon": 18.2331,
   "megye": "Fejér vármegye"
+ },
+ "Bodmér": {
+  "jaras": null,
+  "lat": 47.45061,
+  "lon": 18.53703,
+  "megye": "Fejér megye"
  },
  "Bodolyabér": {
   "jaras": null,
@@ -4319,6 +4331,12 @@
   "lon": 18.0903,
   "megye": "Baranya vármegye"
  },
+ "Hejce": {
+  "jaras": null,
+  "lat": 48.42405,
+  "lon": 21.28069,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Hejőbába": {
   "jaras": null,
   "lat": 47.90507,
@@ -4416,6 +4434,12 @@
   "megye": "Borsod-Abaúj-Zemplén vármegye"
  },
  "Hernádnémeti zártkert": null,
+ "Hernádpetri": {
+  "jaras": null,
+  "lat": 48.48041,
+  "lon": 21.16171,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Hernádszentandrás": {
   "jaras": null,
   "lat": 48.28878,
@@ -5441,6 +5465,12 @@
   "lon": 17.13379,
   "megye": "Vas vármegye"
  },
+ "Keménfa": {
+  "jaras": null,
+  "lat": 46.84003,
+  "lon": 16.63894,
+  "megye": "Zala megye"
+ },
  "Kenderes": {
   "jaras": null,
   "lat": 47.24775,
@@ -6174,6 +6204,12 @@
   "lon": 18.45099,
   "megye": "Baranya megye"
  },
+ "KÓPHÁZA": {
+  "jaras": null,
+  "lat": 47.63841,
+  "lon": 16.64316,
+  "megye": "Győr-Moson-Sopron megye"
+ },
  "Kács": {
   "jaras": null,
   "lat": 47.95861,
@@ -6361,6 +6397,12 @@
   "lon": 17.36016,
   "megye": "Győr-Moson-Sopron megye"
  },
+ "Kórós": {
+  "jaras": null,
+  "lat": 45.86684,
+  "lon": 18.08188,
+  "megye": "Baranya megye"
+ },
  "Kóspallag": {
   "jaras": null,
   "lat": 47.87409,
@@ -6468,6 +6510,12 @@
   "lat": 46.7347,
   "lon": 21.47905,
   "megye": "Békés megye"
+ },
+ "Kövegy": {
+  "jaras": null,
+  "lat": 46.22335,
+  "lon": 20.68452,
+  "megye": "Csongrád-Csanád megye"
  },
  "Köveskál": {
   "jaras": null,
@@ -6601,11 +6649,48 @@
   "lon": 16.7163,
   "megye": "Zala megye"
  },
+ "Legyesbénye": {
+  "jaras": null,
+  "lat": 48.16022,
+  "lon": 21.1496,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Legénd": {
+  "jaras": null,
+  "lat": 47.87799,
+  "lon": 19.31104,
+  "megye": "Nógrád megye"
+ },
+ "Lendvadedes": {
+  "jaras": null,
+  "lat": 46.58042,
+  "lon": 16.50867,
+  "megye": "Zala megye"
+ },
+ "Lengyeltóti": {
+  "jaras": null,
+  "lat": 46.66711,
+  "lon": 17.6411,
+  "megye": "Somogy megye"
+ },
+ "Lenti": {
+  "jaras": null,
+  "lat": 46.62401,
+  "lon": 16.54259,
+  "megye": "Zala megye"
+ },
+ "Lenti zártkert": null,
  "Lepsény": {
   "jaras": null,
   "lat": 46.99467,
   "lon": 18.24436,
   "megye": "Fejér vármegye"
+ },
+ "Lesencefalu": {
+  "jaras": null,
+  "lat": 46.84484,
+  "lon": 17.34576,
+  "megye": "Veszprém megye"
  },
  "Litér": {
   "jaras": null,
