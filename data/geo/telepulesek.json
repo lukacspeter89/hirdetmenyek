@@ -346,6 +346,12 @@
   "lon": 21.93485,
   "megye": "Szabolcs-Szatmár-Bereg vármegye"
  },
+ "Aparhant": {
+  "jaras": null,
+  "lat": 46.32959,
+  "lon": 18.44869,
+  "megye": "Tolna megye"
+ },
  "Apc": {
   "jaras": null,
   "lat": 47.79635,
@@ -1098,6 +1104,12 @@
   "lon": 21.22852,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Bihartorda": {
+  "jaras": null,
+  "lat": 47.21415,
+  "lon": 21.3528,
+  "megye": "Hajdú-Bihar megye"
+ },
  "Biharugra": {
   "jaras": null,
   "lat": 46.96891,
@@ -1368,6 +1380,12 @@
   "lat": 47.32506,
   "lon": 16.49105,
   "megye": "Vas vármegye"
+ },
+ "Bozzai": {
+  "jaras": null,
+  "lat": 47.20733,
+  "lon": 16.76527,
+  "megye": "Vas megye"
  },
  "Bp. XXI. Kerület Csepel": null,
  "Bp. XXI. kerület Csepel": null,
@@ -3395,6 +3413,12 @@
   "lon": 20.41436,
   "megye": "Heves vármegye"
  },
+ "Felsőzsolca": {
+  "jaras": null,
+  "lat": 48.1041,
+  "lon": 20.86054,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
  "Felsőörs": {
   "jaras": null,
   "lat": 47.01447,
@@ -3406,6 +3430,12 @@
   "lat": 47.62163,
   "lon": 16.86458,
   "megye": "Győr-Moson-Sopron vármegye"
+ },
+ "Fertőendréd": {
+  "jaras": null,
+  "lat": 47.60516,
+  "lon": 16.90821,
+  "megye": "Győr-Moson-Sopron megye"
  },
  "Fertőhomok": {
   "jaras": null,
@@ -6691,6 +6721,66 @@
   "lat": 46.84484,
   "lon": 17.34576,
   "megye": "Veszprém megye"
+ },
+ "Lesenceistvánd": {
+  "jaras": null,
+  "lat": 46.87027,
+  "lon": 17.36101,
+  "megye": "Veszprém megye"
+ },
+ "Lesencetomaj": {
+  "jaras": null,
+  "lat": 46.85658,
+  "lon": 17.36116,
+  "megye": "Veszprém megye"
+ },
+ "Letenye": {
+  "jaras": null,
+  "lat": 46.4332,
+  "lon": 16.72308,
+  "megye": "Zala megye"
+ },
+ "Letkés": {
+  "jaras": null,
+  "lat": 47.88531,
+  "lon": 18.77691,
+  "megye": "Pest megye"
+ },
+ "Levelek": {
+  "jaras": null,
+  "lat": 47.96544,
+  "lon": 21.98681,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Levél": {
+  "jaras": null,
+  "lat": 47.89309,
+  "lon": 17.1999,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Lickóvadamos": {
+  "jaras": null,
+  "lat": 46.74464,
+  "lon": 16.77045,
+  "megye": "Zala megye"
+ },
+ "Liget": {
+  "jaras": null,
+  "lat": 46.23612,
+  "lon": 18.19132,
+  "megye": "Baranya megye"
+ },
+ "Lippó": {
+  "jaras": null,
+  "lat": 45.86458,
+  "lon": 18.57091,
+  "megye": "Baranya megye"
+ },
+ "Liptód": {
+  "jaras": null,
+  "lat": 46.04619,
+  "lon": 18.51566,
+  "megye": "Baranya megye"
  },
  "Litér": {
   "jaras": null,
