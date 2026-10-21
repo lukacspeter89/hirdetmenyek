@@ -876,6 +876,12 @@
   "lon": 17.03574,
   "megye": "Zala megye"
  },
+ "Baté": {
+  "jaras": null,
+  "lat": 46.35899,
+  "lon": 17.96278,
+  "megye": "Somogy megye"
+ },
  "Bazsi": {
   "jaras": null,
   "lat": 46.93155,
@@ -1848,6 +1854,12 @@
   "lon": 16.70784,
   "megye": "Vas vármegye"
  },
+ "CSitár": {
+  "jaras": null,
+  "lat": 48.05434,
+  "lon": 19.42925,
+  "megye": "Nógrád megye"
+ },
  "CSÓT": {
   "jaras": null,
   "lat": 47.36061,
@@ -2141,6 +2153,12 @@
   "lat": 47.07379,
   "lon": 16.94137,
   "megye": "Vas vármegye"
+ },
+ "Csitár": {
+  "jaras": null,
+  "lat": 48.05434,
+  "lon": 19.42925,
+  "megye": "Nógrád megye"
  },
  "Csobaj": {
   "jaras": null,
@@ -3028,6 +3046,7 @@
   "lon": 20.88815,
   "megye": "Hajdú-Bihar vármegye"
  },
+ "Egygházashetye": null,
  "Egyházasdengeleg": {
   "jaras": null,
   "lat": 47.79761,
@@ -3051,6 +3070,12 @@
   "lat": 45.8093,
   "lon": 18.33432,
   "megye": "Baranya vármegye"
+ },
+ "Egyházashetye": {
+  "jaras": null,
+  "lat": 47.16954,
+  "lon": 17.11971,
+  "megye": "Vas megye"
  },
  "Egyházaskesző": {
   "jaras": null,
@@ -4103,6 +4128,12 @@
   "lon": 19.13416,
   "megye": "Pest vármegye"
  },
+ "Gödre": {
+  "jaras": null,
+  "lat": 46.28636,
+  "lon": 17.97266,
+  "megye": "Baranya megye"
+ },
  "Gödöllő": {
   "jaras": null,
   "lat": 47.60153,
@@ -5145,6 +5176,12 @@
   "lat": 47.35762,
   "lon": 21.27426,
   "megye": "Hajdú-Bihar vármegye"
+ },
+ "Kaba; Kaba": {
+  "jaras": null,
+  "lat": 47.35762,
+  "lon": 21.27426,
+  "megye": "Hajdú-Bihar megye"
  },
  "Kacorlak": {
   "jaras": null,
@@ -6607,6 +6644,12 @@
   "lon": 16.54226,
   "megye": "Vas megye"
  },
+ "Kőszegszerdahely": {
+  "jaras": null,
+  "lat": 47.34063,
+  "lon": 16.51572,
+  "megye": "Vas megye"
+ },
  "Kőszárhegy": {
   "jaras": null,
   "lat": 47.09204,
@@ -6782,11 +6825,53 @@
   "lon": 18.51566,
   "megye": "Baranya megye"
  },
+ "Lipót": {
+  "jaras": null,
+  "lat": 47.86134,
+  "lon": 17.46162,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Lispeszentadorján": {
+  "jaras": null,
+  "lat": 46.54208,
+  "lon": 16.69568,
+  "megye": "Zala megye"
+ },
  "Litér": {
   "jaras": null,
   "lat": 47.09992,
   "lon": 18.0076,
   "megye": "Veszprém vármegye"
+ },
+ "Lovas": {
+  "jaras": null,
+  "lat": 46.99337,
+  "lon": 17.95881,
+  "megye": "Veszprém megye"
+ },
+ "Lovasberény": {
+  "jaras": null,
+  "lat": 47.30995,
+  "lon": 18.55267,
+  "megye": "Fejér megye"
+ },
+ "Lovászhetény": {
+  "jaras": null,
+  "lat": 46.15761,
+  "lon": 18.47531,
+  "megye": "Baranya megye"
+ },
+ "Lovászi": {
+  "jaras": null,
+  "lat": 46.55551,
+  "lon": 16.55642,
+  "megye": "Zala megye"
+ },
+ "Lovászpatona": {
+  "jaras": null,
+  "lat": 47.43916,
+  "lon": 17.63348,
+  "megye": "Veszprém megye"
  },
  "Lánycsók": {
   "jaras": null,
