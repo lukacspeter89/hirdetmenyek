@@ -52,6 +52,12 @@
   "lon": 18.96734,
   "megye": "Bács-Kiskun vármegye"
  },
+ "Aba": {
+  "jaras": null,
+  "lat": 47.02922,
+  "lon": 18.52166,
+  "megye": "Fejér megye"
+ },
  "Abaliget": {
   "jaras": null,
   "lat": 46.14098,
@@ -6873,11 +6879,95 @@
   "lon": 17.63348,
   "megye": "Veszprém megye"
  },
+ "Lucfalva": {
+  "jaras": null,
+  "lat": 48.03079,
+  "lon": 19.69058,
+  "megye": "Nógrád megye"
+ },
+ "Ludas": {
+  "jaras": null,
+  "lat": 47.73341,
+  "lon": 20.09279,
+  "megye": "Heves megye"
+ },
+ "Ludányhalászi": {
+  "jaras": null,
+  "lat": 48.13468,
+  "lon": 19.52429,
+  "megye": "Nógrád megye"
+ },
+ "Lukácsháza": {
+  "jaras": null,
+  "lat": 47.32699,
+  "lon": 16.58454,
+  "megye": "Vas megye"
+ },
+ "LÓCS": {
+  "jaras": null,
+  "lat": 47.40328,
+  "lon": 16.81567,
+  "megye": "Vas megye"
+ },
+ "Lábatlan": {
+  "jaras": null,
+  "lat": 47.74509,
+  "lon": 18.50157,
+  "megye": "Komárom-Esztergom megye"
+ },
+ "Lábod": {
+  "jaras": null,
+  "lat": 46.20775,
+  "lon": 17.45408,
+  "megye": "Somogy megye"
+ },
  "Lánycsók": {
   "jaras": null,
   "lat": 46.00482,
   "lon": 18.62361,
   "megye": "Baranya vármegye"
+ },
+ "Látrány": {
+  "jaras": null,
+  "lat": 46.74849,
+  "lon": 17.74458,
+  "megye": "Somogy megye"
+ },
+ "Lébény": {
+  "jaras": null,
+  "lat": 47.73549,
+  "lon": 17.39063,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Léh": {
+  "jaras": null,
+  "lat": 48.29229,
+  "lon": 20.98049,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Lénárddaróc": {
+  "jaras": null,
+  "lat": 48.14858,
+  "lon": 20.37197,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Létavértes": {
+  "jaras": null,
+  "lat": 47.38531,
+  "lon": 21.87641,
+  "megye": "Hajdú-Bihar megye"
+ },
+ "Lócs": {
+  "jaras": null,
+  "lat": 47.40328,
+  "lon": 16.81567,
+  "megye": "Vas megye"
+ },
+ "Lónya": {
+  "jaras": null,
+  "lat": 48.31819,
+  "lon": 22.27043,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
  },
  "Magyarcsanád": {
   "jaras": null,

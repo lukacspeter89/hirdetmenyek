@@ -153905,6 +153905,118 @@
   ],
   "ugyiratszam": "VP01-A/86/2026"
  },
+ "2243939": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 51116,
+  "ar_raw": [
+   "40000 Ft/ha"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073694
+  ],
+  "forras": "Pásztói Polgármesteri Hivatal",
+  "ft_per_ha": 40000,
+  "hrsz": [
+   "0115/19"
+  ],
+  "id": 2243939,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243939",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Pásztó hrsz.: 0115/19",
+  "telepules": "Pásztó",
+  "terulet_m2": 12779,
+  "terulet_raw": [
+   "1,2779 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "7450/2026"
+ },
+ "2243940": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 236020,
+  "ar_raw": [
+   "100.000,- Ft/ha/év",
+   "100.000,- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073695
+  ],
+  "forras": "Békéscsaba Megyei Jogú Város Polgármesteri Hivatala",
+  "ft_per_ha": 100000,
+  "hrsz": [
+   "0388/45",
+   "0388/47"
+  ],
+  "id": 2243940,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243940",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Békéscsaba hrsz.: 0388/45|Haszonbérlet - Békéscsaba hrsz.: 0388/47",
+  "telepules": "Békéscsaba",
+  "terulet_m2": 23602,
+  "terulet_raw": [
+   "1,9291ha",
+   "0,4311ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/2",
+   "1/2"
+  ],
+  "ugyiratszam": "II. 3025/2026"
+ },
+ "2243941": {
+  "altipus": "adás-vételére",
+  "ar_ft": 10000000,
+  "ar_raw": [
+   "10000000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073696
+  ],
+  "forras": "Felcsúti Közös Önkormányzati Hivatal",
+  "ft_per_ha": 46468401,
+  "hrsz": [
+   "0518/6"
+  ],
+  "id": 2243941,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243941",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Óbarok hrsz.: 0518/6",
+  "telepules": "Óbarok",
+  "terulet_m2": 2152,
+  "terulet_raw": [
+   "2152 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "F/1841/2026"
+ },
  "2243942": {
   "altipus": "haszonbérletére",
   "ar_ft": 427365,
@@ -154060,5 +154172,1228 @@
    "1/1"
   ],
   "ugyiratszam": "BÖL/1757/2026."
+ },
+ "2243946": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1613736,
+  "ar_raw": [
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év",
+   "180.000.-Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073722
+  ],
+  "forras": "Tiborszállás Község Önkormányzata",
+  "ft_per_ha": 180000,
+  "hrsz": [
+   "0177/14",
+   "0177/15",
+   "02/18",
+   "02/19",
+   "0180/37",
+   "0180/41",
+   "0180/42",
+   "0180/43"
+  ],
+  "id": 2243946,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243946",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Tiborszállás hrsz.: 0177/14|Haszonbérlet - Tiborszállás hrsz.: 0177/15|Haszonbérlet - Tiborszállás hrsz.: 02/18|Haszonbérlet - Tiborszállás hrsz.: 02/19|Haszonbérlet - Tiborszállás hrsz.: 0180/37|Haszonbérlet - Tiborszállás hrsz.: 0180/41|Haszonbérlet - Tiborszállás hrsz.: 0180/42|Haszonbérlet - Tiborszállás hrsz.: 0180/43",
+  "telepules": "Tiborszállás",
+  "terulet_m2": 89652,
+  "terulet_raw": [
+   "4911 m2",
+   "9138 m2",
+   "2 ha 7045 m2",
+   "2805 m2",
+   "6274 m2",
+   "1 ha 8154 m2",
+   "1 ha 4946 m2",
+   "6379 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "Tföld/17-1/2026"
+ },
+ "2243947": {
+  "altipus": "adás-vételére",
+  "ar_ft": 764160,
+  "ar_raw": [
+   "764.160 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073723
+  ],
+  "forras": "KÓNYI KÖZÖS ÖNKORMÁNYZATIHIVATAL",
+  "ft_per_ha": 2400000,
+  "hrsz": [
+   "0125/10."
+  ],
+  "id": 2243947,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243947",
+  "muvelesi_ag": [
+   "szánó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Kóny hrsz.: 0125/10.",
+  "telepules": "Kóny",
+  "terulet_m2": 3184,
+  "terulet_raw": [
+   "3184 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "K/778-1/2026."
+ },
+ "2243948": {
+  "altipus": "adás-vételére",
+  "ar_ft": 93503200,
+  "ar_raw": [
+   "93.503.200.-Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073724
+  ],
+  "forras": "Mezőtúri Közös Önkormányzati Hivatal",
+  "ft_per_ha": 3379275,
+  "hrsz": [
+   "0334/6"
+  ],
+  "id": 2243948,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243948",
+  "muvelesi_ag": [
+   "szántó, kivett anyaggödör"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Mezőtúr hrsz.: 0334/6",
+  "telepules": "Mezőtúr",
+  "terulet_m2": 276696,
+  "terulet_raw": [
+   "27 ha 6696 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "TUR/10216/2026"
+ },
+ "2243950": {
+  "altipus": "adás-vételére",
+  "ar_ft": null,
+  "ar_raw": [
+   "55.000.000,-"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1073726
+  ],
+  "forras": "Szigligeti Közös Önkormányzati Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0104/7 hrsz"
+  ],
+  "id": 2243950,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243950",
+  "muvelesi_ag": [
+   "szőlő és gazdasági épület"
+  ],
+  "status": "ar_nem_ertelmezheto",
+  "targy": "Adás-vétel - Szigliget hrsz.: 0104/7 hrsz",
+  "telepules": "Szigliget",
+  "terulet_m2": 3351,
+  "terulet_raw": [
+   "3351 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "SZ/754/2026"
+ },
+ "2243951": {
+  "altipus": "adás-vételére",
+  "ar_ft": 600000,
+  "ar_raw": [
+   "600.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073727
+  ],
+  "forras": "Baja Megyei Jogú Város Polgármesteri Hivatal",
+  "ft_per_ha": 4310345,
+  "hrsz": [
+   "Baja zártkert 6861"
+  ],
+  "id": 2243951,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243951",
+  "muvelesi_ag": [
+   "kert és gazdasági épület"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Baja hrsz.: Baja zártkert 6861",
+  "telepules": "Baja",
+  "terulet_m2": 1392,
+  "terulet_raw": [
+   "1392 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "05/2540/2026"
+ },
+ "2243952": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1888264,
+  "ar_raw": [
+   "70.000.- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073728
+  ],
+  "forras": "Fancsal Községi Önkormányzat",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "028/1"
+  ],
+  "id": 2243952,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243952",
+  "muvelesi_ag": [
+   "Szántó, fásított terület, erdő, út (szántó és fásított területre vonatkozóan)"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Fancsal hrsz.: 028/1",
+  "telepules": "Fancsal",
+  "terulet_m2": 269752,
+  "terulet_raw": [
+   "26,9752 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "2400/74964"
+  ],
+  "ugyiratszam": "FAN/671/2026"
+ },
+ "2243953": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1888264,
+  "ar_raw": [
+   "70.000.- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073729
+  ],
+  "forras": "Fancsal Községi Önkormányzat",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "028/1"
+  ],
+  "id": 2243953,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243953",
+  "muvelesi_ag": [
+   "Szántó, fásított terület, erdő, út (szántó és fásított területre vonatkozóan)"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Fancsal hrsz.: 028/1",
+  "telepules": "Fancsal",
+  "terulet_m2": 269752,
+  "terulet_raw": [
+   "26,9752 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "19992/74964"
+  ],
+  "ugyiratszam": "FAN/672/2026"
+ },
+ "2243954": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1888264,
+  "ar_raw": [
+   "70.000.- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073730
+  ],
+  "forras": "Fancsal Községi Önkormányzat",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "028/1"
+  ],
+  "id": 2243954,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243954",
+  "muvelesi_ag": [
+   "Szántó, fásított terület, erdő, út (szántó és fásított területre vonatkozóan)"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Fancsal hrsz.: 028/1",
+  "telepules": "Fancsal",
+  "terulet_m2": 269752,
+  "terulet_raw": [
+   "26,9752 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "282/74964"
+  ],
+  "ugyiratszam": "FAN/673/2026"
+ },
+ "2243962": {
+  "altipus": "adás-vételére",
+  "ar_ft": 3500000,
+  "ar_raw": [
+   "3.500.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073697
+  ],
+  "forras": "Balatongyöröki Közös Önkormányzati Hivatal",
+  "ft_per_ha": 39682540,
+  "hrsz": [
+   "1493/3"
+  ],
+  "id": 2243962,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-21",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243962",
+  "muvelesi_ag": [
+   "erdő, szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Várvölgy hrsz.: 1493/3",
+  "telepules": "Várvölgy",
+  "terulet_m2": 882,
+  "terulet_raw": [
+   "882 m2, 2628 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "VÁR/1656-1/2026"
+ },
+ "2243963": {
+  "altipus": "adás-vételére",
+  "ar_ft": 12466600,
+  "ar_raw": [
+   "2.064.800Ft",
+   "4.610.600 Ft",
+   "5.791.200 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073698
+  ],
+  "forras": "Lengyeltóti Közös Önkormányzati Hivatal",
+  "ft_per_ha": 2000000,
+  "hrsz": [
+   "0141/9",
+   "3036/1",
+   "0165/1"
+  ],
+  "id": 2243963,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243963",
+  "muvelesi_ag": [
+   "szántó",
+   "szántó, rét"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Fonyód hrsz.: 0141/9|Adás-vétel - Lengyeltóti hrsz.: 3036/1|Adás-vétel - Lengyeltóti hrsz.: 0165/1",
+  "telepules": "Fonyód",
+  "terulet_m2": 62333,
+  "terulet_raw": [
+   "1 ha 0324 m2",
+   "2 ha  3053 m2",
+   "2 ha 8956 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "I/4054/2026"
+ },
+ "2243964": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "55 kg búza / AK"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1073699
+  ],
+  "forras": "Győrszemerei Polgármesteri Hivatal",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0482/4"
+  ],
+  "id": 2243964,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243964",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "termeny_alapu_dij",
+  "targy": "Haszonbérlet - Győrszemere hrsz.: 0482/4",
+  "telepules": "Győrszemere",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "2,6084"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "588237/1/2026"
+ },
+ "2243965": {
+  "altipus": "adás-vételére",
+  "ar_ft": 3000000,
+  "ar_raw": [
+   "3.000.000,- Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073700
+  ],
+  "forras": "Csanádapácai Közös Önkormányzati Hivatal",
+  "ft_per_ha": 3000000,
+  "hrsz": [
+   "025/67"
+  ],
+  "id": 2243965,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243965",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Csanádapáca hrsz.: 025/67",
+  "telepules": "Csanádapáca",
+  "terulet_m2": 10000,
+  "terulet_raw": [
+   "1ha 0174nm"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "I/3715/2026"
+ },
+ "2243966": {
+  "altipus": "adás-vételére",
+  "ar_ft": 2000000,
+  "ar_raw": [
+   "2.000.000,-Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073701
+  ],
+  "forras": "Pápai Polgármesteri Hivatal",
+  "ft_per_ha": 22471910,
+  "hrsz": [
+   "21229/28"
+  ],
+  "id": 2243966,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243966",
+  "muvelesi_ag": [
+   "kert"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Pápa hrsz.: 21229/28",
+  "telepules": "Pápa",
+  "terulet_m2": 890,
+  "terulet_raw": [
+   "890 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "E07/36046/2026"
+ },
+ "2243967": {
+  "altipus": "adás-vételére",
+  "ar_ft": 200000,
+  "ar_raw": [
+   "200.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073702
+  ],
+  "forras": "Dunaszentgyörgyi Polgármesteri Hivatal",
+  "ft_per_ha": 1161440,
+  "hrsz": [
+   "1570/1."
+  ],
+  "id": 2243967,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243967",
+  "muvelesi_ag": [
+   "kert és szőlő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Dunaszentgyörgy hrsz.: 1570/1.",
+  "telepules": "Dunaszentgyörgy",
+  "terulet_m2": 1722,
+  "terulet_raw": [
+   "1722 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "2/2"
+  ],
+  "ugyiratszam": "D/378/2026"
+ },
+ "2243968": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1700000,
+  "ar_raw": [
+   "80.000 Ft",
+   "80.000 Ft",
+   "1.200.000 Ft",
+   "340.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073703
+  ],
+  "forras": "Kaposmérői Közös Önkormányzati Hivatal",
+  "ft_per_ha": 2144840,
+  "hrsz": [
+   "1025 hrsz.",
+   "1027/1. hrsz",
+   "1027/2. hrsz",
+   "1028/2 . hrsz"
+  ],
+  "id": 2243968,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243968",
+  "muvelesi_ag": [
+   "erdő",
+   "erdő, kert, szőlő, gazdasági épület",
+   "szántó",
+   "szőlő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Kaposmérő hrsz.: 1025 hrsz.|Adás-vétel - Kaposmérő hrsz.: 1027/1. hrsz|Adás-vétel - Kaposmérő hrsz.: 1027/2. hrsz|Adás-vétel - Kaposmérő hrsz.: 1028/2 . hrsz",
+  "telepules": "Kaposmérő",
+  "terulet_m2": 7926,
+  "terulet_raw": [
+   "761 m2",
+   "800 m2",
+   "2982 m2",
+   "3383 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "12/24",
+   "12/12",
+   "12/12",
+   "12/12"
+  ],
+  "ugyiratszam": "mer/2416/2026"
+ },
+ "2243969": {
+  "altipus": "adás-vételére",
+  "ar_ft": 3000000,
+  "ar_raw": [
+   "3.000.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073704
+  ],
+  "forras": "Ugodi Közös Önkormányzati Hivatal Lovászpatonai Kirendeltsége",
+  "ft_per_ha": 3586372,
+  "hrsz": [
+   "024/8"
+  ],
+  "id": 2243969,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-20",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243969",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Lovászpatona hrsz.: 024/8",
+  "telepules": "Lovászpatona",
+  "terulet_m2": 8365,
+  "terulet_raw": [
+   "8365 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "L/28-116/2026"
+ },
+ "2243970": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 78922,
+  "ar_raw": [
+   "75.000.-Ft/ha"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073705
+  ],
+  "forras": "Abai Polgármesteri Hivatal",
+  "ft_per_ha": 75000,
+  "hrsz": [
+   "050/6 hrsz"
+  ],
+  "id": 2243970,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243970",
+  "muvelesi_ag": [
+   "legelő"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Aba hrsz.: 050/6 hrsz",
+  "telepules": "Aba",
+  "terulet_m2": 10523,
+  "terulet_raw": [
+   "1 ha 0523 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "ABA/5470/2026."
+ },
+ "2243971": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 14362,
+  "ar_raw": [
+   "85.000 Ft/év/ha",
+   "50.000 Ft/ha/év",
+   "50.000 Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073706,
+   1073707
+  ],
+  "forras": "SZEDERKÉNY KÖZSÉG ÖNKORMÁNYZATA",
+  "ft_per_ha": 61667,
+  "hrsz": [
+   "1152",
+   "949",
+   "950"
+  ],
+  "id": 2243971,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243971",
+  "muvelesi_ag": [
+   "kert",
+   "kert,szőlő"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - SZEDERKÉNY hrsz.: 1152|Haszonbérlet - Szederkény hrsz.: 949|Haszonbérlet - Szederkény hrsz.: 950",
+  "telepules": "SZEDERKÉNY",
+  "terulet_m2": 2329,
+  "terulet_raw": [
+   "1420 m2",
+   "898",
+   "909 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/2",
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "SZE-964/2026"
+ },
+ "2243972": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 792918,
+  "ar_raw": [
+   "70.000,- Ft/ha/év",
+   "70.000,- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073708
+  ],
+  "forras": "Bácsalmási Közös Önkormányzati Hivatal",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "0324/8",
+   "0325/2"
+  ],
+  "id": 2243972,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243972",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Bácsalmás hrsz.: 0324/8|Haszonbérlet - Bácsalmás hrsz.: 0325/2",
+  "telepules": "Bácsalmás",
+  "terulet_m2": 113274,
+  "terulet_raw": [
+   "6537 m2",
+   "10 ha 6737 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "376/1504",
+   "2476/84716"
+  ],
+  "ugyiratszam": "B/5582/2026"
+ },
+ "2243973": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 235140,
+  "ar_raw": [
+   "100.000 Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073709
+  ],
+  "forras": "Kónyi Közös Önkormányzati Hivatal Rábcakapi Kirendeltsége",
+  "ft_per_ha": 100000,
+  "hrsz": [
+   "08/10."
+  ],
+  "id": 2243973,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243973",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Rábcakapi hrsz.: 08/10.",
+  "telepules": "Rábcakapi",
+  "terulet_m2": 23514,
+  "terulet_raw": [
+   "2 ha 3514 m2"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "Rk/141-1/2026."
+ },
+ "2243974": {
+  "altipus": "haszonbérletére",
+  "ar_ft": null,
+  "ar_raw": [
+   "3000 Ft/AK/ÉV"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1073710
+  ],
+  "forras": "Sopron Megyei Jogú Város Polgármesteri Hivatala",
+  "ft_per_ha": null,
+  "hrsz": [
+   "01028/53"
+  ],
+  "id": 2243974,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243974",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "aranykorona_alapu_dij",
+  "targy": "Haszonbérlet - Sopron hrsz.: 01028/53",
+  "telepules": "Sopron",
+  "terulet_m2": 1370,
+  "terulet_raw": [
+   "0,1370 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1/4"
+  ],
+  "ugyiratszam": "40579-1/2026"
+ },
+ "2243976": {
+  "altipus": "adás-vételére",
+  "ar_ft": 684000,
+  "ar_raw": [
+   "684.000,- Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073712
+  ],
+  "forras": "Bácsalmási Közös Önkormányzati Hivatal",
+  "ft_per_ha": 126085,
+  "hrsz": [
+   "0463/16"
+  ],
+  "id": 2243976,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243976",
+  "muvelesi_ag": [
+   "legelő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Bácsalmás hrsz.: 0463/16",
+  "telepules": "Bácsalmás",
+  "terulet_m2": 54249,
+  "terulet_raw": [
+   "5 ha 4249 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "2374/16036"
+  ],
+  "ugyiratszam": "B/5583/2026"
+ },
+ "2243977": {
+  "altipus": "adás-vételére",
+  "ar_ft": 20000000,
+  "ar_raw": [
+   "együttes:10.000.000 Ft",
+   "együttes: 10.000.000 Ft"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1073713
+  ],
+  "forras": "Sopron Megyei Jogú Város Polgármesteri Hivatala",
+  "ft_per_ha": null,
+  "hrsz": [
+   "01048/56",
+   "01048/55"
+  ],
+  "id": 2243977,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243977",
+  "muvelesi_ag": [
+   "rét"
+  ],
+  "status": "terulet_hianyos",
+  "targy": "Adás-vétel - Sopron hrsz.: 01048/56|Adás-vétel - Sopron hrsz.: 01048/55",
+  "telepules": "Sopron",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "1680 nm",
+   "1734 nm"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "40581-1/2026"
+ },
+ "2243978": {
+  "altipus": "adás-vételére",
+  "ar_ft": 23612120,
+  "ar_raw": [
+   "23 612 120 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073714
+  ],
+  "forras": "Szalkszentmártoni Polgármesteri Hivatal",
+  "ft_per_ha": 2800066,
+  "hrsz": [
+   "0176/32"
+  ],
+  "id": 2243978,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243978",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Szalkszentmárton hrsz.: 0176/32",
+  "telepules": "Szalkszentmárton",
+  "terulet_m2": 84327,
+  "terulet_raw": [
+   "8 ha 4327 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "3708/2026"
+ },
+ "2243979": {
+  "altipus": "adás-vételére",
+  "ar_ft": 12500000,
+  "ar_raw": [
+   "2.000.000 Ft",
+   "2.500.000 Ft",
+   "2.000.000.- Ft",
+   "2.000.000 Ft",
+   "4.000.000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073715
+  ],
+  "forras": "Balatongyöröki Közös Önkormányzati Hivatal",
+  "ft_per_ha": 11289740,
+  "hrsz": [
+   "1911",
+   "1916",
+   "1912/2",
+   "1914",
+   "1915"
+  ],
+  "id": 2243979,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-21",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243979",
+  "muvelesi_ag": [
+   "gyümölcsös és gazdasági épület, rét",
+   "gyümölcsös és gazdasági épület, szőlő, rét",
+   "gyümölcsös és út, szőlő",
+   "rét és gazdasági épület, szőlő",
+   "szőlő és gazdasági épület"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Várvölgy hrsz.: 1911|Adás-vétel - Várvölgy hrsz.: 1916|Adás-vétel - Várvölgy hrsz.: 1912/2|Adás-vétel - Várvölgy hrsz.: 1914|Adás-vétel - Várvölgy hrsz.: 1915",
+  "telepules": "Várvölgy",
+  "terulet_m2": 11072,
+  "terulet_raw": [
+   "1649 m2",
+   "2099 m2",
+   "1769 m2",
+   "1944 m2",
+   "3611 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": "VÁR/1657-1/2026"
+ },
+ "2243980": {
+  "altipus": "adás-vételére",
+  "ar_ft": 8000000,
+  "ar_raw": [
+   "4.000.000,-Ft egybefoglalt vételár",
+   "4.000.000,-Ft egybefoglalt vételár"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073716
+  ],
+  "forras": "Keceli Közös Önkormányzati Hivatal",
+  "ft_per_ha": 13850416,
+  "hrsz": [
+   "05/2,  05/3,  05/4,  05/6",
+   "05/5"
+  ],
+  "id": 2243980,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243980",
+  "muvelesi_ag": [
+   "szántó  /  szőlő és árok  /  szántó és gazdasági épület / szántó",
+   "szőlő és árok"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Kecel hrsz.: 05/2,  05/3,  05/4,  05/6|Adás-vétel - Kecel hrsz.: 05/5",
+  "telepules": "Kecel",
+  "terulet_m2": 5776,
+  "terulet_raw": [
+   "3148m2  /  3296m2  /  2424m2  /  2792m2",
+   "2628m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/2"
+  ],
+  "ugyiratszam": "KEC/7475/2026"
+ },
+ "2243981": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1888264,
+  "ar_raw": [
+   "70.000.- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073717
+  ],
+  "forras": "Fancsal Községi Önkormányzat",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "028/1"
+  ],
+  "id": 2243981,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243981",
+  "muvelesi_ag": [
+   "Szántó, fásított terület, erdő, út (szántó és fásított területre vonatkozóan)"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Fancsal hrsz.: 028/1",
+  "telepules": "Fancsal",
+  "terulet_m2": 269752,
+  "terulet_raw": [
+   "26,9752 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "19272/74964"
+  ],
+  "ugyiratszam": "FAN/669/2026"
+ },
+ "2243982": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1000000,
+  "ar_raw": [
+   "300.000,-Ft",
+   "150.000,-Ft",
+   "250.000,-Ft",
+   "300.000,-Ft"
+  ],
+  "comparable": false,
+  "csatolmanyok": [
+   1073718
+  ],
+  "forras": "Visontai Közös Önkormányzati Hivatal Atkári Kirendeltség",
+  "ft_per_ha": null,
+  "hrsz": [
+   "0101/64",
+   "0101/119",
+   "0101/120",
+   "0101/226"
+  ],
+  "id": 2243982,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243982",
+  "muvelesi_ag": [
+   "szántó"
+  ],
+  "status": "terulet_hianyos",
+  "targy": "Adás-vétel - Atkár hrsz.: 0101/64 |Adás-vétel - Atkár hrsz.: 0101/119|Adás-vétel - Atkár hrsz.: 0101/120|Adás-vétel - Atkár hrsz.: 0101/226",
+  "telepules": "Atkár",
+  "terulet_m2": null,
+  "terulet_raw": [
+   "3076 nm",
+   "1525nm",
+   "2543nm",
+   "3076nm"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1",
+   "1/1",
+   "1/1",
+   "1/1"
+  ],
+  "ugyiratszam": null
+ },
+ "2243983": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1888264,
+  "ar_raw": [
+   "70.000.- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073719
+  ],
+  "forras": "Fancsal Községi Önkormányzat",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "028/1"
+  ],
+  "id": 2243983,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243983",
+  "muvelesi_ag": [
+   "Szántó, fásított terület, erdő, út (szántó és fásított területre vonatkozóan)"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Fancsal hrsz.: 028/1",
+  "telepules": "Fancsal",
+  "terulet_m2": 269752,
+  "terulet_raw": [
+   "26,9752 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "1289/74964"
+  ],
+  "ugyiratszam": "FAN/670/2026"
+ },
+ "2243984": {
+  "altipus": "haszonbérletére",
+  "ar_ft": 1888264,
+  "ar_raw": [
+   "70.000.- Ft/ha/év"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073720
+  ],
+  "forras": "Fancsal Községi Önkormányzat",
+  "ft_per_ha": 70000,
+  "hrsz": [
+   "028/1"
+  ],
+  "id": 2243984,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-06",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243984",
+  "muvelesi_ag": [
+   "Szántó, fásított terület, erdő, út (szántó és fásított területre vonatkozóan)"
+  ],
+  "status": "ok",
+  "targy": "Haszonbérlet - Fancsal hrsz.: 028/1",
+  "telepules": "Fancsal",
+  "terulet_m2": 269752,
+  "terulet_raw": [
+   "26,9752 ha"
+  ],
+  "tipus": "haszonberlet",
+  "tulajdoni_hanyad": [
+   "282/74964"
+  ],
+  "ugyiratszam": "FAN/674/2026"
+ },
+ "2243985": {
+  "altipus": "adás-vételére",
+  "ar_ft": 2500000,
+  "ar_raw": [
+   "2.500.000.- Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073721
+  ],
+  "forras": "Nagyszekeresi Közös Önkormányzati Hivatal",
+  "ft_per_ha": 27144408,
+  "hrsz": [
+   "0131/2"
+  ],
+  "id": 2243985,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-22",
+  "lejarat": "2026-11-23",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243985",
+  "muvelesi_ag": [
+   "kivett tanya, szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Zsarolyán hrsz.: 0131/2",
+  "telepules": "Zsarolyán",
+  "terulet_m2": 921,
+  "terulet_raw": [
+   "921 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "ZSA/595/2026"
  }
 }
