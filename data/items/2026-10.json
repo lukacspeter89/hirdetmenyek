@@ -154309,6 +154309,47 @@
   ],
   "ugyiratszam": "TUR/10216/2026"
  },
+ "2243949": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1050000,
+  "ar_raw": [
+   "350 000Ft",
+   "700 000 Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073725
+  ],
+  "forras": "Gödöllői Polgármesteri Hivatal",
+  "ft_per_ha": 1841782,
+  "hrsz": [
+   "7273",
+   "7274"
+  ],
+  "id": 2243949,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-26",
+  "lejarat": "2026-11-24",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243949",
+  "muvelesi_ag": [
+   "kert",
+   "szántó"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Gödöllő hrsz.: 7273|Adás-vétel - Gödöllő hrsz.: 7274",
+  "telepules": "Gödöllő",
+  "terulet_m2": 5701,
+  "terulet_raw": [
+   "1091m2",
+   "4610 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "12/16",
+   "12/16"
+  ],
+  "ugyiratszam": "111/2929/2026"
+ },
  "2243950": {
   "altipus": "adás-vételére",
   "ar_ft": null,
@@ -154995,6 +155036,42 @@
   ],
   "ugyiratszam": "40579-1/2026"
  },
+ "2243975": {
+  "altipus": "adás-vételére",
+  "ar_ft": 11000000,
+  "ar_raw": [
+   "11 000 000Ft"
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073711
+  ],
+  "forras": "Gödöllői Polgármesteri Hivatal",
+  "ft_per_ha": 39956411,
+  "hrsz": [
+   "0195/7"
+  ],
+  "id": 2243975,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-26",
+  "lejarat": "2026-11-24",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243975",
+  "muvelesi_ag": [
+   "szőlő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Gödöllő hrsz.: 0195/7",
+  "telepules": "Gödöllő",
+  "terulet_m2": 2753,
+  "terulet_raw": [
+   "2753 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "111/2928/2026"
+ },
  "2243976": {
   "altipus": "adás-vételére",
   "ar_ft": 684000,
@@ -155395,5 +155472,41 @@
    "1/1"
   ],
   "ugyiratszam": "ZSA/595/2026"
+ },
+ "2243986": {
+  "altipus": "adás-vételére",
+  "ar_ft": 1500000,
+  "ar_raw": [
+   "1.500.000.- Ft."
+  ],
+  "comparable": true,
+  "csatolmanyok": [
+   1073742
+  ],
+  "forras": "Balatonudvari Község Önkormányzata",
+  "ft_per_ha": 3334074,
+  "hrsz": [
+   "063/7 hrsz"
+  ],
+  "id": 2243986,
+  "kategoria": "Föld",
+  "kifuggesztes": "2026-10-25",
+  "lejarat": "2026-11-24",
+  "link": "https://hirdetmenyek.gov.hu/reszletezo/2243986",
+  "muvelesi_ag": [
+   "erdő"
+  ],
+  "status": "ok",
+  "targy": "Adás-vétel - Balatonudvari hrsz.: 063/7 hrsz",
+  "telepules": "Balatonudvari",
+  "terulet_m2": 4499,
+  "terulet_raw": [
+   "4499 m2"
+  ],
+  "tipus": "adasvetel",
+  "tulajdoni_hanyad": [
+   "1/1"
+  ],
+  "ugyiratszam": "04/1684/2026"
  }
 }

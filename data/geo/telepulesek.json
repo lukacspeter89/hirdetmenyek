@@ -6969,6 +6969,96 @@
   "lon": 22.27043,
   "megye": "Szabolcs-Szatmár-Bereg megye"
  },
+ "Lórév": {
+  "jaras": null,
+  "lat": 47.11574,
+  "lon": 18.8966,
+  "megye": "Pest megye"
+ },
+ "Lövő": {
+  "jaras": null,
+  "lat": 47.50346,
+  "lon": 16.78272,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Lúzsok": {
+  "jaras": null,
+  "lat": 45.83782,
+  "lon": 17.94353,
+  "megye": "Baranya megye"
+ },
+ "Lőkösháza": {
+  "jaras": null,
+  "lat": 46.42976,
+  "lon": 21.23072,
+  "megye": "Békés megye"
+ },
+ "Lőrinci": {
+  "jaras": null,
+  "lat": 47.74005,
+  "lon": 19.67731,
+  "megye": "Heves megye"
+ },
+ "MEZŐKÖVESD": {
+  "jaras": null,
+  "lat": 47.80975,
+  "lon": 20.56609,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "MONYORÓD": {
+  "jaras": null,
+  "lat": 46.01028,
+  "lon": 18.47715,
+  "megye": "Baranya megye"
+ },
+ "MUCSFA": {
+  "jaras": null,
+  "lat": 46.35512,
+  "lon": 18.41906,
+  "megye": "Tolna megye"
+ },
+ "MUHI": {
+  "jaras": null,
+  "lat": 47.97959,
+  "lon": 20.9289,
+  "megye": "Borsod-Abaúj-Zemplén megye"
+ },
+ "Madaras": {
+  "jaras": null,
+  "lat": 46.05713,
+  "lon": 19.25987,
+  "megye": "Bács-Kiskun megye"
+ },
+ "Madocsa": {
+  "jaras": null,
+  "lat": 46.68807,
+  "lon": 18.9567,
+  "megye": "Tolna megye"
+ },
+ "Maglód": {
+  "jaras": null,
+  "lat": 47.44496,
+  "lon": 19.35931,
+  "megye": "Pest megye"
+ },
+ "Magy": {
+  "jaras": null,
+  "lat": 47.94041,
+  "lon": 21.98229,
+  "megye": "Szabolcs-Szatmár-Bereg megye"
+ },
+ "Magyaralmás": {
+  "jaras": null,
+  "lat": 47.2957,
+  "lon": 18.32418,
+  "megye": "Fejér megye"
+ },
+ "Magyaratád": {
+  "jaras": null,
+  "lat": 46.46737,
+  "lon": 17.90058,
+  "megye": "Somogy megye"
+ },
  "Magyarcsanád": {
   "jaras": null,
   "lat": 46.16967,
