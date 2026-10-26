@@ -3492,6 +3492,12 @@
   "lon": 16.83427,
   "megye": "Győr-Moson-Sopron vármegye"
  },
+ "Fityeház": {
+  "jaras": null,
+  "lat": 46.37483,
+  "lon": 16.90569,
+  "megye": "Zala megye"
+ },
  "Foktő": {
   "jaras": null,
   "lat": 46.52901,
@@ -3833,6 +3839,12 @@
   "lat": 46.30072,
   "lon": 17.60855,
   "megye": "Somogy vármegye"
+ },
+ "Girincs": {
+  "jaras": null,
+  "lat": 47.96984,
+  "lon": 20.98458,
+  "megye": "Borsod-Abaúj-Zemplén megye"
  },
  "Golop": {
   "jaras": null,
@@ -7059,11 +7071,89 @@
   "lon": 17.90058,
   "megye": "Somogy megye"
  },
+ "Magyarbánhegyes": {
+  "jaras": null,
+  "lat": 46.45526,
+  "lon": 20.96429,
+  "megye": "Békés megye"
+ },
  "Magyarcsanád": {
   "jaras": null,
   "lat": 46.16967,
   "lon": 20.60993,
   "megye": "Csongrád-Csanád vármegye"
+ },
+ "Magyardombegyház": {
+  "jaras": null,
+  "lat": 46.37979,
+  "lon": 21.07222,
+  "megye": "Békés megye"
+ },
+ "Magyaregres": {
+  "jaras": null,
+  "lat": 46.46018,
+  "lon": 17.76963,
+  "megye": "Somogy megye"
+ },
+ "Magyargencs": {
+  "jaras": null,
+  "lat": 47.3754,
+  "lon": 17.28692,
+  "megye": "Veszprém megye"
+ },
+ "Magyarhomorog": {
+  "jaras": null,
+  "lat": 47.02145,
+  "lon": 21.5429,
+  "megye": "Hajdú-Bihar megye"
+ },
+ "Magyarkeresztúr": {
+  "jaras": null,
+  "lat": 47.52142,
+  "lon": 17.16546,
+  "megye": "Győr-Moson-Sopron megye"
+ },
+ "Magyarkeszi": {
+  "jaras": null,
+  "lat": 46.7487,
+  "lon": 18.22537,
+  "megye": "Tolna megye"
+ },
+ "Magyarlukafa": {
+  "jaras": null,
+  "lat": 46.16765,
+  "lon": 17.75695,
+  "megye": "Baranya megye"
+ },
+ "Magyarmecske": {
+  "jaras": null,
+  "lat": 45.9449,
+  "lon": 17.96422,
+  "megye": "Baranya megye"
+ },
+ "Magyarnádalja": {
+  "jaras": null,
+  "lat": 47.00958,
+  "lon": 16.53259,
+  "megye": "Vas megye"
+ },
+ "Magyarnándor": {
+  "jaras": null,
+  "lat": 47.96757,
+  "lon": 19.34877,
+  "megye": "Nógrád megye"
+ },
+ "Magyarpolány": {
+  "jaras": null,
+  "lat": 47.16853,
+  "lon": 17.55014,
+  "megye": "Veszprém megye"
+ },
+ "Magyarszecsőd": {
+  "jaras": null,
+  "lat": 47.03639,
+  "lon": 16.64992,
+  "megye": "Vas megye"
  },
  "Maroslele": {
   "jaras": null,
